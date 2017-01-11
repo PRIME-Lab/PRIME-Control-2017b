@@ -1,6 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{1994640D-7E89-4089-8C4C-7F4F93AE8C48}" Type="Ref">/My Computer/Dependencies/Low energy end llb.lvlib/le fc array</Property>
+	<Property Name="varPersistentID:{275888A4-7FDF-48AB-9981-4A8AA8BA851F}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/he fc array</Property>
+	<Property Name="varPersistentID:{4B8BD63D-822B-4A1A-828D-3446641B5264}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/le fc array output</Property>
+	<Property Name="varPersistentID:{8DDEB982-75EF-4AFF-A112-A11F1E5BD7CC}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/trans fc array input</Property>
+	<Property Name="varPersistentID:{A740B035-DBD4-4117-86FE-13CDB391D829}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/cup location</Property>
+	<Property Name="varPersistentID:{E814521D-FDAA-48CE-9865-95804E2C3045}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/HE FC output array</Property>
+	<Property Name="varPersistentID:{EDD199FD-0189-48BB-ADC3-BFBB82DB26BE}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/Transmission Fc Array</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -25,16 +32,42 @@
 		<Item Name="controls" Type="Folder"/>
 		<Item Name="Main Control.vi" Type="VI" URL="../Main Control.vi"/>
 		<Item Name="main.lvlib" Type="Library" URL="../Main/main.lvlib"/>
-		<Item Name="beamline sections.lvlib" Type="Library" URL="../Beamline section VIs/beamline sections.lvlib"/>
+		<Item Name="beamline sections.lvlib" Type="Library" URL="../Beamline sections/beamline sections.lvlib"/>
 		<Item Name="tools.lvlib" Type="Library" URL="../Tools/tools.lvlib"/>
+		<Item Name="Save Load.lvlib" Type="Library" URL="../Main/Save Load.lvlib"/>
+		<Item Name="save or load.ctl" Type="VI" URL="../Main/save or load.ctl"/>
+		<Item Name="all or current.ctl" Type="VI" URL="../Main/all or current.ctl"/>
+		<Item Name="file or temp.ctl" Type="VI" URL="../Main/file or temp.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="select vi.vi" Type="VI" URL="../control vi/main/main/select vi.vi"/>
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+			</Item>
 			<Item Name="Complete save.vi" Type="VI" URL="../control vi/main/save load/Complete save.vi"/>
 			<Item Name="stop vi&apos;s.vi" Type="VI" URL="../control vi/main/main/stop vi&apos;s.vi"/>
-			<Item Name="pop vi.vi" Type="VI" URL="../control vi/main/main/pop vi.vi"/>
-			<Item Name="upper sub sel.vi" Type="VI" URL="../control vi/main/main/upper sub sel.vi"/>
-			<Item Name="upper pop.vi" Type="VI" URL="../control vi/main/main/upper pop.vi"/>
-			<Item Name="saveload.ctl" Type="VI" URL="../control vi/main/save load/saveload.ctl"/>
+			<Item Name="ZPL Initialize.vi" Type="VI" URL="../../addons/ZPLus/ZPL Initialize.vi"/>
+			<Item Name="ZPL Config Output ON-OFF.vi" Type="VI" URL="../../addons/ZPLus/Configuration/ZPL Config Output ON-OFF.vi"/>
+			<Item Name="ZPL Config Voltage Limit.vi" Type="VI" URL="../../addons/ZPLus/Configuration/ZPL Config Voltage Limit.vi"/>
+			<Item Name="ZPL Config Current Limit.vi" Type="VI" URL="../../addons/ZPLus/Configuration/ZPL Config Current Limit.vi"/>
+			<Item Name="ZPL Read Set Voltage.vi" Type="VI" URL="../../addons/ZPLus/Action_Status/ZPL Read Set Voltage.vi"/>
+			<Item Name="ZPL Read Set Current.vi" Type="VI" URL="../../addons/ZPLus/Action_Status/ZPL Read Set Current.vi"/>
+			<Item Name="ZPL Meas Output Current.vi" Type="VI" URL="../../addons/ZPLus/Data/ZPL Meas Output Current.vi"/>
+			<Item Name="ZPL Meas Output Voltage.vi" Type="VI" URL="../../addons/ZPLus/Data/ZPL Meas Output Voltage.vi"/>
+			<Item Name="ZPL Meas Output Power.vi" Type="VI" URL="../../addons/ZPLus/Data/ZPL Meas Output Power.vi"/>
+			<Item Name="saveload.ctl" Type="VI" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/main/save load/saveload.ctl"/>
+			<Item Name="bpm.vi" Type="VI" URL="../../Tools/bpm.vi"/>
+			<Item Name="Speed calculator.vi" Type="VI" URL="../../Tools/Speed calculator.vi"/>
+			<Item Name="terminal voltage readbacks.vi" Type="VI" URL="../../Tools/terminal voltage readbacks.vi"/>
+			<Item Name="Scale.vi" Type="VI" URL="../../Tools/Scale.vi"/>
+			<Item Name="Change Foil.vi" Type="VI" URL="../../Tools/Change Foil.vi"/>
+			<Item Name="General settings for run.vi" Type="VI" URL="../../Tools/General settings for run.vi"/>
+			<Item Name="flat top.vi" Type="VI" URL="../../Tools/flat top.vi"/>
+			<Item Name="injector magnet.vi" Type="VI" URL="../../Tools/injector magnet.vi"/>
+			<Item Name="small current measurement.vi" Type="VI" URL="../../Tools/small current measurement.vi"/>
+			<Item Name="zero values.vi" Type="VI" URL="../../Tools/zero values.vi"/>
+			<Item Name="Low energy end llb.lvlib" Type="Library" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/low energy end/Low energy end/Low energy end llb.lvlib"/>
+			<Item Name="ion source llb.lvlib" Type="Library" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/ion Source/Ion Source/ion source llb.lvlib"/>
+			<Item Name="save local.vi" Type="VI" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/save load/save local.vi"/>
+			<Item Name="save file main 1.vi" Type="VI" URL="../../save load/save file main 1.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="control software" Type="EXE">

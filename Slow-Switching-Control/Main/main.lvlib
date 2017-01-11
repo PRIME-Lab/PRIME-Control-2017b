@@ -5,8 +5,14 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="beamline selection.ctl" Type="VI" URL="../beamline selection.ctl"/>
+	<Item Name="case select bl section.vi" Type="VI" URL="../case select bl section.vi"/>
+	<Item Name="case select tools.vi" Type="VI" URL="../case select tools.vi"/>
 	<Item Name="main control case.ctl" Type="VI" URL="../main control case.ctl"/>
 	<Item Name="main-run_time_menu.rtm" Type="Document" URL="../main-run_time_menu.rtm"/>
+	<Item Name="pop lower panel.vi" Type="VI" URL="../pop lower panel.vi"/>
+	<Item Name="pop upper panel.vi" Type="VI" URL="../pop upper panel.vi"/>
 	<Item Name="run vis.vi" Type="VI" URL="../run vis.vi"/>
+	<Item Name="select bl section.vi" Type="VI" URL="../select bl section.vi"/>
+	<Item Name="select tools.vi" Type="VI" URL="../select tools.vi"/>
 	<Item Name="tool selection.ctl" Type="VI" URL="../tool selection.ctl"/>
 </Library>
