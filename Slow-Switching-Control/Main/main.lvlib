@@ -9,6 +9,7 @@
 	<Item Name="case select tools.vi" Type="VI" URL="../case select tools.vi"/>
 	<Item Name="main control case.ctl" Type="VI" URL="../main control case.ctl"/>
 	<Item Name="main-run_time_menu.rtm" Type="Document" URL="../main-run_time_menu.rtm"/>
+	<Item Name="page nav.ctl" Type="VI" URL="../page nav.ctl"/>
 	<Item Name="pop lower panel.vi" Type="VI" URL="../pop lower panel.vi"/>
 	<Item Name="pop upper panel.vi" Type="VI" URL="../pop upper panel.vi"/>
 	<Item Name="run vis.vi" Type="VI" URL="../run vis.vi"/>

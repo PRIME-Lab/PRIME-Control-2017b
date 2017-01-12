@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{1994640D-7E89-4089-8C4C-7F4F93AE8C48}" Type="Ref">/My Computer/Dependencies/Low energy end llb.lvlib/le fc array</Property>
-	<Property Name="varPersistentID:{275888A4-7FDF-48AB-9981-4A8AA8BA851F}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/he fc array</Property>
-	<Property Name="varPersistentID:{4B8BD63D-822B-4A1A-828D-3446641B5264}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/le fc array output</Property>
-	<Property Name="varPersistentID:{8DDEB982-75EF-4AFF-A112-A11F1E5BD7CC}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/trans fc array input</Property>
-	<Property Name="varPersistentID:{A740B035-DBD4-4117-86FE-13CDB391D829}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/cup location</Property>
-	<Property Name="varPersistentID:{E814521D-FDAA-48CE-9865-95804E2C3045}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/HE FC output array</Property>
-	<Property Name="varPersistentID:{EDD199FD-0189-48BB-ADC3-BFBB82DB26BE}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/Transmission Fc Array</Property>
+	<Property Name="varPersistentID:{0601CC13-0F21-4411-99A6-2B69ED992B68}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/trans fc array input</Property>
+	<Property Name="varPersistentID:{6B867F36-7817-4EDA-A062-BA71B865BA17}" Type="Ref">/My Computer/Dependencies/Items in Memory/R30  library.lvlib/cup location</Property>
+	<Property Name="varPersistentID:{9A6932F9-F45E-4B0F-B0AD-EE1F9872DDF6}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/le fc array output</Property>
+	<Property Name="varPersistentID:{BA67A679-1786-44D3-9ADF-AD6C8D97F4D2}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/he fc array</Property>
+	<Property Name="varPersistentID:{BB799EB3-DCE4-4D68-9769-47A472373CB7}" Type="Ref">/My Computer/Dependencies/Items in Memory/transmission.lvlib/Transmission Fc Array</Property>
+	<Property Name="varPersistentID:{CD5EE18F-53D9-4B4C-90D1-9E566CD84B2E}" Type="Ref">/My Computer/Dependencies/Low energy end llb.lvlib/le fc array</Property>
+	<Property Name="varPersistentID:{D7BF6869-6F9F-44D7-8D0A-9FDBDD0CE34B}" Type="Ref">/My Computer/Dependencies/Items in Memory/High energy llb.lvlib/HE FC output array</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -35,14 +35,10 @@
 		<Item Name="beamline sections.lvlib" Type="Library" URL="../Beamline sections/beamline sections.lvlib"/>
 		<Item Name="tools.lvlib" Type="Library" URL="../Tools/tools.lvlib"/>
 		<Item Name="Save Load.lvlib" Type="Library" URL="../Main/Save Load.lvlib"/>
-		<Item Name="save or load.ctl" Type="VI" URL="../Main/save or load.ctl"/>
-		<Item Name="all or current.ctl" Type="VI" URL="../Main/all or current.ctl"/>
-		<Item Name="file or temp.ctl" Type="VI" URL="../Main/file or temp.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
-			<Item Name="Complete save.vi" Type="VI" URL="../control vi/main/save load/Complete save.vi"/>
 			<Item Name="stop vi&apos;s.vi" Type="VI" URL="../control vi/main/main/stop vi&apos;s.vi"/>
 			<Item Name="ZPL Initialize.vi" Type="VI" URL="../../addons/ZPLus/ZPL Initialize.vi"/>
 			<Item Name="ZPL Config Output ON-OFF.vi" Type="VI" URL="../../addons/ZPLus/Configuration/ZPL Config Output ON-OFF.vi"/>
@@ -61,13 +57,14 @@
 			<Item Name="Change Foil.vi" Type="VI" URL="../../Tools/Change Foil.vi"/>
 			<Item Name="General settings for run.vi" Type="VI" URL="../../Tools/General settings for run.vi"/>
 			<Item Name="flat top.vi" Type="VI" URL="../../Tools/flat top.vi"/>
-			<Item Name="injector magnet.vi" Type="VI" URL="../../Tools/injector magnet.vi"/>
 			<Item Name="small current measurement.vi" Type="VI" URL="../../Tools/small current measurement.vi"/>
 			<Item Name="zero values.vi" Type="VI" URL="../../Tools/zero values.vi"/>
 			<Item Name="Low energy end llb.lvlib" Type="Library" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/low energy end/Low energy end/Low energy end llb.lvlib"/>
+			<Item Name="INj Global.vi" Type="VI" URL="../Tools/Features/features/field/INj Global.vi"/>
+			<Item Name="Scalec injector.vi" Type="VI" URL="../Tools/Features/features/field/Scalec injector.vi"/>
 			<Item Name="ion source llb.lvlib" Type="Library" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/ion Source/Ion Source/ion source llb.lvlib"/>
 			<Item Name="save local.vi" Type="VI" URL="../../../../../Users/wymanm/Desktop/Control computer - Copy/control/control vi/save load/save local.vi"/>
-			<Item Name="save file main 1.vi" Type="VI" URL="../../save load/save file main 1.vi"/>
+			<Item Name="injector magnet.vi" Type="VI" URL="../Tools/VIs/injector magnet.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="control software" Type="EXE">

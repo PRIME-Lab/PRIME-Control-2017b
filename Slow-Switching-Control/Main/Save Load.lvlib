@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="all or current.ctl" Type="VI" URL="../all or current.ctl"/>
+	<Item Name="file or temp.ctl" Type="VI" URL="../file or temp.ctl"/>
 	<Item Name="save load method.ctl" Type="VI" URL="../save load method.ctl"/>
 	<Item Name="Save Load.vi" Type="VI" URL="../Save Load.vi"/>
+	<Item Name="save or load.ctl" Type="VI" URL="../save or load.ctl"/>
 </Library>
