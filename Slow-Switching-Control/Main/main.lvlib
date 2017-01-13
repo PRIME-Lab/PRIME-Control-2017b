@@ -15,5 +15,6 @@
 	<Item Name="run vis.vi" Type="VI" URL="../run vis.vi"/>
 	<Item Name="select bl section.vi" Type="VI" URL="../select bl section.vi"/>
 	<Item Name="select tools.vi" Type="VI" URL="../select tools.vi"/>
+	<Item Name="stop vis.vi" Type="VI" URL="../stop vis.vi"/>
 	<Item Name="tool selection.ctl" Type="VI" URL="../tool selection.ctl"/>
 </Library>

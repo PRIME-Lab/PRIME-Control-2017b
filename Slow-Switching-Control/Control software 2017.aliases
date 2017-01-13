@@ -28,6 +28,9 @@ R45-1-cRIO = "192.168.1.80"
 [R45-2-cRIO]
 R45-2-cRIO = "192.168.1.9"
 
+[SCA-cRIO]
+SCA-cRIO = "192.168.1.180"
+
 [Trans-cRIO]
 Trans-cRIO = "192.168.1.91"
 
