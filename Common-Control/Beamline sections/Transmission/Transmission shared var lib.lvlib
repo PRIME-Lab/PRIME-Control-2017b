@@ -10,15 +10,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image convectron 1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze image convectron 1</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image convectron 1</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze image convectron 2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -26,15 +24,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image convectron 2</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze image convectron 2</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image convectron 2</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze image ion gauge 1" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -42,15 +38,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image ion gauge 1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze image ion gauge 1</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image ion gauge 1</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze image ion gauge 2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -58,15 +52,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image ion gauge 2</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze image ion gauge 2</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze image ion gauge 2</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Analyze image vac gauge cluster" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -74,15 +66,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Analyze image vac gauge cluster</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Analyze image vac gauge cluster</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#OKA!!!"9!A!!!!!!&amp;!"2!-0````],37^O)'&gt;B&gt;7&gt;F)$%!(E!Q`````R2$&lt;WZW:7.U=G^O)#"(986H:3!R)!!!&amp;%!Q`````QN*&lt;WYA2W&amp;V:W5A-A!=1$$`````%E.P&lt;H:F9X2S&lt;WUA2W&amp;V:W5A-A!!+%"1!!1!!!!"!!)!!RF*&lt;WYA:W&amp;V:W5A9WRV=X2F=C"D&lt;WZU=G^M!!%!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Analyze image vac gauge cluster</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!#!!A!-0````]!$A"1!!1!!!!!!!!!!!!"!!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze magnet coil current" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -90,15 +80,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet coil current</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze magnet coil current</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet coil current</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze magnet read field" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -106,15 +94,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet read field</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze magnet read field</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet read field</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze magnet set field" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -122,127 +108,167 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet set field</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\analyze magnet set field</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\analyze magnet set field</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB coil current set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB coil current set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB coil current set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">120</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">A</Property>
+		<Property Name="Scaling:RawMax" Type="Str">999999</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB coil current set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB+ current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB+ voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB+ voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB+ voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB- current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB- voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ExB- voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\ExB- voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch magnet coil current" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -250,15 +276,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet coil current</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch magnet coil current</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet coil current</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch magnet read field" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -266,15 +290,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet read field</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch magnet read field</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet read field</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch magnet set field" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -282,15 +304,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet set field</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch magnet set field</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch magnet set field</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch object convectron 1" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -298,15 +318,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object convectron 1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch object convectron 1</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object convectron 1</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch object convectron 2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -314,15 +332,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object convectron 2</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch object convectron 2</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object convectron 2</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch object ion gauge 1" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -330,15 +346,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object ion gauge 1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch object ion gauge 1</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object ion gauge 1</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="switch object ion gauge 2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -346,15 +360,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object ion gauge 2</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\switch object ion gauge 2</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\switch object ion gauge 2</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Switch object vac gauge cluster" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -362,15 +374,13 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Switch object vac gauge cluster</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Switch object vac gauge cluster</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#OKA!!!"9!A!!!!!!&amp;!"2!-0````],37^O)'&gt;B&gt;7&gt;F)$%!(E!Q`````R2$&lt;WZW:7.U=G^O)#"(986H:3!R)!!!&amp;%!Q`````QN*&lt;WYA2W&amp;V:W5A-A!=1$$`````%E.P&lt;H:F9X2S&lt;WUA2W&amp;V:W5A-A!!+%"1!!1!!!!"!!)!!RF*&lt;WYA:W&amp;V:W5A9WRV=X2F=C"D&lt;WZU=G^M!!%!"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Switch object vac gauge cluster</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!#!!A!-0````]!$A"1!!1!!!!!!!!!!!!"!!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Trans-cRIO Error" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -378,206 +388,276 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Trans-cRIO Error</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Trans-cRIO Error</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"14!!!!"9!A!!!!!!%!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!!Q!5!!$!!!!!1!#!!%!!Q!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Trans-cRIO Error</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!%!!1!)1!&amp;!!-!!!A!-0````]!$!"1!!-!!!!"!!)!!1!$!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X+ steerer current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X+ steerer current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X+ steerer voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X+ steerer voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X+ steerer voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X+ steerer voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X+ steerer voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X- steerer current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X- steerer current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X- steerer voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X- steerer voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X- steerer voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X- steerer voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\X- steerer voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y+ steerer current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y+ steerer current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y+ steerer voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y+ steerer voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y+ steerer voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y+ steerer voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y+ steerer voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y- steerer current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer current readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y- steerer current readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.5</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer current readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y- steerer voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer voltage readback</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y- steerer voltage readback</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer voltage readback</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Y- steerer voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer voltage set</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y- steerer voltage set</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">10</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">Trans-cRIO\global trans shared var lib.lvlib\Y- steerer voltage set</Property>
-		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
