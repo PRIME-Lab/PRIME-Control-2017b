@@ -11,7 +11,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Corona</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Corona</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -25,7 +25,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Corona</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Corona</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Grid" Type="Variable">
@@ -35,7 +35,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Grid</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Grid</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -49,7 +49,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Grid</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Grid</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="He Chain" Type="Variable">
@@ -59,7 +59,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Chain</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Chain</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -73,7 +73,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Chain</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Chain</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="He Column" Type="Variable">
@@ -83,7 +83,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Column</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Column</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -97,7 +97,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Column</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Column</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="He Inductor" Type="Variable">
@@ -107,7 +107,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Inductor</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Inductor</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -121,7 +121,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Inductor</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Inductor</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="He Suppressor" Type="Variable">
@@ -131,7 +131,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Suppressor</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Suppressor</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -145,7 +145,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\He Suppressor</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\He Suppressor</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Le Chain" Type="Variable">
@@ -155,7 +155,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Chain</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Chain</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -169,7 +169,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Chain</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Chain</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Le Column" Type="Variable">
@@ -179,7 +179,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Column</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Column</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -193,7 +193,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Column</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Column</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Le Inductor" Type="Variable">
@@ -203,7 +203,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Inductor</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Inductor</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -217,7 +217,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Inductor</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Inductor</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Le Suppressor" Type="Variable">
@@ -227,7 +227,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Suppressor</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Suppressor</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -241,7 +241,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Le Suppressor</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Le Suppressor</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 	<Item Name="Terminal Voltage" Type="Variable">
@@ -251,7 +251,7 @@
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">True</Property>
-		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Terminal Voltage</Property>
+		<Property Name="Network:ProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Terminal Voltage</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -265,7 +265,7 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\local shared var lib.lvlib\Terminal Voltage</Property>
+		<Property Name="varSourceProjectPath" Type="Str">ControlRoom-cRIO\global shared var lib.lvlib\Terminal Voltage</Property>
 		<Property Name="varSourceProjectSubPath" Type="Str"></Property>
 	</Item>
 </Library>

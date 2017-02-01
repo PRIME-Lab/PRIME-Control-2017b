@@ -5,20 +5,28 @@
 	<Property Name="varPersistentID:{0200CF33-0BC3-4D50-B581-715E15BCCEBF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/derivative time (Td, min)</Property>
 	<Property Name="varPersistentID:{02737414-172F-4E83-9E15-218A14535730}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Trans-cRIO Error</Property>
 	<Property Name="varPersistentID:{0A6C2967-FD51-48E4-B00E-5511A632F679}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X- steerer voltage set</Property>
+	<Property Name="varPersistentID:{0A938BAC-6A8E-4401-828C-06A5E5EDEEA9}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object ion gauge 2</Property>
 	<Property Name="varPersistentID:{0AC4CAA4-F3F5-45C5-B201-F1E0D8BB8895}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/reinitialize? (F)</Property>
 	<Property Name="varPersistentID:{0C109678-C4B3-4588-9134-2684A0015400}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/ExB error</Property>
+	<Property Name="varPersistentID:{0FDA681F-C6D8-4E31-970F-0E6F3C0BABE7}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze image ion gauge 1</Property>
 	<Property Name="varPersistentID:{109F05D9-1EE3-4E66-8121-A520E787208D}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{13C22E3B-EBAE-49A6-A36C-A5C21416117C}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output</Property>
+	<Property Name="varPersistentID:{14CD521E-CA68-4BA9-83E3-97F59F290ACC}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet read field</Property>
 	<Property Name="varPersistentID:{154A5D4D-886E-451F-B6C3-55BE6525BBFF}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Switch Magnet error</Property>
 	<Property Name="varPersistentID:{15CE132A-51AB-498E-83CB-E3519F5FA5C9}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/setpoint high</Property>
 	<Property Name="varPersistentID:{160C61D0-5C35-408E-AD36-9F5717956835}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch object convectron 2</Property>
 	<Property Name="varPersistentID:{16107B5B-C3B6-479E-AF79-B4EDAD64B4EB}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze image convectron 1</Property>
+	<Property Name="varPersistentID:{1885AC85-3E37-4A32-8265-E9850003F02C}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object ion gauge 1</Property>
+	<Property Name="varPersistentID:{1CC46EFA-14BE-40DA-89F6-35CDA2ADBC0A}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze magnet set field</Property>
 	<Property Name="varPersistentID:{1CE55930-83C7-4827-9B4A-6132BA99BFAC}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Le Suppressor</Property>
 	<Property Name="varPersistentID:{1E1D16C8-BDD0-48D5-90F7-3AF6F3BF2B55}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/integral time (Ti, min)</Property>
 	<Property Name="varPersistentID:{2456ACE5-6A9B-45CD-89B9-EB873BB6C597}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Suppressor</Property>
 	<Property Name="varPersistentID:{26C7AFE8-4C30-4693-A0C8-666F0FB565F5}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze image ion gauge 1</Property>
 	<Property Name="varPersistentID:{2C703169-12FC-44F2-9FC3-6F57FA21D619}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Vacuum Loop error</Property>
+	<Property Name="varPersistentID:{2C7F88A2-5009-41FE-BF49-69BCD6DB44B1}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB- voltage set</Property>
+	<Property Name="varPersistentID:{2CECB65A-AC51-4AE2-A22B-6739CAA5E8D4}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB+ voltage readback</Property>
 	<Property Name="varPersistentID:{2F00F48F-58E1-413C-9532-298593D695C6}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y+ steerer voltage set</Property>
+	<Property Name="varPersistentID:{3040EA62-5C26-4249-9163-35A141D113D1}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Switch object vac gauge cluster</Property>
 	<Property Name="varPersistentID:{35A6D430-8A97-44AB-ACC5-76DB53FE744A}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/process variable</Property>
 	<Property Name="varPersistentID:{35FDBD74-D002-4C28-8E30-F25146355FFD}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/beta</Property>
 	<Property Name="varPersistentID:{369A6D2A-9B06-40A9-877B-5354BE917BC9}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X+ steerer current readback</Property>
@@ -26,44 +34,56 @@
 	<Property Name="varPersistentID:{3B75017D-BBFA-4F94-86A6-2E1D1CD28217}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{3E4485F1-76EF-49C2-9984-03B8F5A0C28B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet coil current</Property>
 	<Property Name="varPersistentID:{408B5840-21BA-4830-8B8B-EBE07653614A}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/linearity</Property>
-	<Property Name="varPersistentID:{42012F99-D178-482B-A5B2-4DC63A01FDC9}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Le Inductor</Property>
-	<Property Name="varPersistentID:{451C8DA6-4983-4A82-A366-ACA5F49675B0}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/He Column</Property>
+	<Property Name="varPersistentID:{42012F99-D178-482B-A5B2-4DC63A01FDC9}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Inductor</Property>
+	<Property Name="varPersistentID:{451C8DA6-4983-4A82-A366-ACA5F49675B0}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Column</Property>
 	<Property Name="varPersistentID:{4730252F-03DA-4A8A-A972-0D1CB9D6E085}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Inductor</Property>
 	<Property Name="varPersistentID:{48712F37-BF4A-4C71-8AA8-1932C505BBCB}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X+ steerer voltage set</Property>
 	<Property Name="varPersistentID:{4DE7174C-F99B-4A16-9E46-5F52A9AAB642}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/proportional gain (Kc)</Property>
 	<Property Name="varPersistentID:{4E035C60-E34B-4FA5-925A-A2CFFB86797F}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB+ current readback</Property>
-	<Property Name="varPersistentID:{5111C4F2-E0D1-40D4-91B2-36EA3D71EA5D}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/He Inductor</Property>
+	<Property Name="varPersistentID:{5111C4F2-E0D1-40D4-91B2-36EA3D71EA5D}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Inductor</Property>
+	<Property Name="varPersistentID:{55B035F9-B3DB-493B-893F-CBD7C0512C60}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze image convectron 1</Property>
 	<Property Name="varPersistentID:{57363456-A93B-4F72-9D29-AD753668D392}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/dt out (s)</Property>
 	<Property Name="varPersistentID:{575E1E97-6DAF-49BC-B3AC-783B56AE7A10}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X- steerer current readback</Property>
 	<Property Name="varPersistentID:{57EF7754-DFD3-42A0-938B-E4E02424324F}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/error out</Property>
 	<Property Name="varPersistentID:{5C52694B-B2E9-4CE2-94EC-49118A4C9CC9}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Le Inductor</Property>
+	<Property Name="varPersistentID:{5F36A1BE-C910-41AE-BF37-1006EB157388}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet set field</Property>
 	<Property Name="varPersistentID:{61C7DAEF-3673-4139-A83E-8E05B172725C}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y- steerer current readback</Property>
 	<Property Name="varPersistentID:{642D4D77-944C-42CD-B36E-AAA226AB5026}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output low</Property>
+	<Property Name="varPersistentID:{653C1287-877C-4350-B73B-A0C96BDFE2A3}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X- steerer current readback</Property>
 	<Property Name="varPersistentID:{674B6032-E5ED-4012-894D-BC748483F80C}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Corona</Property>
-	<Property Name="varPersistentID:{67B6FA06-AECC-4D89-B2DE-B079200BB806}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Le Column</Property>
+	<Property Name="varPersistentID:{67B6FA06-AECC-4D89-B2DE-B079200BB806}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Column</Property>
 	<Property Name="varPersistentID:{69FEE96D-3148-436F-852F-F71DC0CE22BA}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB- current readback</Property>
 	<Property Name="varPersistentID:{6A583886-3F3D-48F6-82B8-B7BDE2EA5F64}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/setpoint</Property>
+	<Property Name="varPersistentID:{6B04C3F4-B92C-4067-8AC1-8B34C8AC40E0}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object convectron 2</Property>
+	<Property Name="varPersistentID:{6B5A2BD9-2AE6-4F9C-8E59-2BBEB114CA42}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet coil current</Property>
+	<Property Name="varPersistentID:{6BBF93EA-D3B4-4735-AEBB-42DE01E36194}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze image ion gauge 2</Property>
+	<Property Name="varPersistentID:{6C60E3B6-14AA-40BA-8CBB-CEF4A3222015}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X+ steerer voltage set</Property>
 	<Property Name="varPersistentID:{6D43EB45-66C2-429F-91DF-5F3ADB33AA59}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Readback Loop error</Property>
 	<Property Name="varPersistentID:{6EF81D50-1573-433C-B50C-22D720B0352B}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/setpoint</Property>
 	<Property Name="varPersistentID:{701A6F38-9B2E-416F-A438-74DF7F36ED91}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/process variable</Property>
 	<Property Name="varPersistentID:{702CB5FF-AFA6-4D48-9B19-1A4CF4F3A638}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/auto? (T)</Property>
 	<Property Name="varPersistentID:{72D46A05-6A5D-4F12-B017-E3886D3C7ECC}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X- steerer voltage readback</Property>
+	<Property Name="varPersistentID:{761B3846-BB59-4B5B-B297-0DAB4D19C125}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB- voltage readback</Property>
 	<Property Name="varPersistentID:{79DCBFE7-36BF-4F9F-BAE8-CAE049231971}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch object convectron 1</Property>
 	<Property Name="varPersistentID:{7C676BD7-0B1C-4749-ABC6-BD9E73EED46B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch magnet set field</Property>
+	<Property Name="varPersistentID:{7C6EBA8D-42D3-4067-A918-3AEEDA5D8CD3}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze magnet read field</Property>
 	<Property Name="varPersistentID:{7FFEA97A-4F6B-42B6-BD8C-D0F0089FFB62}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/dt (s)</Property>
-	<Property Name="varPersistentID:{80E0BC10-5806-49AC-A882-301A6E3687E0}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/He Suppressor</Property>
+	<Property Name="varPersistentID:{80E0BC10-5806-49AC-A882-301A6E3687E0}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Suppressor</Property>
 	<Property Name="varPersistentID:{8146617D-7EEC-4DFF-94AE-17FA8E17035B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB+ voltage set</Property>
 	<Property Name="varPersistentID:{826CADAD-1535-4A2B-B56E-F3A06CB5E8F2}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch object ion gauge 1</Property>
 	<Property Name="varPersistentID:{8305182E-4B37-481B-A770-E6FEBA3CEF08}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/beta</Property>
 	<Property Name="varPersistentID:{84311E6E-0A39-4544-AE1E-0CF42A767DB8}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze image ion gauge 2</Property>
 	<Property Name="varPersistentID:{8705BDF4-D64F-47B4-A19F-C4332FF5D4DF}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze image convectron 2</Property>
-	<Property Name="varPersistentID:{8938E217-70A4-4337-B318-2BEC11FA8A54}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Terminal Voltage</Property>
+	<Property Name="varPersistentID:{8938E217-70A4-4337-B318-2BEC11FA8A54}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Terminal Voltage</Property>
 	<Property Name="varPersistentID:{89613640-1E34-4259-A9FD-C1F803F590CE}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Le Chain</Property>
+	<Property Name="varPersistentID:{89A44BAD-C1F1-4DD3-A5AD-E331791D962A}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X+ steerer current readback</Property>
+	<Property Name="varPersistentID:{89F03474-E132-44B1-A62C-A398B3433707}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB coil current set</Property>
 	<Property Name="varPersistentID:{8B865032-6822-4AFF-A506-A3C0A742F003}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/error in</Property>
 	<Property Name="varPersistentID:{8C73C704-8C3B-412E-8E8E-A3AA958C23C7}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB+ voltage readback</Property>
 	<Property Name="varPersistentID:{8DF73291-4629-4C6B-A563-ECE73CB41A4C}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB- voltage set</Property>
 	<Property Name="varPersistentID:{8E5E7CE6-D6AE-442C-896C-719A7A1730BA}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Control Loop error</Property>
 	<Property Name="varPersistentID:{9228086E-0EFB-4990-8A56-A74593879A91}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch magnet read field</Property>
+	<Property Name="varPersistentID:{9298EC2C-5AFF-4324-ADB6-DC272219EC6A}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y- steerer voltage readback</Property>
 	<Property Name="varPersistentID:{93667747-49D4-4E59-A6D4-61D6E56FC281}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB- voltage readback</Property>
 	<Property Name="varPersistentID:{96C59CAF-BE70-4775-83D0-5D603246D7B1}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/linearity</Property>
 	<Property Name="varPersistentID:{97D76A50-4FAC-4FB4-ACEF-6C3D0596223E}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/derivative time (Td, min)</Property>
@@ -71,18 +91,25 @@
 	<Property Name="varPersistentID:{990961A4-0D75-4203-8DA8-8DC5DDCC6614}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/dt (s)</Property>
 	<Property Name="varPersistentID:{9C5977B0-190E-4011-A1BD-853F5623BA91}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y- steerer voltage readback</Property>
 	<Property Name="varPersistentID:{9C5A2B41-8A56-40ED-BDB6-F0DB76C3E095}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet set field</Property>
-	<Property Name="varPersistentID:{A09CE7AD-4712-4CAE-8F50-D61DC9C61A5D}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Grid</Property>
-	<Property Name="varPersistentID:{A18785D8-B24F-4242-A7C3-C9F34861EE8E}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Le Suppressor</Property>
+	<Property Name="varPersistentID:{A09CE7AD-4712-4CAE-8F50-D61DC9C61A5D}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Grid</Property>
+	<Property Name="varPersistentID:{A18785D8-B24F-4242-A7C3-C9F34861EE8E}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Suppressor</Property>
+	<Property Name="varPersistentID:{A18D05FD-79FA-4476-82E5-5E288CECC133}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyze image vac gauge cluster</Property>
 	<Property Name="varPersistentID:{A3F530CB-A69B-483D-A26A-1D75F268AC3D}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/setpoint low</Property>
 	<Property Name="varPersistentID:{A498E8D4-823E-4205-9A14-817A2C13F878}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/auto? (T)</Property>
 	<Property Name="varPersistentID:{A4F18B8B-2B5C-489D-B792-93CD76498CFF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/manual control</Property>
 	<Property Name="varPersistentID:{A56B2FAB-10ED-4B26-B04B-27912AE7F0FA}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/error out</Property>
 	<Property Name="varPersistentID:{A94833C2-B35C-4E15-BF32-31980D2B45FE}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Column</Property>
+	<Property Name="varPersistentID:{AB292669-6B36-433A-B06C-26F4F717A12A}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze magnet coil current</Property>
 	<Property Name="varPersistentID:{AB49125D-0E4F-43B6-ACAF-428A6655FE26}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/dt out (s)</Property>
 	<Property Name="varPersistentID:{AB755FFE-D0E5-4E50-82D8-4442E22D8387}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch magnet coil current</Property>
 	<Property Name="varPersistentID:{AE6EE144-2CC6-44ED-BD3A-E9EDC9CD4425}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch object ion gauge 2</Property>
 	<Property Name="varPersistentID:{AEC7EAF2-2B7F-4F98-BB7E-BB76C278DF61}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output low</Property>
-	<Property Name="varPersistentID:{B3800BFA-0913-40C3-8162-A9391288D343}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{AFBC82D0-D619-4CA9-9151-8D13168EED2F}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X+ steerer voltage readback</Property>
+	<Property Name="varPersistentID:{B10D0BFE-08E8-42F7-9245-6019E859E53D}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB+ current readback</Property>
+	<Property Name="varPersistentID:{B6B78956-9937-4D58-B027-49A3468EA736}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y- steerer voltage set</Property>
+	<Property Name="varPersistentID:{B6BB2935-031F-45F3-ABA7-F60DD590A617}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X- steerer voltage set</Property>
+	<Property Name="varPersistentID:{B8256D54-CB99-412B-AADD-D6A1FB1AFFD0}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/analyze image convectron 2</Property>
+	<Property Name="varPersistentID:{B9131FD0-EFE9-488E-8AF1-C825AC646A86}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{C167232D-AAA4-44C2-BF76-A4BF0AC6A944}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output high</Property>
 	<Property Name="varPersistentID:{C2742010-5F09-42D4-8862-F2C7C2EF6AD8}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB coil current set</Property>
 	<Property Name="varPersistentID:{C7B8A4A8-4C52-4C89-A478-472D188A79AF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/reinitialize? (F)</Property>
@@ -91,18 +118,26 @@
 	<Property Name="varPersistentID:{D23A5E5D-890D-473A-96C9-D908E3869278}" Type="Ref"></Property>
 	<Property Name="varPersistentID:{D2A158B0-6679-4DD1-8939-1985A16900F2}" Type="Ref"></Property>
 	<Property Name="varPersistentID:{D456205F-7525-484F-BD15-5258BFE46C41}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/error in</Property>
+	<Property Name="varPersistentID:{D4DB5736-BC7F-44E5-85F2-09895A849138}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object convectron 1</Property>
 	<Property Name="varPersistentID:{D4DC6E38-FCE1-43AB-9686-1A76665F2DB8}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Grid</Property>
-	<Property Name="varPersistentID:{D9D4B057-8284-4F63-933D-74801DF255AA}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/He Chain</Property>
+	<Property Name="varPersistentID:{D6834A0D-932C-4BB0-A5ED-65B7D10EA5D2}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB- current readback</Property>
+	<Property Name="varPersistentID:{D9D4B057-8284-4F63-933D-74801DF255AA}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Chain</Property>
 	<Property Name="varPersistentID:{DA3480C3-C93C-46D7-BDF7-710EF3525042}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Terminal Voltage</Property>
+	<Property Name="varPersistentID:{DB67030E-872E-4689-9A57-F9D4F03B04D2}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/X- steerer voltage readback</Property>
 	<Property Name="varPersistentID:{DBA5D62C-5F7C-4909-A176-03D3DF0E2744}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output high</Property>
-	<Property Name="varPersistentID:{DC625EE8-41FD-4681-A840-054F277FDEAE}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Corona</Property>
+	<Property Name="varPersistentID:{DC625EE8-41FD-4681-A840-054F277FDEAE}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Corona</Property>
 	<Property Name="varPersistentID:{DC6998CC-6BF8-447D-8A05-D151FAF3B9E3}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output</Property>
 	<Property Name="varPersistentID:{DF326609-5C95-43B5-BB9F-D8D2C5366706}" Type="Ref"></Property>
+	<Property Name="varPersistentID:{E2D6EE97-B8B4-4A68-87E0-905EE3D9B128}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y+ steerer voltage set</Property>
 	<Property Name="varPersistentID:{E4E99528-30B4-471A-8588-C4D7600E1F93}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/manual control</Property>
-	<Property Name="varPersistentID:{E642384F-4835-4405-971E-B51E7C16B524}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Le Chain</Property>
+	<Property Name="varPersistentID:{E642384F-4835-4405-971E-B51E7C16B524}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Chain</Property>
+	<Property Name="varPersistentID:{E6D23097-728D-4A8D-93A4-A68D5B83CC5A}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y- steerer current readback</Property>
+	<Property Name="varPersistentID:{E9603D6B-0806-4EF0-8D61-08F7189FC060}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Y+ steerer current readback</Property>
 	<Property Name="varPersistentID:{ECECE3FA-4D2B-45CD-A184-4FD8C1B9B8C7}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/integral time (Ti, min)</Property>
+	<Property Name="varPersistentID:{EF3C283F-2BB6-4CBA-BFBB-E1161796222E}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans-cRIO Error</Property>
 	<Property Name="varPersistentID:{EF723337-23F2-4E9E-9D7E-532B3EA44140}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyze image vac gauge cluster</Property>
 	<Property Name="varPersistentID:{F01391B6-CA1B-4C6E-9E75-59DE80B31E88}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/proportional gain (Kc)</Property>
+	<Property Name="varPersistentID:{F0521F03-B6D3-4355-8D76-D6B5AFB3E5DF}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/ExB+ voltage set</Property>
 	<Property Name="varPersistentID:{F6E25214-04F4-4134-A096-6D9A9EF1D834}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/setpoint low</Property>
 	<Property Name="varPersistentID:{F88A34AD-FBBF-4C00-8936-71C91797A24B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet read field</Property>
 	<Property Name="varPersistentID:{FC495164-3C73-4898-B2E4-9979ADE8095A}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Analyzer Magnet error</Property>
@@ -131,6 +166,7 @@
 		<Item Name="controls" Type="Folder"/>
 		<Item Name="cRIO Shared Variables" Type="Folder">
 			<Item Name="ControlRoom shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Control Room/ControlRoom shared var lib.lvlib"/>
+			<Item Name="Transmission shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Transmission/Transmission shared var lib.lvlib"/>
 		</Item>
 		<Item Name="old" Type="Folder">
 			<Item Name="Trans-cRIO" Type="Folder">
@@ -2051,7 +2087,7 @@ DirectoryIndex index.htm
 			</Item>
 		</Item>
 		<Item Name="ControlRoom-RT.vi" Type="VI" URL="../../Common-Control/Beamline sections/Control Room/ControlRoom-RT.vi"/>
-		<Item Name="local shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Control Room/local shared var lib.lvlib"/>
+		<Item Name="global shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Control Room/global shared var lib.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -8920,6 +8956,7 @@ DirectoryIndex index.htm
 				<Item Name="Dependencies" Type="Dependencies">
 					<Item Name="vi.lib" Type="Folder">
 						<Item Name="FxpSim.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/FXPMathLib/sim/FxpSim.dll"/>
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
 				</Item>
 				<Item Name="Build Specifications" Type="Build"/>
@@ -8971,6 +9008,7 @@ DirectoryIndex index.htm
 		</Item>
 		<Item Name="global trans shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Transmission/global trans shared var lib.lvlib"/>
 		<Item Name="local trans shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Transmission/local trans shared var lib.lvlib"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../../Common-Control/Control 1.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
