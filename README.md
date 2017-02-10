@@ -11,7 +11,7 @@ Status: Not yet converted from 2010
 Status: Not yet converted from 2010 
 
 ###Transmission-cRIO
-Status: 2017 version written, documented; not yet deployed to cRIO (May Upgrade); cRIO controller will be upgraded (to 9067), will require 1 new cRIO module and updated wiring
+Status: 2017 version written, documented; not yet deployed to cRIO (May Upgrade); cRIO controller will be upgraded (to 9067), will require 1 new cRIO module (9485) and updated wiring
 
 ###R30_1-cRIO
 Status: Not yet converted from 2010
@@ -20,7 +20,7 @@ Status: Not yet converted from 2010
 Status: Not yet converted from 2010 
 
 ###R45_2-cRIO
-Status: 2017 version written, documented; not yet deployed to cRIO (May Upgrade); will require 1 new cRIO module and updated wiring
+Status: 2017 version written, documented; not yet deployed to cRIO (May Upgrade); will require 1 new cRIO module (9485) and updated wiring
 
 ## Slow-switching-Control
 

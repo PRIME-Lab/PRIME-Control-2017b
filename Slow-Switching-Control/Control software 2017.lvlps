@@ -1,13 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "113,2863,1032,3401"
-
-[AB_Cache_{8EC22377-D2DE-41F3-93F7-139D4745EDD6}]
-Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{8EC22"
-Cache_Path[Path] Line0002 = "377-D2DE-41F3-93F7-139D4745EDD6}.txt"
-
-[AB_Cache_{BD86CE39-6C41-45B6-B6B1-663A40F5D901}]
-Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{BD86C"
-Cache_Path[Path] Line0002 = "E39-6C41-45B6-B6B1-663A40F5D901}.txt"
+ProjectExplorer.ClassicPosition[String] = "72,2155,991,2693"
 
 [AB_Cache_{D8EDA47C-C21D-4FF1-B15C-E559899A670A}]
 Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{D8EDA"
@@ -24,4 +16,12 @@ Cache_Path[Path] Line0002 = "025-CF38-4E2E-B7C6-65F8A3D844B0}.txt"
 [AB_Cache_{2C468DC8-4B20-4398-94FC-8D992327A4E2}]
 Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{2C468"
 Cache_Path[Path] Line0002 = "DC8-4B20-4398-94FC-8D992327A4E2}.txt"
+
+[AB_Cache_{8EC22377-D2DE-41F3-93F7-139D4745EDD6}]
+Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{8EC22"
+Cache_Path[Path] Line0002 = "377-D2DE-41F3-93F7-139D4745EDD6}.txt"
+
+[AB_Cache_{BD86CE39-6C41-45B6-B6B1-663A40F5D901}]
+Cache_Path[Path] Line0001 = "/D/Users/wymanm/AppData/Local/Temp/AB_Cache_{BD86C"
+Cache_Path[Path] Line0002 = "E39-6C41-45B6-B6B1-663A40F5D901}.txt"
 

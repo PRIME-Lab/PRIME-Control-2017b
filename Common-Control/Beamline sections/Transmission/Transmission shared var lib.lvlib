@@ -16,7 +16,7 @@
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze image convectron 2" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -30,7 +30,7 @@
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="analyze image ion gauge 1" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -113,160 +113,6 @@
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB coil current set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB coil current set</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">120</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">A</Property>
-		<Property Name="Scaling:RawMax" Type="Str">999999</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB+ current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ current readback</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB+ voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage readback</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">60</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB+ voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage set</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">60</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB- current readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- current readback</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB- voltage readback" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage readback</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">60</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
-		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
-	</Item>
-	<Item Name="ExB- voltage set" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
-		<Property Name="Network:AccessType" Type="Str">read/write</Property>
-		<Property Name="Network:BuffSize" Type="Str">50</Property>
-		<Property Name="Network:ElemSize" Type="Str">1</Property>
-		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
-		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage set</Property>
-		<Property Name="Network:UseBinding" Type="Str">True</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
-		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
-		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">60</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
-		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
-		<Property Name="Scaling:RawMax" Type="Str">10</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
-		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -382,21 +228,185 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!#!!A!-0````]!$A"1!!1!!!!!!!!!!!!"!!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Trans-cRIO Error" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+	<Item Name="Trans ExB coil current set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
 		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
-		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Trans-cRIO Error</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB coil current set</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">120</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">A</Property>
+		<Property Name="Scaling:RawMax" Type="Str">999999</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB+ current readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ current readback</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB+ HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ HV Enable</Property>
 		<Property Name="Network:UseBinding" Type="Str">True</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!%!!1!)1!&amp;!!-!!!A!-0````]!$!"1!!-!!!!"!!)!!1!$!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X+ steerer current readback" Type="Variable">
+	<Item Name="Trans ExB+ voltage readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage readback</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB+ voltage set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB+ voltage set</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB- current readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- current readback</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">1.2</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">mA</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB- HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- HV Enable</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB- voltage readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage readback</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans ExB- voltage set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\ExB- voltage set</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/</Property>
+		<Property Name="Scaling:Coerce" Type="Str">False</Property>
+		<Property Name="Scaling:EngMax" Type="Str">60</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngUnit" Type="Str">kV</Property>
+		<Property Name="Scaling:RawMax" Type="Str">10</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:Type" Type="Str">Linear</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans X+ steerer current readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -418,7 +428,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X+ steerer voltage readback" Type="Variable">
+	<Item Name="Trans X+ steerer voltage readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -440,7 +450,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X+ steerer voltage set" Type="Variable">
+	<Item Name="Trans X+ steerer voltage set" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -462,7 +472,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X- steerer current readback" Type="Variable">
+	<Item Name="Trans X- steerer current readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -484,7 +494,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X- steerer voltage readback" Type="Variable">
+	<Item Name="Trans X- steerer voltage readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -506,7 +516,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="X- steerer voltage set" Type="Variable">
+	<Item Name="Trans X- steerer voltage set" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -528,7 +538,31 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y+ steerer current readback" Type="Variable">
+	<Item Name="Trans X-steerer+ HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X-steerer+ HV Enable</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans X-steerer- HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\X-steerer- HV Enable</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans Y+ steerer current readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -550,7 +584,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y+ steerer voltage readback" Type="Variable">
+	<Item Name="Trans Y+ steerer voltage readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -572,7 +606,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y+ steerer voltage set" Type="Variable">
+	<Item Name="Trans Y+ steerer voltage set" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -594,7 +628,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y- steerer current readback" Type="Variable">
+	<Item Name="Trans Y- steerer current readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -616,7 +650,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y- steerer voltage readback" Type="Variable">
+	<Item Name="Trans Y- steerer voltage readback" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -638,7 +672,7 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
-	<Item Name="Y- steerer voltage set" Type="Variable">
+	<Item Name="Trans Y- steerer voltage set" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network,Scaling</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
@@ -659,5 +693,43 @@
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans Y-steerer+ HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y-steerer+ HV Enable</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans Y-steerer- HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Y-steerer- HV Enable</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Trans-cRIO Error" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:AccessType" Type="Str">read/write</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:URL" Type="Str">\\192.168.1.91\global trans shared var lib\Trans-cRIO Error</Property>
+		<Property Name="Network:UseBinding" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!![.A!!!"9!A!!!!!!%!!1!)1!&amp;!!-!!!A!-0````]!$!"1!!-!!!!"!!)!!1!$!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
