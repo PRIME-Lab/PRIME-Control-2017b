@@ -19,6 +19,9 @@ My Computer = "192.168.1.24"
 [NEW-Source-1]
 NEW-Source-1 = "192.168.1.30"
 
+[old-R30-1-cRIO]
+old-R30-1-cRIO = "0.0.0.0"
+
 [R30-1-cRIO]
 R30-1-cRIO = "192.168.1.88"
 
