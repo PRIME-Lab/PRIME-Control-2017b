@@ -20,6 +20,7 @@
 	</Item>
 	<Item Name="Analyzer Image Vac Interlock" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">Analyzer Image Vac Interlock</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>

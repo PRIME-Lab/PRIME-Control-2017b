@@ -4,4 +4,588 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Beamline Fast GV actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Beamline Fast GV Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Beamline GV Actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Beamline GV Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Cryo Pump GV Actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Cryo Pump GV Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">Cryo Pump GV Status</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">ES Quad A HV Enable</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">ES Quad A V set</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A+ I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">ES Quad A+ I readback</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A+ V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">ES Quad A+ V readback</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A- I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad A- V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B+ I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B+ V  readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B- I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="ES Quad B- V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="High End waist interlock bypass" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="High End Waist Vac Interlock" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="HighEnd-cRIO Error" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"14!!!!"9!A!!!!!!%!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!!Q!5!!$!!!!!1!#!!%!!Q!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Tank Exit FC Actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Tank Exit FC Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">Faraday cup states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Faraday cup states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"G9A!!!"9!A!!!!!!"!&amp;!!]1!!!!!!!!!"&amp;E:B=G&amp;E98EA9X6Q)(.U982F=SZD&gt;'Q!-5!7!!-22E-A=X2B&gt;(6T)(6O9WRF98)&amp;2E-A;7Y'2E-A&lt;X6U!!!%27ZV&lt;1!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Tank Exit interlock bypass" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Tank Exit Vac Interlock" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Turbo GV actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Turbo GV Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X+ Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X+ Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">X+ Steerer I readback</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X+ Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">X+ Steerer V readback</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X+ Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">X+ Steerer V set</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X- Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X- Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X- Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="X- Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1+ Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/HighEnd-cRIO/global highend shared var lib.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1+ Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1+ Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1+ Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1- Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/HighEnd-cRIO/global highend shared var lib.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1- Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1- Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y1- Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2+ Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/HighEnd-cRIO/global highend shared var lib.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2+ Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2+ Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2+ Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2- Steerer HV Enable" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Control software 2017.lvproj/HighEnd-cRIO/global highend shared var lib.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2- Steerer I readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2- Steerer V readback" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Y2- Steerer V set" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 </Library>

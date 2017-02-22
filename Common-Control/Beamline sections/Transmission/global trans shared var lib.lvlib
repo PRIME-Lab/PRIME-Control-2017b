@@ -642,6 +642,29 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Analyzer Image FC Actuator" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!:&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Analyzer Image FC Status" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">Faraday cup states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../Faraday cup states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"G9A!!!"9!A!!!!!!"!&amp;!!]1!!!!!!!!!"&amp;E:B=G&amp;E98EA9X6Q)(.U982F=SZD&gt;'Q!-5!7!!-22E-A=X2B&gt;(6T)(6O9WRF98)&amp;2E-A;7Y'2E-A&lt;X6U!!!%27ZV&lt;1!!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="Analyzer Image Vac Interlock" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
