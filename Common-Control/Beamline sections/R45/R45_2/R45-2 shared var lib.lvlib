@@ -404,14 +404,14 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="Path" Type="Str">/Control software 2017.lvproj/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/</Property>
 		<Property Name="Scaling:Coerce" Type="Str">False</Property>
-		<Property Name="Scaling:EngMax" Type="Str">200</Property>
-		<Property Name="Scaling:EngMin" Type="Str">0</Property>
+		<Property Name="Scaling:EngMax" Type="Str">200.000000</Property>
+		<Property Name="Scaling:EngMin" Type="Str">0.000000</Property>
 		<Property Name="Scaling:EngUnit" Type="Str">A</Property>
-		<Property Name="Scaling:RawMax" Type="Str">999999</Property>
-		<Property Name="Scaling:RawMin" Type="Str">0</Property>
+		<Property Name="Scaling:RawMax" Type="Str">200000.000000</Property>
+		<Property Name="Scaling:RawMin" Type="Str">0.000000</Property>
 		<Property Name="Scaling:Type" Type="Str">Linear</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="R45 ExB 2 Reset" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -840,7 +840,6 @@
 	</Item>
 	<Item Name="R45 Vac cluster 2 Interlock" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="name" Type="Str">R45 Vac cluster 2 Interlock</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -856,7 +855,6 @@
 	</Item>
 	<Item Name="R45 Vac cluster 2 Interlock bypass" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="name" Type="Str">R45 Vac cluster 2 Interlock bypass</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -872,7 +870,6 @@
 	</Item>
 	<Item Name="R45 Vac cluster 3 Interlock" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="name" Type="Str">R45 Vac cluster 3 Interlock</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
@@ -903,7 +900,6 @@
 	</Item>
 	<Item Name="R45 Vac cluster 4 Interlock" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
-		<Property Name="name" Type="Str">R45 Vac cluster 4 Interlock</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:ElemSize" Type="Str">1</Property>
