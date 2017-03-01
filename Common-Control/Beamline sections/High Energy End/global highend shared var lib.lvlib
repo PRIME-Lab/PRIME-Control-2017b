@@ -63,9 +63,11 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">GV states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../GV states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!"9!A!!!!!!"!%=!]1!!!!!!!!!"$5&gt;7)(.U982F=SZD&gt;'Q!-5!7!!-/=X2B&gt;(6T)(6O9WRF98)'9WRP=W6E"'^Q:7Y!!!F(6C"4&gt;'&amp;U&gt;8-!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Beamline GV Actuator" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -81,9 +83,11 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">GV states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../GV states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!"9!A!!!!!!"!%=!]1!!!!!!!!!"$5&gt;7)(.U982F=SZD&gt;'Q!-5!7!!-/=X2B&gt;(6T)(6O9WRF98)'9WRP=W6E"'^Q:7Y!!!F(6C"4&gt;'&amp;U&gt;8-!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Cryo Pump GV Actuator" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -99,9 +103,11 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">GV states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../GV states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!"9!A!!!!!!"!%=!]1!!!!!!!!!"$5&gt;7)(.U982F=SZD&gt;'Q!-5!7!!-/=X2B&gt;(6T)(6O9WRF98)'9WRP=W6E"'^Q:7Y!!!F(6C"4&gt;'&amp;U&gt;8-!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="ES Quad A HV Enable" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -374,9 +380,11 @@
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
-		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
 		<Property Name="type" Type="Str">Network</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!Z.1!!!"9!A!!!!!!"!#-!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S"G.M&lt;X.F:!2P='6O!!!!!1!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typedefName1" Type="Str">GV states.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../../GV states.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"&gt;71!!!"9!A!!!!!!"!%=!]1!!!!!!!!!"$5&gt;7)(.U982F=SZD&gt;'Q!-5!7!!-/=X2B&gt;(6T)(6O9WRF98)'9WRP=W6E"'^Q:7Y!!!F(6C"4&gt;'&amp;U&gt;8-!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="X+ Steerer HV Enable" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
