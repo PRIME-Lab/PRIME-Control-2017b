@@ -4,17 +4,17 @@ ControlRoom-cRIO = "192.168.1.87"
 [HighEnd-cRIO]
 HighEnd-cRIO = "192.168.1.86"
 
-[InjA-cRIO]
-InjA-cRIO = "192.168.1.97"
-
 [InjA-Image-cRIO]
 InjA-Image-cRIO = "192.168.1.105"
+
+[InjectorA-cRIO]
+InjectorA-cRIO = "192.168.1.97"
 
 [LowEnd-cRIO]
 LowEnd-cRIO = "192.168.1.89"
 
 [My Computer]
-My Computer = "192.168.1.24"
+My Computer = "127.0.0.1"
 
 [NEW-Source-1]
 NEW-Source-1 = "192.168.1.30"
