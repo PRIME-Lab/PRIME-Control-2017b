@@ -14,7 +14,7 @@ InjectorA-cRIO = "192.168.1.97"
 LowEnd-cRIO = "192.168.1.89"
 
 [My Computer]
-My Computer = "127.0.0.1"
+My Computer = "192.168.1.24"
 
 [NEW-Source-1]
 NEW-Source-1 = "192.168.1.30"
@@ -33,6 +33,9 @@ R45-1-cRIO-9072 = "0.0.0.0"
 
 [R45-2-cRIO]
 R45-2-cRIO = "192.168.1.9"
+
+[Sample-changer]
+Sample-changer = "0.0.0.0"
 
 [SCA-cRIO]
 SCA-cRIO = "192.168.1.180"

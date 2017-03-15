@@ -12,8 +12,10 @@
 	<Property Name="varPersistentID:{01CD6372-FF73-4594-BAEC-F1C89FDD7FBD}" Type="Ref">/R45-2-cRIO/local R45_2 shared var lib.lvlib/GFM loop error</Property>
 	<Property Name="varPersistentID:{0200CF33-0BC3-4D50-B581-715E15BCCEBF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/derivative time (Td, min)</Property>
 	<Property Name="varPersistentID:{0246AC0E-08B8-4BCF-A5CA-A4B509414F9E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Vac Interlock</Property>
+	<Property Name="varPersistentID:{026BD8A0-D758-40C6-95F5-C4D23E7DBDD0}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/motor value</Property>
 	<Property Name="varPersistentID:{02737414-172F-4E83-9E15-218A14535730}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Trans-cRIO Error</Property>
 	<Property Name="varPersistentID:{02A624B5-68B9-4315-9F41-53DC709C61BF}" Type="Ref">/R45-2-cRIO/local R45_2 shared var lib.lvlib/Vacuum Readback loop error</Property>
+	<Property Name="varPersistentID:{02CB4F0C-23B6-4DC9-9DD8-234DCE8C6F18}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/wheel  value</Property>
 	<Property Name="varPersistentID:{0330458C-F979-4C91-B695-78AE61FE93D3}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{0339114F-E551-4A88-A486-81FA42835661}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Mag Steerer I-program</Property>
 	<Property Name="varPersistentID:{033E8D40-A74A-49DD-A049-F7ECA52A7F7E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2+ Steerer I readback</Property>
@@ -34,9 +36,12 @@
 	<Property Name="varPersistentID:{05F934DD-DB8D-4F5B-B6EC-9EE933ED3E53}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector ion gauge 1</Property>
 	<Property Name="varPersistentID:{06086E0B-428B-4A94-9CCB-A2D15BBF8079}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X- Steerer V readback</Property>
 	<Property Name="varPersistentID:{0629DA20-8422-4B6A-A354-EB90A17E602B}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Convectron 1</Property>
+	<Property Name="varPersistentID:{063DFFCB-A73B-430D-8E94-6ADFB56C2D28}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO10</Property>
 	<Property Name="varPersistentID:{0668DB7E-5850-4F28-A27C-8E38F7534EAE}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{069B9F26-75C2-44E1-9249-6FD50750FC19}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Up-Steerer V read</Property>
 	<Property Name="varPersistentID:{06CEB6E8-95B7-4B3A-9C55-63398C28F489}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Quad B set</Property>
+	<Property Name="varPersistentID:{06E93B5A-8520-4890-A9DC-2539A1BA8320}" Type="Ref">/SCA-cRIO/Chassis/Mod8/DO7</Property>
+	<Property Name="varPersistentID:{06F07239-490C-48AC-B1A8-F3114143FB0B}" Type="Ref">/SCA-cRIO/Chassis/Mod8/rod</Property>
 	<Property Name="varPersistentID:{0725AC12-9A40-4C2C-B60C-ED1DF863320E}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y+ Steerer V set</Property>
 	<Property Name="varPersistentID:{0762A092-0436-4D3F-99FE-D8A76224438D}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Corona</Property>
 	<Property Name="varPersistentID:{079D9743-7BC1-4F94-926D-9604A56411F9}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Convectron 1</Property>
@@ -62,30 +67,41 @@
 	<Property Name="varPersistentID:{0ADEC5A7-B0B4-4A0C-812E-D47C789F1765}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X- Steerer V readback</Property>
 	<Property Name="varPersistentID:{0AF4FEFE-A587-4C17-9882-E04C89E057D1}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Bounce Mag Image  Aperture Status</Property>
 	<Property Name="varPersistentID:{0C109678-C4B3-4588-9134-2684A0015400}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/ExB Loop error</Property>
+	<Property Name="varPersistentID:{0CE86754-98E1-4344-8601-CCD563CF35F4}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Rotate Wheel</Property>
 	<Property Name="varPersistentID:{0CFCD1E6-CB88-45EC-83F5-E301E871DA3B}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Vac Cluster</Property>
 	<Property Name="varPersistentID:{0D06CC08-C2CB-4501-AAC6-F6948BEDBC20}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Up-Steerer V set</Property>
 	<Property Name="varPersistentID:{0D09F6D4-0B70-40DF-AD5B-D2AFF0E32F4B}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/InjA Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{0D11D2A1-9595-4545-B65C-1C09E08A453F}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Switch Mag FC actuator</Property>
+	<Property Name="varPersistentID:{0D1E4B40-9570-44D3-B8E8-08AEB91E939A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/index2</Property>
 	<Property Name="varPersistentID:{0D2D9FD6-C804-4C8D-885D-0A3B36CD8A8C}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/error in</Property>
 	<Property Name="varPersistentID:{0D4895D4-A373-4289-A8C4-5FA4EF2ADB8A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Convectron 1</Property>
 	<Property Name="varPersistentID:{0D5884C8-01EB-4907-A3A6-AEF446D9196A}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector FC Status</Property>
+	<Property Name="varPersistentID:{0D84A474-C731-4013-A833-04B753C34344}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI28</Property>
 	<Property Name="varPersistentID:{0E5B8BD3-9F3D-418B-81C1-766FE2F12A24}" Type="Ref">/HighEnd-cRIO/local highend shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{0EB4966E-FE9E-410B-9398-B60C9C08F723}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Beamline GV 1 Status</Property>
 	<Property Name="varPersistentID:{0ECE237D-D18D-4A79-9A01-FC83A93ED8CB}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Vac cluster</Property>
 	<Property Name="varPersistentID:{0F5D0661-FD24-412B-BBC5-D6F6E65CA39A}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Down-Steerer V set</Property>
 	<Property Name="varPersistentID:{100A2570-7417-48B1-9BDE-CF6BEB53154F}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist FC actuator</Property>
+	<Property Name="varPersistentID:{103851DD-732D-47F7-A9D7-EA3C9FF32727}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO0</Property>
 	<Property Name="varPersistentID:{109F05D9-1EE3-4E66-8121-A520E787208D}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{115A3A76-A2BA-4339-93B2-97BC7B501014}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit FC Status</Property>
 	<Property Name="varPersistentID:{118E8CBE-F8A2-44CA-BD08-4E0C10A6EC99}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/output low</Property>
+	<Property Name="varPersistentID:{119539D3-470F-4853-BC47-B0FD267E5EB9}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Start Sample Change</Property>
 	<Property Name="varPersistentID:{11CB20AB-FABD-4EC5-8D7E-F18297FBE49B}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Switch Image Vac Cluster</Property>
 	<Property Name="varPersistentID:{1241A53C-77F3-4D7E-AA7F-E2BA3BBF5A45}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Beamline GV 3</Property>
 	<Property Name="varPersistentID:{12C0095C-ED19-41A8-BD50-38B77CF4347A}" Type="Ref">/R45-2-cRIO/bound R45_2 shared var lib.lvlib/Switch Object Vac Interlock</Property>
 	<Property Name="varPersistentID:{13093A21-9F55-42DF-8626-2B5D23355668}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Beamline Fast GV Status</Property>
+	<Property Name="varPersistentID:{1331429A-3F05-43F5-A498-DF07F22547E2}" Type="Ref">/SCA-cRIO/Chassis/Mod7/retract in1</Property>
+	<Property Name="varPersistentID:{13498FB6-3435-4319-AA18-E868008914CA}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO7</Property>
 	<Property Name="varPersistentID:{13C22E3B-EBAE-49A6-A36C-A5C21416117C}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output</Property>
 	<Property Name="varPersistentID:{13E3547E-1BB6-45F4-8181-AB9CA2078FA2}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Switch object vac gauge cluster</Property>
 	<Property Name="varPersistentID:{13E593A3-A2A7-414A-80AD-27612AD63AC0}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA Vac Cluster</Property>
 	<Property Name="varPersistentID:{13F13242-2585-4083-A2FB-AD9DBBBA59FE}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{14126BC8-43B1-460B-BC78-697C24AC4F31}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set cold cathode off</Property>
 	<Property Name="varPersistentID:{1430A43B-4367-4CEF-BAC8-0E716D299563}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Switching Magnet GV</Property>
+	<Property Name="varPersistentID:{14372E2C-4B17-408F-A002-133FB520649A}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI28</Property>
+	<Property Name="varPersistentID:{144F028E-E5F6-467F-94FD-90FA06E10EE6}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI15</Property>
+	<Property Name="varPersistentID:{148683CB-E393-40F8-91C3-6634BCF72C8E}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI9</Property>
 	<Property Name="varPersistentID:{14A5D747-4EE7-40F4-9456-6B934D269461}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Inj Image Aperture Status</Property>
 	<Property Name="varPersistentID:{14DBED14-EF3C-456D-9B89-007CA5C6EFDA}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/BPM 2</Property>
 	<Property Name="varPersistentID:{14EA4CD8-E12B-4605-8069-E07314DBFD06}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X- Steerer V readback</Property>
@@ -101,13 +117,20 @@
 	<Property Name="varPersistentID:{16213C10-E8C0-4C9F-AD38-49E581360423}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y+ steerer voltage set</Property>
 	<Property Name="varPersistentID:{16531E74-FDB1-487F-83A8-95C918D4157E}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{1683A7A1-C044-40D0-AF00-57209B8D8B5A}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 X-steerer Mag- V read</Property>
+	<Property Name="varPersistentID:{1686FFF8-9E3D-425C-A5D7-BF01E09C3707}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO11</Property>
 	<Property Name="varPersistentID:{16BA94D7-EF92-4098-9C99-9EDE33C23011}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad B V set</Property>
 	<Property Name="varPersistentID:{1742888F-0343-4BB4-9FCF-5C46DE303689}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/error out</Property>
 	<Property Name="varPersistentID:{176084E3-546B-42B8-A253-3BE890C8ADF0}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Y Steerer V set</Property>
+	<Property Name="varPersistentID:{179B26B7-6F35-45A0-A2D8-001CD55E546E}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI29</Property>
 	<Property Name="varPersistentID:{17DECA19-DA14-45D0-90A4-9D777188DC0B}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Mag Steerer I read</Property>
+	<Property Name="varPersistentID:{18426E5E-41D5-4E5E-BA54-D38A51885351}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO10</Property>
+	<Property Name="varPersistentID:{185620DA-B242-484A-9CDC-C2DE30886C48}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ION SOURCE ion gauge2</Property>
 	<Property Name="varPersistentID:{185FB32D-CE77-4F5D-A6D4-2962C962C238}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X- Steerer V set</Property>
+	<Property Name="varPersistentID:{187871BE-460F-49ED-B8D6-3E8E03AF6FC0}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI21</Property>
 	<Property Name="varPersistentID:{187A32EC-7BF9-410E-9F50-ACCBC13BDA53}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Vac cluster 2 Ion Gauge Interlock</Property>
 	<Property Name="varPersistentID:{19001564-685D-4939-BADC-6A7D9BF20C2F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{1907C03C-C252-4884-88E7-6E1014B01BCA}" Type="Ref">/SCA-cRIO/Chassis/Mod7/insert out1</Property>
+	<Property Name="varPersistentID:{19B5CA3B-F372-4C30-A541-5648ABACCC30}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Ion Source GV Status</Property>
 	<Property Name="varPersistentID:{19CBAB55-D183-4824-AB13-466A34CF5D2E}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA-Image cRIO error</Property>
 	<Property Name="varPersistentID:{1A21ADF0-CD0C-43A9-A4A4-7F2F189FE9C3}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1- I read</Property>
 	<Property Name="varPersistentID:{1B0E07A1-BF8A-4E02-92C8-DE29A8DDB2ED}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd-cRIO error</Property>
@@ -115,6 +138,7 @@
 	<Property Name="varPersistentID:{1C1181A3-4108-4D65-8D27-22788F229AFB}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Vac cluster 4 Ion Gauge Interlock</Property>
 	<Property Name="varPersistentID:{1C321F47-65C6-4540-A278-1DFFEC344EB0}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Beamline GV 2 Status</Property>
 	<Property Name="varPersistentID:{1C88386C-D1D9-4587-A559-103CC6865D96}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2+ Steerer V readback</Property>
+	<Property Name="varPersistentID:{1CFF552E-F78C-4E9F-8F70-CCCE6E944BE8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/start random sample change</Property>
 	<Property Name="varPersistentID:{1D06FAC1-C2B4-438C-B50B-5972077160F0}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Left-Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{1D1ED18B-4DF8-4117-A760-4D69B028CBA9}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{1D283FA6-ECC7-494D-974F-290429DD4AE4}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/ControlRoom-cRIO error</Property>
@@ -124,9 +148,11 @@
 	<Property Name="varPersistentID:{1E1D16C8-BDD0-48D5-90F7-3AF6F3BF2B55}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/integral time (Ti, min)</Property>
 	<Property Name="varPersistentID:{1E32DA3F-E37C-41A2-B88D-D28EF2F108B4}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object convectron 1</Property>
 	<Property Name="varPersistentID:{1EBEEC88-F8B0-4E34-8208-D1585665EAF9}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Switch Mag FC Status</Property>
+	<Property Name="varPersistentID:{1EF5637A-E0C3-4D2A-837E-449D35F5F886}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/feedback</Property>
 	<Property Name="varPersistentID:{1EF8F0AA-1F82-431A-ABC2-FD82B36CABBC}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X- Steerer V read</Property>
 	<Property Name="varPersistentID:{1F461B87-A314-49A4-84E0-440FF78D9EFA}" Type="Ref">/HighEnd-cRIO/bound highend shared var lib.lvlib/Analyzer Image Vac Interlock</Property>
 	<Property Name="varPersistentID:{1F603A08-943E-4640-8E1A-FEBCFBB9CBC6}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector Vac Cluster</Property>
+	<Property Name="varPersistentID:{1F85DD97-F293-4D48-B28C-390107B4BAAF}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI31</Property>
 	<Property Name="varPersistentID:{1FA59550-A4D2-4CEC-AAB4-8CCA36A2C296}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector Aperture insert</Property>
 	<Property Name="varPersistentID:{1FE8ABBC-627E-4705-B988-FCA615F45042}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/HV readback loop error</Property>
 	<Property Name="varPersistentID:{21197669-79EA-4EE1-9EF9-002D3F266F11}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X- Steerer I readback</Property>
@@ -139,52 +165,68 @@
 	<Property Name="varPersistentID:{22445215-5E4D-4A13-A856-A21323FF5C2F}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Vac interlock bypass</Property>
 	<Property Name="varPersistentID:{22B9E786-E52D-4534-A8FA-F74A649833E0}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/integral time (Ti, min)</Property>
 	<Property Name="varPersistentID:{230B0DA7-A7BB-4F14-B5BE-7573AABDED4E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Einzel V readback</Property>
+	<Property Name="varPersistentID:{234891DC-AD30-4069-B067-1CB66D8FFF8F}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ig2</Property>
 	<Property Name="varPersistentID:{2352A838-7CD1-444A-A3C9-C05C3AAA7D1E}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{238F154B-F2AE-4ACC-B8C0-253F9D65AFB6}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cold cathode off</Property>
 	<Property Name="varPersistentID:{23B8CA3E-20AF-44CF-8578-528D82AD7561}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer image vac gauge cluster</Property>
 	<Property Name="varPersistentID:{23BC4328-57F6-4FF9-A509-50850BC128AF}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Pre-Acc HV Enable</Property>
 	<Property Name="varPersistentID:{23CBFB57-EB4B-454A-8C3E-37F557651AA4}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA- HV Enable</Property>
 	<Property Name="varPersistentID:{23DFBB0F-106F-4593-824D-32053701E48E}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image FC Actuator</Property>
 	<Property Name="varPersistentID:{24108D55-4565-4387-B368-9A0662DB679F}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Vac Cluster</Property>
 	<Property Name="varPersistentID:{24885C96-88FC-4CBA-8994-0E49C359DEF0}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image Vac Cluster</Property>
+	<Property Name="varPersistentID:{24FFBA4C-3BA0-437B-A60E-97020B028616}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI13</Property>
 	<Property Name="varPersistentID:{2549D56F-5E4C-40A1-ADFB-1632596E67FC}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Cryo Pump GV actuator</Property>
 	<Property Name="varPersistentID:{25CCDDBD-5A23-4087-B172-DBC356BD5C79}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y- steerer voltage readback</Property>
 	<Property Name="varPersistentID:{25F78EDC-02EE-49D5-82F5-B370334D3C87}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y- Steerer V read</Property>
 	<Property Name="varPersistentID:{2662CEB7-647B-4BF6-B2F4-0A83A85CCE8B}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Beamline GV 1 Actuator</Property>
+	<Property Name="varPersistentID:{26631A5B-CEFE-4B40-89AB-BAAE47E6A333}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read sc gv closed</Property>
 	<Property Name="varPersistentID:{2686FADC-4075-458E-A206-5F3F82511139}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/setpoint</Property>
+	<Property Name="varPersistentID:{26B8B89D-BC8B-4999-BD1F-E5EC531CCA5C}" Type="Ref">/SCA-cRIO/Chassis/Mod8/pushin</Property>
 	<Property Name="varPersistentID:{26C3A609-21DC-45BD-9D08-2DC8CEF24D76}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB- voltage set</Property>
 	<Property Name="varPersistentID:{26C7AFE8-4C30-4693-A0C8-666F0FB565F5}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze image ion gauge 1</Property>
 	<Property Name="varPersistentID:{26E306F4-3471-4BE3-B689-40C3E04F19C5}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Switching Mag GV Status</Property>
 	<Property Name="varPersistentID:{26F9B330-C111-4B15-A74C-3CB85F506FFD}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/Cryo loop error</Property>
+	<Property Name="varPersistentID:{27343CAA-1D5F-435B-B53B-80D113EB958A}" Type="Ref">/SCA-cRIO/Chassis/Mod7/insert in1</Property>
 	<Property Name="varPersistentID:{274C6ACA-6840-4D11-9325-FE9E43D1A22A}" Type="Ref">/InjectorA-cRIO/local injA shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{276AD580-A43C-42D3-AB21-A146E99E2CAE}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{27DA7193-E807-4696-B03F-9376ACF47B9B}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{27FBF15D-C782-424F-9C67-48755117955B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{2848A3B6-F6E9-47A9-A12E-C82ED1D02B86}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 1 V set</Property>
+	<Property Name="varPersistentID:{285FFDF6-7267-4542-851C-646466C83438}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI13</Property>
 	<Property Name="varPersistentID:{28BBC0E0-7E0C-4C6A-8566-1588DF943899}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/Vacuum readback loop error</Property>
 	<Property Name="varPersistentID:{291C8708-F8D9-4F33-8670-9F49FBF8FDB9}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Quad Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{2970E11B-393D-4093-89E0-AB7ED7332337}" Type="Ref">/HighEnd-cRIO/local highend shared var lib.lvlib/HV readback loop error</Property>
 	<Property Name="varPersistentID:{29C5216B-643E-411A-A115-B32B26CB15DB}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/X+ Steerer I read</Property>
 	<Property Name="varPersistentID:{29F43053-02A6-4059-A23E-29D6A6BBB73E}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/HighEnd-cRIO Error</Property>
 	<Property Name="varPersistentID:{2A391222-8E9F-4958-8F32-824F8F71E541}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Einzel I readback</Property>
+	<Property Name="varPersistentID:{2B020B69-0BC1-4B0D-93DB-A433B81F5E45}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Retract Rod retraction</Property>
 	<Property Name="varPersistentID:{2B054A1E-CD02-4652-8ABA-51C0F3FED283}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Aperture Status</Property>
+	<Property Name="varPersistentID:{2B1192FE-A71F-477F-BFD7-FCF3AFB22335}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/Encoder Home Off-Set</Property>
+	<Property Name="varPersistentID:{2B3A095D-F9C1-457D-9914-2DB3D36BEFD1}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/SM Config Update?</Property>
+	<Property Name="varPersistentID:{2B7D1DEC-2E7E-44EC-AD6D-C40A6A71DFCA}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Open Wheel GV</Property>
 	<Property Name="varPersistentID:{2BC4CD94-2F02-4ABE-A5BE-94D330C7A519}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/ControlRoom-cRIO error</Property>
 	<Property Name="varPersistentID:{2BED9A64-0471-422A-B13B-FC0C6FC9A5DF}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Vac Cluster</Property>
+	<Property Name="varPersistentID:{2BFED57D-F5C5-4526-92B2-BBBEF5930A92}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI16</Property>
 	<Property Name="varPersistentID:{2C189CEA-BAE0-405A-B973-7D4FECD1114F}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Turbo 2 GV Actuator</Property>
 	<Property Name="varPersistentID:{2C49F3F7-0CD7-4FFA-87B2-5B1BA3A53657}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y-steerer- HV Enable</Property>
 	<Property Name="varPersistentID:{2C703169-12FC-44F2-9FC3-6F57FA21D619}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Vacuum Loop error</Property>
 	<Property Name="varPersistentID:{2C79689B-15BE-4F8F-AAA2-AD66C325AD1B}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{2C859005-ACE4-4BDF-A4C0-927326B26F0A}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Vac Interlock</Property>
+	<Property Name="varPersistentID:{2CD291D6-A2F9-4636-A077-BE0587A40DD3}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO2</Property>
+	<Property Name="varPersistentID:{2CD98C46-60F9-47B4-A14E-EA30D78790A8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/end test</Property>
 	<Property Name="varPersistentID:{2D0A85A5-0611-44E0-8B1D-F5EF3A1F53C4}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/reinitialize? (F)</Property>
 	<Property Name="varPersistentID:{2DA44466-8F5E-4989-BC0D-E0AD4881D5C6}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1+ V read</Property>
 	<Property Name="varPersistentID:{2E008585-D997-4436-9058-CCD499C8FD7B}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{2E58C3EC-32B0-4D94-ABDC-C60685AE232D}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{2EB62E66-3A37-4367-A807-EE3DC80A13AA}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1- I read</Property>
+	<Property Name="varPersistentID:{2EC899AB-30FD-49E1-BD07-01BC9BEBB5FC}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO15</Property>
 	<Property Name="varPersistentID:{2F00F48F-58E1-413C-9532-298593D695C6}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y+ steerer voltage set</Property>
 	<Property Name="varPersistentID:{2F9CC0AA-3629-47ED-B4D6-487F628A32E0}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Reset Injector Magnet Supply</Property>
 	<Property Name="varPersistentID:{2FAEE262-920E-4587-ACBB-91FA83E995D4}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{2FEC9717-7987-42B3-B3EE-9EBFC00EB9FC}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Y- Steerer V set</Property>
 	<Property Name="varPersistentID:{3008D39A-46F8-43DA-B05E-C3B39042BC25}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{300CB0C0-1C49-4FEC-B214-48CD0D8CB239}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer Image FC Actuator</Property>
+	<Property Name="varPersistentID:{30BDD19C-E642-4EF7-BD03-665C6A488507}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO7</Property>
 	<Property Name="varPersistentID:{30F6A747-F918-42B3-99EA-D85D6C256869}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{3133B128-6EB8-4D2E-8ECD-B1C0922CCCAB}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Vac Interlock</Property>
 	<Property Name="varPersistentID:{3142A139-B48B-460D-A209-26CB27903051}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A V set</Property>
@@ -192,21 +234,29 @@
 	<Property Name="varPersistentID:{319DBA4E-52D7-4889-B08E-B1CA42CF4B42}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB Slot Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{31FE4795-9FA7-47D9-BBCB-198EE638690D}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y- Steerer V readback</Property>
 	<Property Name="varPersistentID:{32380D31-7E47-44D4-BE78-D3037B8B0048}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y+ Steerer V set</Property>
+	<Property Name="varPersistentID:{32544B5E-5688-48E8-B518-1A35328CF5F1}" Type="Ref">/SCA-cRIO/Chassis/Mod5/cold cathode</Property>
 	<Property Name="varPersistentID:{325AE98E-43DF-46EC-8F2D-5C9192EF53FA}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA X Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{3264BEA8-2D4F-49AE-AACB-E8DA874CA2A7}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Y Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{3276457A-8E03-4EE2-B3D9-D251E09FF440}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO5</Property>
 	<Property Name="varPersistentID:{3295583B-25CE-438D-A2EF-B92BBF12A787}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Turbo 1 GV</Property>
 	<Property Name="varPersistentID:{32A51430-E22A-4FF9-A817-753A31A6BC7F}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Beamline GV 3 Status</Property>
 	<Property Name="varPersistentID:{32D1D8A1-3AE1-4FDE-B8EA-922065C41738}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Ion Gauge 2</Property>
+	<Property Name="varPersistentID:{331EB965-6FBA-4400-A4DF-5801F124C7F7}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Sample Rod insertion</Property>
+	<Property Name="varPersistentID:{33B7C9CC-F151-4B2D-ADCD-A7ED990354A8}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI21</Property>
+	<Property Name="varPersistentID:{345D1BD8-E499-4EDC-8A0E-F179CF8F8B97}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set rod up1</Property>
 	<Property Name="varPersistentID:{34777F5B-D4D8-4ED8-8D7A-AACC729C90D1}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Convectron 2</Property>
+	<Property Name="varPersistentID:{34AB906E-8C9B-455C-92CA-D7C1DC658991}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Sample Changer Vacuum Reading</Property>
 	<Property Name="varPersistentID:{34DD975B-95B2-4834-AA78-349F79160EBB}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{34EB4C8D-F212-4753-ADA4-B7E5804D3BCF}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet read field</Property>
 	<Property Name="varPersistentID:{34F3D797-41D6-40F1-8E40-DC5C382451A0}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{35A6D430-8A97-44AB-ACC5-76DB53FE744A}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/process variable</Property>
 	<Property Name="varPersistentID:{35FDBD74-D002-4C28-8E30-F25146355FFD}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/beta</Property>
+	<Property Name="varPersistentID:{3622FD38-64AF-4034-B688-F0BDA27FF52A}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Encoder Position</Property>
 	<Property Name="varPersistentID:{36286B47-0B65-4FE8-A003-A713EA7BE360}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Turbo 1 GV</Property>
 	<Property Name="varPersistentID:{363C9FC7-05C7-4D5D-B2C8-0D34C656010D}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{365140BE-FD5F-4F66-9BED-378F055CD773}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{369A6D2A-9B06-40A9-877B-5354BE917BC9}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X+ steerer current readback</Property>
+	<Property Name="varPersistentID:{3702D68A-79EB-4443-A3B5-AF77C2973E25}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI22</Property>
 	<Property Name="varPersistentID:{372D303D-6C3F-44AD-A67E-D66A5B646CD5}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/setpoint high</Property>
 	<Property Name="varPersistentID:{379DBA30-9014-4CD4-A01C-71888367B0C4}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Einzel V set</Property>
 	<Property Name="varPersistentID:{37AE1B02-2F83-411F-B91F-07DAAF28273A}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad A V set</Property>
@@ -217,12 +267,15 @@
 	<Property Name="varPersistentID:{3833E009-CAF7-4930-A2A5-2EF9FAA25C40}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Detector Vac Cluster</Property>
 	<Property Name="varPersistentID:{384FC6FF-2C85-4344-B3F1-98D0B2537F1E}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans X+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{392D9153-3E1B-4627-9FA0-1342C5965BE1}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA X Steerer V readback</Property>
+	<Property Name="varPersistentID:{399B41AE-BC9E-4CBD-9B5C-C64F547F0070}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO14</Property>
 	<Property Name="varPersistentID:{39E72D40-337B-416D-9263-36CD94717684}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/setpoint high</Property>
 	<Property Name="varPersistentID:{3A115875-9415-4C63-8B60-831F942C5B83}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Vac Interlock</Property>
+	<Property Name="varPersistentID:{3A380EBA-FBED-4B4A-A691-9FA27CBAF512}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ION SOURCE covectron1</Property>
 	<Property Name="varPersistentID:{3A821809-033A-46CE-9D3E-4BC318AC74FD}" Type="Ref">/R30-1-cRIO/bound R30_1 shared var lib.lvlib/Switch Object Vac Interlock</Property>
 	<Property Name="varPersistentID:{3AB077DC-50B9-4F64-8579-D3162F0AD259}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Switch Image Convectron 1</Property>
 	<Property Name="varPersistentID:{3ACE4ADD-0B44-48ED-90A2-A7E67B6CB94F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y1- Steerer V readback</Property>
 	<Property Name="varPersistentID:{3B1791B8-39C6-44D9-8795-2F7808C015BD}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Beamline GV 1 Status</Property>
+	<Property Name="varPersistentID:{3B2D4896-C638-45B8-9915-474AEB716945}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO24</Property>
 	<Property Name="varPersistentID:{3B5DEF8B-AADE-4B0F-806E-1E745A31F606}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer image convectron 2</Property>
 	<Property Name="varPersistentID:{3B75017D-BBFA-4F94-86A6-2E1D1CD28217}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y+ steerer voltage readback</Property>
 	<Property Name="varPersistentID:{3BA172B4-CE84-48C5-AE59-981C0ABB0BCB}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Y- Steerer I read</Property>
@@ -230,10 +283,13 @@
 	<Property Name="varPersistentID:{3C256431-7F15-43D3-A080-54C8B5955B86}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit interlock bypass</Property>
 	<Property Name="varPersistentID:{3C72FB08-884B-467B-AE48-22CDB17EDBAA}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{3C841419-420B-4DBA-B5B5-365F582708EF}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 2 I readback</Property>
+	<Property Name="varPersistentID:{3C935C67-100F-4713-962E-7E64AAA2DDDA}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI8</Property>
 	<Property Name="varPersistentID:{3CC5C2D0-81A7-43AB-9E29-30B79186BD97}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Quad Convectron Gauge 2</Property>
 	<Property Name="varPersistentID:{3D39E559-1E1B-4990-8CD1-B2AA48AEC985}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/Interlock loop error</Property>
 	<Property Name="varPersistentID:{3D532AD6-0F27-43BB-867D-11BA63D4A9B4}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y- steerer voltage set</Property>
+	<Property Name="varPersistentID:{3E0184DD-778A-4981-AC8B-9EC8302EE257}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/wheel offset plus</Property>
 	<Property Name="varPersistentID:{3E39E699-BB7A-4EB9-A9DF-DF7AF7261CB4}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Cryo Readback</Property>
+	<Property Name="varPersistentID:{3E3BBE0C-029D-45A6-B24E-710A87BF9B2E}" Type="Ref">/SCA-cRIO/Chassis/Mod4/cathode set</Property>
 	<Property Name="varPersistentID:{3E4485F1-76EF-49C2-9984-03B8F5A0C28B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet coil current</Property>
 	<Property Name="varPersistentID:{3E49F5F1-76D9-4599-9A50-599F8B25D464}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{3E817326-D4A3-44EB-BCA4-90806222DDF5}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y+ Steerer V readback</Property>
@@ -241,6 +297,7 @@
 	<Property Name="varPersistentID:{3E9ECBF9-24AA-456D-99EE-8D880016685F}" Type="Ref">/R45-2-cRIO/bound R45_2 shared var lib.lvlib/Switch Object Interlock Bypass</Property>
 	<Property Name="varPersistentID:{3EDD946D-3302-44E0-B3AC-54AD91560FA4}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/dt out (s)</Property>
 	<Property Name="varPersistentID:{3F56622C-1C87-4078-82CB-3560215CDE44}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Mag Steerer I read</Property>
+	<Property Name="varPersistentID:{4026031C-DEC7-4CCE-BB23-64D04C20585B}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO29</Property>
 	<Property Name="varPersistentID:{4040A007-369E-470A-ABB0-F3FF1FC1566F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{404FE7B2-7C4A-4093-B697-E3EDE0BEA93F}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Turbo GV actuator</Property>
 	<Property Name="varPersistentID:{4061DCB0-A22B-42A1-A9C3-E73E40F10489}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X- Steerer HV Enable</Property>
@@ -249,6 +306,9 @@
 	<Property Name="varPersistentID:{408B5840-21BA-4830-8B8B-EBE07653614A}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/linearity</Property>
 	<Property Name="varPersistentID:{40E907CE-259F-4723-8C19-BEF12EF720A6}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{41007527-098F-4EAF-B60B-AC87E0AC77AE}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector Aperture Status</Property>
+	<Property Name="varPersistentID:{411AFE05-0C76-4E54-B7A1-656F70F0B327}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO21</Property>
+	<Property Name="varPersistentID:{41200777-8ED6-4A89-9DAC-2769BA057898}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/encoder set</Property>
+	<Property Name="varPersistentID:{41CA9F68-36D3-4A55-BCE5-5A6A4A530887}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Encoder destination</Property>
 	<Property Name="varPersistentID:{41CDCBBA-1825-4F92-A98A-64DDAD80BEA7}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Quad A I read</Property>
 	<Property Name="varPersistentID:{41F9E5C3-ED92-4AD1-9EF9-A0FB80E68EAB}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{42012F99-D178-482B-A5B2-4DC63A01FDC9}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Inductor</Property>
@@ -258,26 +318,33 @@
 	<Property Name="varPersistentID:{42ECE204-3A3A-4BA2-8AB5-7574EBACA375}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet set field</Property>
 	<Property Name="varPersistentID:{433C2019-1F85-4930-B83C-2AD35D9B0D78}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Switch Object Vac Interlock</Property>
 	<Property Name="varPersistentID:{435644D4-F72D-4F4D-BC94-B19B4F8CD29A}" Type="Ref">/LowEnd-cRIO/local lowend shared var lib.lvlib/Actuator-sensor loop error</Property>
+	<Property Name="varPersistentID:{435BFC4E-86DF-4DA8-A5E2-68AEF7BCCEEA}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI15</Property>
 	<Property Name="varPersistentID:{4396B279-138F-46B7-82ED-36DE2A99A11E}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Vac cluster 1 interlock</Property>
 	<Property Name="varPersistentID:{43A7DB7E-8997-4332-A8EE-AA19266E3AC1}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB Slot Convectron Gauge 2</Property>
 	<Property Name="varPersistentID:{43CBA2B2-3321-4D00-956F-659E8B30EEE1}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/dt out (s)</Property>
 	<Property Name="varPersistentID:{43E59AC0-1B39-43F4-964A-82CE95C4CCAB}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Inj Image FC actuator</Property>
 	<Property Name="varPersistentID:{43F49036-9869-4825-90CF-47E6DD71D411}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X- Steerer I readback</Property>
+	<Property Name="varPersistentID:{443F7E7A-C1B9-4AF9-B7A5-506FEAE9375F}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO16</Property>
 	<Property Name="varPersistentID:{445AFC9D-72EC-401B-A9D7-B1DE29ED5E69}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{448323B2-5F74-4DA8-BA20-B3BC761D6723}" Type="Ref">/LowEnd-cRIO/local lowend shared var lib.lvlib/HV control 1 loop error</Property>
 	<Property Name="varPersistentID:{44906C4A-3984-4CAF-80CF-E30A7A7EC35E}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Beamline GV Actuator</Property>
 	<Property Name="varPersistentID:{44A02E7C-F84A-479C-9822-6DE4C344AA5D}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad B- I readback</Property>
 	<Property Name="varPersistentID:{44CEBE58-7F38-4177-93E0-8ADC782C47E9}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{450CA913-30AC-4E1B-B13E-DBDB40C9EDB7}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image FC actuator</Property>
+	<Property Name="varPersistentID:{451C306D-C19E-4D15-B03D-45B651DC4901}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI14</Property>
 	<Property Name="varPersistentID:{451C8DA6-4983-4A82-A366-ACA5F49675B0}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Column</Property>
 	<Property Name="varPersistentID:{454F8BC6-06BD-41FC-90CF-7E79F48CF9E8}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/auto? (T)</Property>
 	<Property Name="varPersistentID:{455CA05E-5467-4456-AE30-F2B3CF844CF4}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 1 V set</Property>
 	<Property Name="varPersistentID:{457220E9-874E-422D-8799-88A98591B398}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Vac Interlock</Property>
 	<Property Name="varPersistentID:{460E929E-D96C-4809-B153-2FDD4E3C8FA9}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA- I read</Property>
+	<Property Name="varPersistentID:{46166259-C0EF-4ABF-90E8-225D8A5ADF3F}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI22</Property>
 	<Property Name="varPersistentID:{4623FFCA-FF6A-445F-9006-52FD4658158B}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/linearity</Property>
+	<Property Name="varPersistentID:{465A1426-5F4D-402B-9F2A-50A5979BA198}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI25</Property>
 	<Property Name="varPersistentID:{4663C736-E747-4FAD-8498-1620C4AC4E46}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Pre-Acc Aperture Status</Property>
 	<Property Name="varPersistentID:{46D37BA9-BDFF-4E05-B734-3DAE3E12090E}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Turbo GV actuator</Property>
+	<Property Name="varPersistentID:{46DCC1E5-80EE-44D0-8C5B-848A2BA010F0}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cold cathode on</Property>
 	<Property Name="varPersistentID:{4723BAF3-560E-47C3-B9B4-9ADC89A378AD}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X+ Steerer V read</Property>
+	<Property Name="varPersistentID:{473311CE-3299-4C07-B178-C177B90B5FA0}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI17</Property>
 	<Property Name="varPersistentID:{47D54F13-17F9-4AC6-B465-B3612A3725B3}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Quad B I read</Property>
 	<Property Name="varPersistentID:{47F93CC7-4789-428B-AEE0-4119A4FC14D6}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd-cRIO error</Property>
 	<Property Name="varPersistentID:{47FC4C32-C6C8-40F0-B27D-291C8E50B433}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/GFM field read</Property>
@@ -287,6 +354,7 @@
 	<Property Name="varPersistentID:{489591F8-4773-4D18-9395-189922D96AF9}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Convectron 1</Property>
 	<Property Name="varPersistentID:{489F041B-976D-42F0-AB55-82886B643299}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Inj Image Aperture actuator</Property>
 	<Property Name="varPersistentID:{48B839CC-3489-47D4-A0E3-433441053575}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad A- I readback</Property>
+	<Property Name="varPersistentID:{4900CFA0-78F9-4625-B3F2-CFD367A14E99}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI24</Property>
 	<Property Name="varPersistentID:{49142EE1-DD3A-4A8D-8FBF-5217676A355C}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Y Steerer V set</Property>
 	<Property Name="varPersistentID:{4934A953-7525-4807-8AA6-28B3DD9A1906}" Type="Ref">/LowEnd-cRIO/local lowend shared var lib.lvlib/GV interlock loop error</Property>
 	<Property Name="varPersistentID:{49B3B1A2-8D84-4E21-9B40-D2790C5163A3}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Injector Magnet set field</Property>
@@ -295,12 +363,14 @@
 	<Property Name="varPersistentID:{4B1563AC-3B12-49BE-B6AC-D0DD06DBCA9F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A- I readback</Property>
 	<Property Name="varPersistentID:{4B2B0549-04DB-43FD-9388-74D08D7C61CD}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Bounce Magnet Image Aperture actuator</Property>
 	<Property Name="varPersistentID:{4B5B6620-FD2D-4D06-BDFA-BAFA9C0AC4AE}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Right-Steerer I read</Property>
+	<Property Name="varPersistentID:{4C26453F-B408-43E4-8E49-2C7BD2605C82}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set retract out</Property>
 	<Property Name="varPersistentID:{4C58916C-9131-4A59-A47D-CB443F893BE8}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector FC Position</Property>
 	<Property Name="varPersistentID:{4CAD42AD-FA80-4384-8BB6-A21FA1835F90}" Type="Ref">/R45-2-cRIO/local R45_2 shared var lib.lvlib/HV control loop error</Property>
 	<Property Name="varPersistentID:{4D6E8B68-E2BB-4B85-908F-96C950819CFA}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/reinitialize? (F)</Property>
 	<Property Name="varPersistentID:{4D6F03A5-F90D-48E1-A855-4C5D985E509A}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/output</Property>
 	<Property Name="varPersistentID:{4D84C0F9-CCD1-45E4-AA2A-684B87B3ED0E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{4DB59FA2-C069-400B-A865-6A67C2CA8B37}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2+ Steerer V readback</Property>
+	<Property Name="varPersistentID:{4DD4F504-6AD6-4160-8D32-0570931E5C89}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cathode voltage read</Property>
 	<Property Name="varPersistentID:{4DE7174C-F99B-4A16-9E46-5F52A9AAB642}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/proportional gain (Kc)</Property>
 	<Property Name="varPersistentID:{4E035C60-E34B-4FA5-925A-A2CFFB86797F}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB+ current readback</Property>
 	<Property Name="varPersistentID:{4E1F7AD9-9F70-490D-9992-00DFD070A466}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X- Steerer V set</Property>
@@ -325,6 +395,7 @@
 	<Property Name="varPersistentID:{514275FE-CF32-4969-8F3E-30D5B41016BC}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 2 Interlock bypass</Property>
 	<Property Name="varPersistentID:{517A5A8B-1673-4CE8-9F1F-ADFC0EEBF4DB}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad B+ I readback</Property>
 	<Property Name="varPersistentID:{51A3271D-CF6A-4D3F-8CE2-F7343A2F9ABC}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1 voltage set</Property>
+	<Property Name="varPersistentID:{51AE23A5-7996-46AB-81D4-433AD4546CF1}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Requested Sample</Property>
 	<Property Name="varPersistentID:{51BAA693-6BE8-4791-B95A-35726DE80A5C}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Pre-Acc V set</Property>
 	<Property Name="varPersistentID:{51EECE55-81EF-4D90-B064-7E84F0F72710}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Einzel V readback</Property>
 	<Property Name="varPersistentID:{521C5F29-53CE-48CE-9412-A53B05B1DB4B}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Turbo 2 GV status</Property>
@@ -332,6 +403,7 @@
 	<Property Name="varPersistentID:{525420EC-D1B0-4879-8B0C-7C75B2D25E16}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Down-Steerer V read</Property>
 	<Property Name="varPersistentID:{528094AA-D6D3-417D-AE6C-821E20E7B672}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Cryo Pump GV Actuator</Property>
 	<Property Name="varPersistentID:{53122754-6244-4A00-AEB7-BF7F950A41F3}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Cryo Pump GV Status</Property>
+	<Property Name="varPersistentID:{534CD61D-EA14-4C2E-9A7B-6352F2CF7B27}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/sample change complete</Property>
 	<Property Name="varPersistentID:{53525E93-F83A-4D29-9369-9CFA3CE9A6E3}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2 Reset</Property>
 	<Property Name="varPersistentID:{53AC5281-1972-464A-B841-50B2CA2E5DFC}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Convectron 1</Property>
 	<Property Name="varPersistentID:{53FE5565-F07B-4113-9D89-EF94401079CB}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2+ Steerer I readback</Property>
@@ -342,18 +414,26 @@
 	<Property Name="varPersistentID:{54DD1629-2918-485B-9EBC-382BAF3910D1}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/X- Steerer V set</Property>
 	<Property Name="varPersistentID:{54DF68E5-5EBC-4491-A050-97E43D8FC343}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{54E274CF-07E5-44CE-9170-F13F79AE1CE8}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 2 I readback</Property>
+	<Property Name="varPersistentID:{550DC959-2282-4A1F-B337-9C2E7DE616A0}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read insert out</Property>
+	<Property Name="varPersistentID:{5553F8FC-276E-4BD0-80DC-0F2E3315309E}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO12</Property>
 	<Property Name="varPersistentID:{556BECC9-E7EB-43EE-B0C9-F7E663C42940}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Inductor</Property>
 	<Property Name="varPersistentID:{56252A12-C0BF-4CA2-AF2E-425E0E551304}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2+ Steerer V set</Property>
 	<Property Name="varPersistentID:{562C8052-560C-4DC4-9AA8-F6EF013D6190}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Beamline GV actuator</Property>
 	<Property Name="varPersistentID:{5698B367-26EA-4A3F-A1B0-454CF454B4CF}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Convectron 2</Property>
+	<Property Name="varPersistentID:{56AAFF1D-6897-4C77-815D-0B4DD9A47261}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/HV control</Property>
 	<Property Name="varPersistentID:{56ACBABF-1579-4F17-B7B1-5A9198B18FCD}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Turbo GV Status</Property>
 	<Property Name="varPersistentID:{57074D3D-5DDB-4814-B1C0-ECC4A670F33A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Einzel V set</Property>
 	<Property Name="varPersistentID:{57363456-A93B-4F72-9D29-AD753668D392}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/dt out (s)</Property>
+	<Property Name="varPersistentID:{574FD79A-6853-4029-98AB-98ADDFF24E32}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI12</Property>
 	<Property Name="varPersistentID:{575E1E97-6DAF-49BC-B3AC-783B56AE7A10}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X- steerer current readback</Property>
 	<Property Name="varPersistentID:{5785F11E-B0F0-4DEC-B487-984B17E04162}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Einzel HV Enable</Property>
 	<Property Name="varPersistentID:{57EF7754-DFD3-42A0-938B-E4E02424324F}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/error out</Property>
 	<Property Name="varPersistentID:{583F504C-0C81-4BCC-B388-48B686704079}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X- Steerer V readback</Property>
+	<Property Name="varPersistentID:{58B5293A-6F11-4472-B9AC-19AC5F3E415D}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI26</Property>
 	<Property Name="varPersistentID:{58F1CB02-DAE4-4781-9CF3-FBFB4C6E4675}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Bounce Mag Image  Aperture Status</Property>
+	<Property Name="varPersistentID:{5923E534-244A-4B65-BB9F-2122B571AF75}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO6</Property>
+	<Property Name="varPersistentID:{59430CC4-8599-43A8-AF43-D8716C8DCF79}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO27</Property>
+	<Property Name="varPersistentID:{598AB633-0929-450A-A8C4-E5CDA798C954}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO1</Property>
 	<Property Name="varPersistentID:{59D7F16C-6E54-4F25-A798-B1497E8572AE}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Right-Steerer V set</Property>
 	<Property Name="varPersistentID:{59EEFD8F-DBEB-473F-B0DD-AB0B045B1044}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Convectron Gauge 2</Property>
 	<Property Name="varPersistentID:{5A290190-505F-4737-8C7F-1ABA658795C9}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/error in</Property>
@@ -363,10 +443,12 @@
 	<Property Name="varPersistentID:{5B4988DF-EFEF-4B11-94A5-54DD1B73DC9D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad B- V readback</Property>
 	<Property Name="varPersistentID:{5B79E18F-D222-416C-9B05-7454F7717D46}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object ion gauge 2</Property>
 	<Property Name="varPersistentID:{5BA6A35A-2832-41E3-9897-1485EEE4F0BC}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 3 Interlock</Property>
+	<Property Name="varPersistentID:{5BDCDA56-0295-41DE-8EE2-9B201E53D0F6}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO8</Property>
 	<Property Name="varPersistentID:{5C27028C-96DC-4719-8253-E74F6D2834AE}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Beamline Fast GV Status</Property>
 	<Property Name="varPersistentID:{5CBC34AF-997F-43BC-A7F9-33C4144A6798}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{5CD65D0B-3022-4F89-B42B-7C322B557B27}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB coil current set</Property>
 	<Property Name="varPersistentID:{5CEC93F5-07AA-4AF6-829A-C39B8D53DD46}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Switching Magnet GV</Property>
+	<Property Name="varPersistentID:{5CEE7F6A-5614-462F-B11C-A1E65A514864}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO4</Property>
 	<Property Name="varPersistentID:{5CFAB121-EF8D-43DF-B5F0-9730DFB86B74}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/InjA cRIO error</Property>
 	<Property Name="varPersistentID:{5CFF93E2-E8C3-42BD-90AC-153C7C698187}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Up-Steerer V read</Property>
 	<Property Name="varPersistentID:{5D111242-2FA0-498D-B301-61BB5BE3A71C}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X+ Steerer V readback</Property>
@@ -385,6 +467,7 @@
 	<Property Name="varPersistentID:{6060163D-58E9-4793-B801-8D932C9409A7}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Beamline GV 3</Property>
 	<Property Name="varPersistentID:{60805BDF-C316-4F77-82C8-28D681D286BB}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Pre-Acc Aperture actuator</Property>
 	<Property Name="varPersistentID:{60AEF5FA-5FC2-4876-AB3F-782F946CBA23}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Cryo Pump GV Status</Property>
+	<Property Name="varPersistentID:{6109DA19-5675-4E25-8458-745C18F2529B}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read rod  down</Property>
 	<Property Name="varPersistentID:{61998DAC-F6B6-46A7-892A-F2C5C69A8FEA}" Type="Ref">/R45-2-cRIO/local R45_2 shared var lib.lvlib/HV readback loop error</Property>
 	<Property Name="varPersistentID:{61C7DAEF-3673-4139-A83E-8E05B172725C}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y- steerer current readback</Property>
 	<Property Name="varPersistentID:{61D8CBFE-1CEB-4B71-9825-82F83AC045D9}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB- voltage readback</Property>
@@ -393,13 +476,16 @@
 	<Property Name="varPersistentID:{63295D11-E324-4F62-9756-5DDF42173576}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 4 Interlock</Property>
 	<Property Name="varPersistentID:{63678F3C-A058-4DF0-9400-B2C3E22D05CB}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Chain</Property>
 	<Property Name="varPersistentID:{63B1FCDB-42F8-4EB6-89C6-FEC530335D02}" Type="Ref">/LowEnd-cRIO/local lowend shared var lib.lvlib/HV readback 2 loop error</Property>
+	<Property Name="varPersistentID:{63D33C00-EA58-4D8E-A4CE-B93E9A30FAD5}" Type="Ref">/SCA-cRIO/Chassis/Mod4/extractor set</Property>
 	<Property Name="varPersistentID:{63F6E671-FE6E-4FA2-9229-8EFC193EC49A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Vac Interlock</Property>
 	<Property Name="varPersistentID:{64050EC7-CBB0-44C0-9FC2-4C89AC962F0A}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Right-Steerer V read</Property>
 	<Property Name="varPersistentID:{642D4D77-944C-42CD-B36E-AAA226AB5026}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output low</Property>
+	<Property Name="varPersistentID:{64DC7508-7B53-4DB9-A5F6-75AB9202CB45}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/rotate wheel</Property>
 	<Property Name="varPersistentID:{64ECB0B6-76F0-4EFA-84FF-BF16E312E72E}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/auto? (T)</Property>
 	<Property Name="varPersistentID:{64FE1D0D-7A70-46E4-8B25-9BC58302E89D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Beamline GV Status</Property>
 	<Property Name="varPersistentID:{65032E04-6380-4FBC-B253-D869E4590337}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image FC Actuator</Property>
 	<Property Name="varPersistentID:{650406C3-6BF5-4D66-B994-2B01C9477C62}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1 Magnet current set</Property>
+	<Property Name="varPersistentID:{654AE075-D751-4C84-8CC0-8531ED3A5FD2}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI24</Property>
 	<Property Name="varPersistentID:{6573B936-C650-4408-8A6D-3DEFCB0D16EC}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 1 I readback</Property>
 	<Property Name="varPersistentID:{65D67B90-D482-4FCB-A500-F9A582D79E91}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{66283535-9AB5-43FB-B1C8-BA008B62521E}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Left-Steerer V read</Property>
@@ -410,22 +496,36 @@
 	<Property Name="varPersistentID:{67C3CD08-7C05-48AD-8D17-B69BA1D4D8C7}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA+ V read</Property>
 	<Property Name="varPersistentID:{67CB3E5F-658D-4F14-BE12-3A065B099B54}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Turbo Rotation Status</Property>
 	<Property Name="varPersistentID:{67F084B4-2F32-4ED3-B8A9-755AAE5C1371}" Type="Ref">/InjA-Image-cRIO/bound injAimage shared var lib.lvlib/Injector A Vac interlock bypass</Property>
+	<Property Name="varPersistentID:{68FB8403-58E5-42AB-919A-E77739E4113A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set vent system</Property>
+	<Property Name="varPersistentID:{69B40C03-1C02-464D-8D1D-4DAFB5D5992B}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Ion Source Turbo</Property>
 	<Property Name="varPersistentID:{69FEE96D-3148-436F-852F-F71DC0CE22BA}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB- current readback</Property>
 	<Property Name="varPersistentID:{6A24FA78-9D49-4FFE-8766-5C781608D0A8}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Turbo GV actuator</Property>
 	<Property Name="varPersistentID:{6A2F043A-02D9-42AF-AA25-715AF0593FFF}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 2 V readback</Property>
 	<Property Name="varPersistentID:{6A4F0853-963D-4086-A835-2850F884FD08}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Turbo 2 GV Status</Property>
 	<Property Name="varPersistentID:{6A583886-3F3D-48F6-82B8-B7BDE2EA5F64}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/setpoint</Property>
+	<Property Name="varPersistentID:{6A70FA8A-574A-489B-8BCB-9CA4C8920051}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO25</Property>
 	<Property Name="varPersistentID:{6A72F2A8-18D1-41BC-83C1-6C9FDB6F3447}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X+ Steerer V set</Property>
+	<Property Name="varPersistentID:{6A8447B5-DA68-415B-9E78-1FDDDDA830BC}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI18</Property>
+	<Property Name="varPersistentID:{6AB5AF61-BE74-44A4-9953-75BEEDE2C473}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO20</Property>
+	<Property Name="varPersistentID:{6AD7EAFB-1F57-4845-9BBF-17EF7B3371E9}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Retract Rod Status</Property>
+	<Property Name="varPersistentID:{6AF0B405-6E4C-417E-8C4B-97846F98F5F5}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Close Wheel GV</Property>
 	<Property Name="varPersistentID:{6B012C08-147B-4AC1-8CB6-E8FCF9F5DAF3}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2+ V read</Property>
 	<Property Name="varPersistentID:{6B22CCE0-7D46-45F4-A412-8D65C005CDCD}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist FC Status</Property>
 	<Property Name="varPersistentID:{6B26E12E-F139-4509-AEDF-6D4C358A6D85}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Convectron 1</Property>
 	<Property Name="varPersistentID:{6B5D5B54-CBF1-44BD-B271-79EE2FC2E8F3}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Left-Steerer V read</Property>
 	<Property Name="varPersistentID:{6B73AEC3-4168-4D22-80EC-A6B372B94DA0}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Inj Image FC Status</Property>
+	<Property Name="varPersistentID:{6B82BC9C-162C-45D3-AD47-1B05BE135EC5}" Type="Ref">/SCA-cRIO/Chassis/Mod7/retract out1</Property>
+	<Property Name="varPersistentID:{6C34688A-1ADC-4223-8390-DA4143B096A4}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO11</Property>
 	<Property Name="varPersistentID:{6C360C14-45EC-4D5C-B546-C3528F82E67D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A- V readback</Property>
+	<Property Name="varPersistentID:{6C39D034-E0CD-42C4-A66B-6E18B2B322C5}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI18</Property>
+	<Property Name="varPersistentID:{6C603E8A-3D87-40D3-9DCC-42FCC62766B6}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI20</Property>
 	<Property Name="varPersistentID:{6D1035D2-5F83-41B6-874A-33C304C27626}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y+ Steerer V set</Property>
+	<Property Name="varPersistentID:{6D359CE4-C08C-4A7A-B6BC-C1F20EF9926E}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/bellows ion gauge1</Property>
 	<Property Name="varPersistentID:{6D3E6B5D-09CC-445B-831C-5330BE989402}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Einzel I readback</Property>
 	<Property Name="varPersistentID:{6D43EB45-66C2-429F-91DF-5F3ADB33AA59}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Readback Loop error</Property>
+	<Property Name="varPersistentID:{6D873E2E-F986-422C-AC24-B09948111FA1}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/convectron</Property>
 	<Property Name="varPersistentID:{6D8FE95A-E0F5-4E60-8390-7983E0748C49}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{6E0F0FD2-EFDF-45ED-8D34-510D395BAD99}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/rod up shared</Property>
 	<Property Name="varPersistentID:{6EF81D50-1573-433C-B50C-22D720B0352B}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/setpoint</Property>
 	<Property Name="varPersistentID:{6EF92201-11C0-4B4A-A30D-1E48F48D470C}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad A+ I readback</Property>
 	<Property Name="varPersistentID:{6EFD3535-555A-48C2-BC41-A0F042C11D31}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Aperture Actuator</Property>
@@ -438,13 +538,17 @@
 	<Property Name="varPersistentID:{707806BF-C37D-40D1-BB4A-6ED1174DE2FE}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Vac cluster 2 Interlock</Property>
 	<Property Name="varPersistentID:{709C8FED-E73A-4C72-946E-D44A7DA5135F}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA+ HV Enable</Property>
 	<Property Name="varPersistentID:{70B4836F-73BA-49E0-9065-205AD6B81E6E}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X+ Steerer V readback</Property>
+	<Property Name="varPersistentID:{70E22949-FD35-434B-8EFE-5382BBD9B365}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI11</Property>
 	<Property Name="varPersistentID:{712BF6BA-A219-4C99-83A7-28C10EDC5964}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Vac Cluster</Property>
+	<Property Name="varPersistentID:{7169D3D0-CB01-4C18-B4A2-F396D945682D}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/stop random sample change</Property>
+	<Property Name="varPersistentID:{717E2CEA-FE54-4757-93DD-8C159C651D0C}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI30</Property>
 	<Property Name="varPersistentID:{71D272D9-1659-40E7-AF72-3666C930AD50}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Aperture actuator</Property>
 	<Property Name="varPersistentID:{721A6390-6CE7-4A64-9279-701B8A7D595B}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Reset Injector Magnet Supply</Property>
 	<Property Name="varPersistentID:{723E9476-39EA-48AF-B2CE-AC5BB71657BE}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Cryo Pump GV Actuator</Property>
 	<Property Name="varPersistentID:{72657077-7E4F-4D31-8640-3E4BC1A31442}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Down-Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{72D46A05-6A5D-4F12-B017-E3886D3C7ECC}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X- steerer voltage readback</Property>
 	<Property Name="varPersistentID:{7345C5F1-B782-44E4-9789-103D3AAD4ED4}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 1 V readback</Property>
+	<Property Name="varPersistentID:{73A77F38-DBA0-4C09-B656-7CED472F6E65}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/sc control</Property>
 	<Property Name="varPersistentID:{73CBF3F2-76DC-4655-843F-B4ADC9316042}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer Image Vac Interlock</Property>
 	<Property Name="varPersistentID:{7413A87E-7BAC-41FA-9DFB-E2F39450DE09}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Down-Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{7487DE03-389A-4143-861D-6F7F33E77314}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/HV readback loop error</Property>
@@ -452,26 +556,34 @@
 	<Property Name="varPersistentID:{755DF59D-2E5E-4FE1-A42F-732456250081}" Type="Ref">/R30-1-cRIO/local R30_1 shared var lib.lvlib/HV control loop error</Property>
 	<Property Name="varPersistentID:{75764431-D992-4880-9EA2-0DC2B0777DE8}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Up-Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{759BFBEF-CD3F-48F4-98A6-852EBCD04D36}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/InjA Image Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{75B8A8C7-C946-4874-BF1D-92F1356BA3E3}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/Bellows covectron1</Property>
 	<Property Name="varPersistentID:{75CA0584-216F-4FF8-B71F-3EF91D451403}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{76C7ECA2-EA8B-4156-A445-5E782E083F91}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 2 V readback</Property>
 	<Property Name="varPersistentID:{76F1F17B-FD68-4836-A0D2-623131759DA3}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Turbo Rotation Status</Property>
 	<Property Name="varPersistentID:{76FE16DE-9844-41C4-BE57-C743E714342C}" Type="Ref">/InjectorA-cRIO/local injA shared var lib.lvlib/HV readback loop error</Property>
 	<Property Name="varPersistentID:{77098295-2946-4667-806E-61A32CD1050B}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer magnet set field</Property>
 	<Property Name="varPersistentID:{770F1881-70C7-488C-88B7-12F45669BA2A}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Quad Ion Gauge 2</Property>
+	<Property Name="varPersistentID:{773978EF-7A99-4FC1-A0E0-CB119AEE81E0}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read retract out</Property>
 	<Property Name="varPersistentID:{77965E41-4EC1-4085-8D5A-4B49823D0A6D}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/setpoint high</Property>
+	<Property Name="varPersistentID:{77B4CF0B-9741-4B68-90FC-F861301F67BB}" Type="Ref">/SCA-cRIO/Chassis/Mod7/rod up</Property>
 	<Property Name="varPersistentID:{77DB3959-AA8F-4A5B-955C-74B7BD3A5555}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Quad Convectron Gauge 1</Property>
 	<Property Name="varPersistentID:{7897152F-DA41-47DA-9881-D81A9345A656}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{78CD822C-E59A-447A-84ED-92F0DA9101A4}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Vacuum Gauge interlock</Property>
 	<Property Name="varPersistentID:{79008BBB-D1EC-4C37-8801-4CF8623B944F}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Beamline GV 1 Actuator</Property>
 	<Property Name="varPersistentID:{7901A85B-91A6-4F3F-8DE7-4771B0775797}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Beamline GV Status</Property>
 	<Property Name="varPersistentID:{7931D558-E925-4881-92FE-F75B7A1E1B20}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Analzyer Object Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{7932C3A8-E13F-40C1-8A79-C2E96959441E}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read retract in</Property>
 	<Property Name="varPersistentID:{799429AE-9337-4A94-879B-9FB7D1DB3B0B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y1+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{79DCBFE7-36BF-4F9F-BAE8-CAE049231971}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch object convectron 1</Property>
+	<Property Name="varPersistentID:{79DEFD18-6AB8-457B-8A8C-90D032220BE4}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set rod down</Property>
 	<Property Name="varPersistentID:{79F563DF-DE8F-4AAE-B53A-E7F05CB874E8}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans X-steerer+ HV Enable</Property>
 	<Property Name="varPersistentID:{7A08D670-542B-40D4-8401-1F73BC74BDBC}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Vac cluster 1 Interlock bypass</Property>
+	<Property Name="varPersistentID:{7A1E96E1-89FF-47EF-814B-D28996B9CEF8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/rezero</Property>
+	<Property Name="varPersistentID:{7A95A3DE-8F62-4659-9A7D-953C3959B956}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ION SOURCE covectron2</Property>
 	<Property Name="varPersistentID:{7A9C40CC-1B46-4171-A86B-EAD20073372F}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Quad Convectron Gauge 1</Property>
 	<Property Name="varPersistentID:{7AB6DE07-610E-490F-ABBA-3C267B0D32F0}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 1 I readback</Property>
 	<Property Name="varPersistentID:{7ABD7AC1-2CB1-428D-9D49-814934573885}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Vac cluster</Property>
+	<Property Name="varPersistentID:{7B512297-CCC1-4F6A-BB2D-0C20F261A471}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Bellows Vacuum Readings</Property>
 	<Property Name="varPersistentID:{7B5C3C96-C091-458C-AAD9-622C8C807A74}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Magnet GV Actuator</Property>
 	<Property Name="varPersistentID:{7B6AB9DF-3D5F-4A35-B73A-5E90C7745197}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image FC Status</Property>
 	<Property Name="varPersistentID:{7B8EB88A-BFB3-44B6-97B1-D59A6A827245}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2- V read</Property>
@@ -494,10 +606,12 @@
 	<Property Name="varPersistentID:{7E88EAA5-1FDE-4BBE-A2E0-5AF2717109E1}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1- V read</Property>
 	<Property Name="varPersistentID:{7E8FF5BA-369A-4653-9E95-6A1D346D369F}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{7EEC5D73-D26E-49E1-A76D-AA357C601D87}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2- Steerer I readback</Property>
+	<Property Name="varPersistentID:{7F2080E8-308F-45EF-B2CF-5E6A1E42AE1C}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/position</Property>
 	<Property Name="varPersistentID:{7F6AD490-FCC1-40B7-AF88-8D42B61B0D5E}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyzer Image Interlock Bypass</Property>
 	<Property Name="varPersistentID:{7F7A7E9C-E1F5-4B67-BCF7-B955289AD639}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y+ Steerer I read</Property>
 	<Property Name="varPersistentID:{7FD88DA0-2F45-4ED8-902A-CBC063F33360}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y- Steerer V set</Property>
 	<Property Name="varPersistentID:{7FFEA97A-4F6B-42B6-BD8C-D0F0089FFB62}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/dt (s)</Property>
+	<Property Name="varPersistentID:{80049CFB-2228-47E4-8612-FFAD416B2029}" Type="Ref">/SCA-cRIO/Chassis/Mod8/sc gate valve two</Property>
 	<Property Name="varPersistentID:{802A13FB-BC01-4BCF-BA7C-399DAAA163AB}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Vac Interlock bypass</Property>
 	<Property Name="varPersistentID:{80377F01-6233-4FEC-8F1F-1ECE3D318661}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Analzyer Object Convectron 2</Property>
 	<Property Name="varPersistentID:{8048BD8D-F573-4A14-890E-9B728A5A795B}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector convectron 1</Property>
@@ -525,6 +639,8 @@
 	<Property Name="varPersistentID:{84496EDA-0C1C-440E-A050-EE4E213AFE3A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{84BBEDAA-4FCD-48C5-9DA5-161F833EF5FB}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{84D112A6-07B3-4A98-83C4-62CF75898AC4}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 1 V readback</Property>
+	<Property Name="varPersistentID:{8507161D-C80B-4157-9AD8-74FE51620C09}" Type="Ref">/SCA-cRIO/Chassis/Mod5/extractor voltage read</Property>
+	<Property Name="varPersistentID:{854440B8-36BA-44F8-BC1A-2EAA4461FBD8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/wheel offset minus</Property>
 	<Property Name="varPersistentID:{8587B934-8727-47F1-BA0D-96186386AF7A}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Y Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{85B6D15A-70C4-449C-8D7E-427D43819452}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{85DA8F12-65C8-423D-98E8-97E87DA44822}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/X+ Steerer V set</Property>
@@ -543,7 +659,10 @@
 	<Property Name="varPersistentID:{884C40B3-0E80-446F-86AE-583F2AFC22F6}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Vac Interlock</Property>
 	<Property Name="varPersistentID:{88DB2DA6-2F8B-4045-BE29-966D5D89DFE6}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/proportional gain (Kc)</Property>
 	<Property Name="varPersistentID:{88EAEAF4-B8C9-4F3B-B7C1-856DE5B8A30B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X+ Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{88F2892F-AB88-4DC3-BB35-55FAF430D944}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/extractor voltage read</Property>
+	<Property Name="varPersistentID:{892DB157-49EC-4DD1-BC95-9BE08E69B3E8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read insert in</Property>
 	<Property Name="varPersistentID:{8938E217-70A4-4337-B318-2BEC11FA8A54}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Terminal Voltage</Property>
+	<Property Name="varPersistentID:{89572FA0-6A75-4F34-A67D-1E36128619E4}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI23</Property>
 	<Property Name="varPersistentID:{898B8598-FF83-4AF3-BFF5-A10081C6BF8E}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y- Steerer I read</Property>
 	<Property Name="varPersistentID:{898E73BA-9718-447F-B150-C896E254B355}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A HV Enable</Property>
 	<Property Name="varPersistentID:{89A0EA80-6E96-4479-B335-6B0C3B8AC124}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Beamline GV 2 Actuator</Property>
@@ -552,9 +671,13 @@
 	<Property Name="varPersistentID:{89F85E38-6838-45FB-82F3-CE8F78D71425}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Y+ Steerer V read</Property>
 	<Property Name="varPersistentID:{8A15564B-6D7B-42AA-A989-876C651D2AA1}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{8A9629C0-B7C2-41C4-AE2A-4F6F9B1399E3}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y1+ Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{8AC5BE7C-F5BF-4FE5-B39B-B70A14C0EDAB}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/wheel readback</Property>
+	<Property Name="varPersistentID:{8AE0B52E-A6D6-4C07-9614-CAE940FB9B9B}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/Bellows covectron2</Property>
 	<Property Name="varPersistentID:{8AF67B1C-E230-4765-9E6F-B8E3485DA427}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer magnet coil current</Property>
+	<Property Name="varPersistentID:{8B7228AF-27C0-4C39-BAE3-918F33C7939D}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI10</Property>
 	<Property Name="varPersistentID:{8B865032-6822-4AFF-A506-A3C0A742F003}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/error in</Property>
 	<Property Name="varPersistentID:{8B86B375-48CA-46EE-8043-1B3DD8FFE6C4}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Left-Steerer V set</Property>
+	<Property Name="varPersistentID:{8BD1B1DF-BD94-41C4-869A-9256568640A9}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/listofstuff</Property>
 	<Property Name="varPersistentID:{8BDEF29C-8287-4675-863A-1B373651A4DD}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{8BDF87FB-0BCF-42DF-8776-B353B0C08085}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Vac cluster 2 Interlock bypass</Property>
 	<Property Name="varPersistentID:{8C3B0DBA-2657-41C4-8260-9F7D5789AA4B}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/dt (s)</Property>
@@ -569,6 +692,8 @@
 	<Property Name="varPersistentID:{8E6A7493-D2C0-4551-B7BB-B09E612662B2}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance FC Status</Property>
 	<Property Name="varPersistentID:{8E808000-6BFF-442A-B4F0-1596CC3CF187}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit FC Status</Property>
 	<Property Name="varPersistentID:{8ED7E527-4665-446E-AFF4-AD5045A89094}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Pre-Acc V readback</Property>
+	<Property Name="varPersistentID:{8F0A8AEC-07A8-4634-8C2A-E4E453C3033B}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO14</Property>
+	<Property Name="varPersistentID:{8F6E686A-21A7-47E7-9F16-E89FB6D6BE6A}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO8</Property>
 	<Property Name="varPersistentID:{8FCE65E7-A1ED-4432-8612-5F02A0989CAC}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Switch Image Vac Cluster</Property>
 	<Property Name="varPersistentID:{904BA0F7-16C2-4FFD-BE4C-23009072D73A}" Type="Ref">/InjectorA-cRIO/local injA shared var lib.lvlib/HV control loop error</Property>
 	<Property Name="varPersistentID:{904C541C-7916-4BEB-93CF-BEF80FED50F3}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB Slot Convectron Gauge 1</Property>
@@ -577,10 +702,12 @@
 	<Property Name="varPersistentID:{91B44723-9783-44C0-90C7-1E1F49D519B5}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector Convectron Gauge 2</Property>
 	<Property Name="varPersistentID:{91C4868B-B8E5-4231-86CF-D0B5C6E8B40A}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{91D1188B-CD91-4A71-AEA4-02D9CAF10DB8}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/X Steerer V set</Property>
+	<Property Name="varPersistentID:{91F2A7AB-A2BB-484F-AF6B-D7A09B37C949}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO12</Property>
 	<Property Name="varPersistentID:{921A6344-B566-4EBE-AA02-1F5815E63378}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X- Steerer V set</Property>
 	<Property Name="varPersistentID:{9228086E-0EFB-4990-8A56-A74593879A91}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch magnet read field</Property>
 	<Property Name="varPersistentID:{92545739-48C8-40EA-8BEB-C15EAA99BD5E}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA+ I read</Property>
 	<Property Name="varPersistentID:{926456C6-673C-413D-BA60-8F2C7B3AE99F}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X-steerer- HV Enable</Property>
+	<Property Name="varPersistentID:{92C013EB-37D7-4751-95E5-E23CD62D69CD}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI19</Property>
 	<Property Name="varPersistentID:{92DB380E-9D6D-4F53-AC19-95DF6E6D8CDE}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector FC Position</Property>
 	<Property Name="varPersistentID:{93091AAC-DDAD-4DC1-BCA3-6A32DAF08397}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/InjA Vac Cluster</Property>
 	<Property Name="varPersistentID:{93667747-49D4-4E59-A6D4-61D6E56FC281}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB- voltage readback</Property>
@@ -589,15 +716,22 @@
 	<Property Name="varPersistentID:{9410C669-544F-4F29-B781-E8332EBFB023}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y- Steerer V set</Property>
 	<Property Name="varPersistentID:{9420F643-93B3-46C0-943C-C5C1279E8551}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2+ I read</Property>
 	<Property Name="varPersistentID:{9472E186-FF83-4E8A-8FBF-B927B730E814}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/output high</Property>
+	<Property Name="varPersistentID:{94C0E863-13E9-4246-9BEA-AAD15BE0919D}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO9</Property>
+	<Property Name="varPersistentID:{94D16EB3-9E69-4FF9-9A6B-4AD06C081DF7}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO3</Property>
+	<Property Name="varPersistentID:{952FC79E-35C5-4EA3-8332-B4E67BA4FBAC}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cold cathode</Property>
 	<Property Name="varPersistentID:{95325506-8579-4CE9-BEBC-99AEFFB30D19}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Vac Interlock bypass</Property>
 	<Property Name="varPersistentID:{9571403A-3DC6-4725-B730-364BD91A2D85}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Analzyer Object Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{959DC821-61FC-4F02-9317-AE95AA19CE88}" Type="Ref">/SCA-cRIO/Chassis/Mod5/cathode current read</Property>
 	<Property Name="varPersistentID:{95AF91C7-B218-417F-8941-33518618AED0}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y- Steerer V set</Property>
+	<Property Name="varPersistentID:{961AF09A-9C20-40B0-9EBD-CA883DAB14D8}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Converted Encoder</Property>
+	<Property Name="varPersistentID:{967EDF11-8B72-47D0-ADF2-8CEA12B18068}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO18</Property>
 	<Property Name="varPersistentID:{969BC0BC-2713-4550-8F83-F21C5D85E001}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/X- Steerer V read</Property>
 	<Property Name="varPersistentID:{96A68757-A855-44CC-86AA-398CBE51336C}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 2 V set</Property>
 	<Property Name="varPersistentID:{96C59CAF-BE70-4775-83D0-5D603246D7B1}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/linearity</Property>
 	<Property Name="varPersistentID:{970ECF2C-5688-41E2-952A-E89AA36F74D3}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA- V read</Property>
 	<Property Name="varPersistentID:{976FD1E6-8887-4A5F-9D7B-E17C22B70746}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2 HV Enable</Property>
 	<Property Name="varPersistentID:{97D76A50-4FAC-4FB4-ACEF-6C3D0596223E}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/derivative time (Td, min)</Property>
+	<Property Name="varPersistentID:{97E51AD7-71AF-4622-8FE5-653A344450ED}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set encoder wheel</Property>
 	<Property Name="varPersistentID:{97E70836-3235-40B7-806A-1BE92D1204E3}" Type="Ref">/R30-1-cRIO/bound R30_1 shared var lib.lvlib/Switch Object Interlock Bypass</Property>
 	<Property Name="varPersistentID:{97EDFE2D-93C0-4E97-BFE7-1F31C02FA609}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Turbo 3 GV Status</Property>
 	<Property Name="varPersistentID:{980D9091-37EA-4DC8-A5A8-AAE549CA3779}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/X Steerer I readback</Property>
@@ -610,6 +744,7 @@
 	<Property Name="varPersistentID:{98C020C2-39CA-42A6-B5CD-0D186700A8DC}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/HV control loop error</Property>
 	<Property Name="varPersistentID:{990961A4-0D75-4203-8DA8-8DC5DDCC6614}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/dt (s)</Property>
 	<Property Name="varPersistentID:{9998936E-337D-498C-AE3F-C70E4306D927}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{99BFE290-15C9-4259-9DCA-61D56BA44CE0}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO4</Property>
 	<Property Name="varPersistentID:{99FDE39A-E039-4827-A1D4-85A8EEAC7E6B}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/High End waist interlock bypass</Property>
 	<Property Name="varPersistentID:{9A0345D0-EBB8-45E4-B7EC-4A7701EEB821}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector vac gauge cluster</Property>
 	<Property Name="varPersistentID:{9A27096F-E1D4-4644-B128-1A86CF19345F}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y+ Steerer HV Enable</Property>
@@ -617,11 +752,14 @@
 	<Property Name="varPersistentID:{9A3CC6A3-F4B1-485D-BC8E-600A90B45044}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer Image Interlock Bypass</Property>
 	<Property Name="varPersistentID:{9A8E00D9-5FE8-4176-B73A-6C71E58FB6F2}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Terminal Voltage</Property>
 	<Property Name="varPersistentID:{9AD58884-6A4A-445A-BFF2-FEE6708EEA82}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image Convectron 1</Property>
+	<Property Name="varPersistentID:{9AF06938-E304-4C6F-99B2-6CBBA9E4B1BF}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/HV readbacks</Property>
 	<Property Name="varPersistentID:{9B0BF115-EE4E-45D9-8EF9-A1D66B7B6E05}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y-steerer+ HV Enable</Property>
 	<Property Name="varPersistentID:{9B3AB4C9-8117-4A77-BEDB-79EED32B63B3}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X+ Steerer V set</Property>
 	<Property Name="varPersistentID:{9B403D0C-B4D0-4D6A-ACCC-3BC7C3077954}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Down-Steerer I read</Property>
+	<Property Name="varPersistentID:{9B5185FD-B757-4C9C-BBB6-8E3C0B298625}" Type="Ref">/SCA-cRIO/Chassis/Mod5/immersion lens voltage read</Property>
 	<Property Name="varPersistentID:{9B637775-332B-4011-A9B2-523E0C7BE210}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X+ Steerer V set</Property>
 	<Property Name="varPersistentID:{9B834932-E33B-4B8B-8D23-642711138DF4}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Vac Interlock bypass</Property>
+	<Property Name="varPersistentID:{9B858164-7086-4600-B91B-034E80E1BC49}" Type="Ref">/SCA-cRIO/Chassis/Mod4/immersion lens voltage</Property>
 	<Property Name="varPersistentID:{9BC66DBA-72AF-483D-AE5F-982559300E37}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Quad A set</Property>
 	<Property Name="varPersistentID:{9BEC91F1-A3B7-4FD2-B142-C169EA1B29CF}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector Aperture Actuator</Property>
 	<Property Name="varPersistentID:{9C4E1BD8-C2A9-4A32-83B3-383EB3A7A258}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Vacuum Gauge interlock</Property>
@@ -629,62 +767,87 @@
 	<Property Name="varPersistentID:{9C5A2B41-8A56-40ED-BDB6-F0DB76C3E095}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet set field</Property>
 	<Property Name="varPersistentID:{9C96106F-0721-4158-8F9F-57AD535AA7FB}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Beamline GV actuator</Property>
 	<Property Name="varPersistentID:{9CCF117D-A9A1-4FAF-8DA3-B59B2F405BDD}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2+ Steerer V readback</Property>
+	<Property Name="varPersistentID:{9D357862-FEE6-4BC4-B2DB-F7AC3202A147}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/change sample start end</Property>
+	<Property Name="varPersistentID:{9D48A564-DBEF-4BFB-AA98-997B6C2677FC}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Motor status</Property>
 	<Property Name="varPersistentID:{9D976D6D-3D7A-4440-BAC6-AC7BD0CDAB55}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/InjA-Image cRIO error</Property>
 	<Property Name="varPersistentID:{9DA0E54A-EB5B-4515-818C-392E3EADBD09}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{9E15DE5E-D7F5-4B77-9049-8199B7BCC544}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI11</Property>
 	<Property Name="varPersistentID:{9E2D3B35-8FD1-484C-90A0-51ECAB4EAF82}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{9E7C7064-DCFE-4A3A-9352-EAE7A39994C9}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Status Message</Property>
 	<Property Name="varPersistentID:{9ED7B699-6B3E-4FBF-9471-67925C18888A}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{9F853B9E-95C3-4814-9368-F1843B0E4B7B}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Einzel 2 HV Enable</Property>
 	<Property Name="varPersistentID:{9FB7F975-478C-4DBC-A82B-C57C956DD0C0}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X+ Steerer I readback</Property>
+	<Property Name="varPersistentID:{9FC99FDE-05CD-4FF4-8DEB-C74587B35B3A}" Type="Ref">/SCA-cRIO/Chassis/Mod5/extractor current read</Property>
 	<Property Name="varPersistentID:{A059C40E-334D-49F0-9C0D-597A6099F8EF}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Switch Mag Aperture Status</Property>
 	<Property Name="varPersistentID:{A09CE7AD-4712-4CAE-8F50-D61DC9C61A5D}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Grid</Property>
 	<Property Name="varPersistentID:{A0AF830B-6A75-418C-AFA4-810A66CF28F4}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Vac cluster 1 Interlock</Property>
 	<Property Name="varPersistentID:{A0F3BA35-071D-400F-873E-19CF5BC35C2C}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Turbo 1 GV Status</Property>
+	<Property Name="varPersistentID:{A0F7877C-2F2F-4DFF-BF42-DFE4959FDDA2}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Shutdown</Property>
 	<Property Name="varPersistentID:{A116FC04-984C-4C0A-8934-A03A037F4AB9}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Turbo 1 GV Status</Property>
+	<Property Name="varPersistentID:{A134C602-3138-487A-8B81-B37A7C6392C7}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/immersion lens v set</Property>
 	<Property Name="varPersistentID:{A14D9178-61FB-4AA0-B77B-904674295FD3}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad B+ I readback</Property>
 	<Property Name="varPersistentID:{A17042C7-DFBA-47E0-84BE-3D74E85F8C58}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y- Steerer V readback</Property>
 	<Property Name="varPersistentID:{A18785D8-B24F-4242-A7C3-C9F34861EE8E}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Suppressor</Property>
+	<Property Name="varPersistentID:{A18B60BB-93AF-4237-AE1C-F6934CD479B5}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set pump out system</Property>
 	<Property Name="varPersistentID:{A1FAD459-EA36-4173-85C5-E14A84953039}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/Vac cluster 4 Interlock bypass</Property>
+	<Property Name="varPersistentID:{A21B7C6D-9717-4696-81F4-4CAE21740631}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Insert Rod insertion</Property>
 	<Property Name="varPersistentID:{A254ED7C-9EC0-4C84-A4F8-70837C861E85}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2 Magnet current set</Property>
+	<Property Name="varPersistentID:{A282481F-D41F-42E8-8776-B5D4EF200102}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Encoder radius</Property>
 	<Property Name="varPersistentID:{A32A1587-2794-47E7-AF1A-A9EE9C75A8C5}" Type="Ref">/ControlRoom-cRIO/local shared var lib.lvlib/Readback error</Property>
 	<Property Name="varPersistentID:{A32AC94B-B6A0-466F-9691-F4137BC1C4A9}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X+ Steerer V set</Property>
+	<Property Name="varPersistentID:{A372A108-1057-47FC-8758-F03CBFD11FBD}" Type="Ref">/SCA-cRIO/Chassis/Mod7/retract in</Property>
+	<Property Name="varPersistentID:{A3B50493-7E84-4AE9-A1F0-1292C0F36F33}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/extractor set</Property>
 	<Property Name="varPersistentID:{A3F530CB-A69B-483D-A26A-1D75F268AC3D}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/setpoint low</Property>
 	<Property Name="varPersistentID:{A40E5926-19C6-489D-88C4-31CE5F62E1FB}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2+ Steerer V set</Property>
 	<Property Name="varPersistentID:{A43A94C3-6589-43FB-8DC7-9EFB88EC0520}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X+ Steerer V set</Property>
+	<Property Name="varPersistentID:{A46F551A-AE45-4285-AB32-509DAEBC2390}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO26</Property>
+	<Property Name="varPersistentID:{A4764595-F4E4-4535-8FB6-79A87EA34DDE}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set sc close</Property>
 	<Property Name="varPersistentID:{A486555E-7C6E-4A31-A9EE-14193046EADB}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Up-Steerer I read</Property>
 	<Property Name="varPersistentID:{A498E8D4-823E-4205-9A14-817A2C13F878}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/auto? (T)</Property>
+	<Property Name="varPersistentID:{A4B251C3-07E3-4122-8AAB-3EA13000514E}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI30</Property>
 	<Property Name="varPersistentID:{A4C24A2B-BB9F-4C65-9034-97939CAA989F}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB+ HV Enable</Property>
 	<Property Name="varPersistentID:{A4F18B8B-2B5C-489D-B792-93CD76498CFF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/manual control</Property>
 	<Property Name="varPersistentID:{A5489FCD-2B69-4EB1-AB2D-B48AB7BD4013}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1+ I read</Property>
+	<Property Name="varPersistentID:{A5615DE5-6FF7-410A-87E1-F92430539445}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Changing Sample</Property>
+	<Property Name="varPersistentID:{A568037E-7B5B-4B13-95A1-C6B7A25F9E71}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Insert Rod Status</Property>
 	<Property Name="varPersistentID:{A56B2FAB-10ED-4B26-B04B-27912AE7F0FA}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/error out</Property>
 	<Property Name="varPersistentID:{A5AD8783-631E-49CD-8978-A798D0BED618}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{A5C49405-49DF-4549-B28B-F8C68F7B2E8B}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Left-Steerer V set</Property>
 	<Property Name="varPersistentID:{A5F50F38-4472-4126-87AF-C489C28CF96D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{A61BE040-7140-418C-92D6-513D2C1CABAD}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X- Steerer V readback</Property>
 	<Property Name="varPersistentID:{A6AAFDCF-AC52-423E-B97E-501D6A2BEDF7}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X- Steerer V set</Property>
+	<Property Name="varPersistentID:{A6E9A18A-227E-4434-8A7E-471642F41B62}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO9</Property>
 	<Property Name="varPersistentID:{A75A519C-9F3D-4F34-86DF-01A1F75F0617}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y1+ Steerer V set</Property>
+	<Property Name="varPersistentID:{A76CAABD-4676-4993-B2D2-11D95AE08E7D}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI26</Property>
 	<Property Name="varPersistentID:{A7B894CE-E09D-49C0-9EC5-A96BD8E816BD}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{A823FCB4-DC87-4940-AF2A-C42E0C6EF322}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y1- Steerer V readback</Property>
 	<Property Name="varPersistentID:{A83D3CD8-AAD7-40EE-B05D-426C91BD78D4}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2 Magnet current set</Property>
 	<Property Name="varPersistentID:{A8BE3FF2-25AE-4E59-B0A3-08895FF6D9C1}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Aperture Status</Property>
 	<Property Name="varPersistentID:{A8DC0F57-8803-49AC-A203-8B93A6396FC2}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Turbo 1 GV Actuator</Property>
 	<Property Name="varPersistentID:{A8EF5539-DA4F-405E-8ED1-C588F0562997}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Turbo Rotation Speed</Property>
+	<Property Name="varPersistentID:{A915BDAF-3989-4394-B529-B419C00DD9C1}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO30</Property>
 	<Property Name="varPersistentID:{A92089DB-29C1-4E0B-8733-F411AD6BAFEC}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/Interlock loop error</Property>
 	<Property Name="varPersistentID:{A94896D1-CC1B-4319-BE85-EDFE24FA962B}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/X+ Steerer V read</Property>
 	<Property Name="varPersistentID:{A993E829-AB08-43EF-A916-1E360629DAD2}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 X-Steerer Mag current set</Property>
 	<Property Name="varPersistentID:{A9A087D1-A3BF-432E-8636-063A4D43441B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{A9A85042-C1E9-436E-8282-197973AA30DB}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/start sample change</Property>
 	<Property Name="varPersistentID:{AA0E1E59-8151-4D17-B7BB-979536F022DB}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1+ V read</Property>
 	<Property Name="varPersistentID:{AA58C6D7-ED30-45CD-A060-CC9B1ACB9A7A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance FC actuator</Property>
 	<Property Name="varPersistentID:{AA5ED080-E826-4924-91D2-0069A5F8E776}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/Vac cluster 3 Interlock bypass</Property>
+	<Property Name="varPersistentID:{AA74CBF3-7468-4731-BB62-0F962CCF53B5}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO15</Property>
 	<Property Name="varPersistentID:{AA8CDE5D-9088-4CA5-A33E-01358F0105A8}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switching Mag GV status</Property>
 	<Property Name="varPersistentID:{AAC3E50C-5434-4D68-B27A-718BA648AC3D}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Turbo 2 GV Actuator</Property>
 	<Property Name="varPersistentID:{AACFC5A5-784A-487A-99C0-C1806988AEFC}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch object convectron 2</Property>
 	<Property Name="varPersistentID:{AB49125D-0E4F-43B6-ACAF-428A6655FE26}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/dt out (s)</Property>
+	<Property Name="varPersistentID:{AB562185-D71D-44FE-912E-A284503F0996}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Sample Rod retraction</Property>
 	<Property Name="varPersistentID:{AB662985-08CC-4A6B-89C3-B32F5247AC79}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Suppressor</Property>
 	<Property Name="varPersistentID:{AB755FFE-D0E5-4E50-82D8-4442E22D8387}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/switch magnet coil current</Property>
+	<Property Name="varPersistentID:{AB9DCC03-AA91-436D-A60F-1C14923E5604}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/use1</Property>
 	<Property Name="varPersistentID:{AC4C9236-EC2C-4D84-A5E2-AD5E9D687746}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/process variable</Property>
 	<Property Name="varPersistentID:{ACB1056F-6A6C-453A-B54E-29177F97C8A5}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X+ Steerer V set</Property>
 	<Property Name="varPersistentID:{ACB48908-363E-494F-A10E-3CF96C147A99}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{AD39B482-2AA5-4708-8F9A-B450441E78F3}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Right-Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{AD811C31-A883-412B-9D40-D30F6A7BB03C}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI17</Property>
 	<Property Name="varPersistentID:{AD9B8BB0-DEF3-4932-910B-E84EE2AD310B}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad B+ V  readback</Property>
 	<Property Name="varPersistentID:{ADAB7A11-4B8B-428A-AFCA-F3D017BDAC39}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Switch Object Interlock Bypass</Property>
 	<Property Name="varPersistentID:{AE2AFE62-1F39-4F70-B208-B40D07CE2B72}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Mag Steerer I-program</Property>
@@ -696,24 +859,33 @@
 	<Property Name="varPersistentID:{AEFF82B1-3CFA-4B9F-8C2A-0FB357A1C4D1}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2- I read</Property>
 	<Property Name="varPersistentID:{AF3021BF-B38F-40DB-AF6C-2AC17A6AB55D}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA- V read</Property>
 	<Property Name="varPersistentID:{AF6D642D-7643-44A7-895D-2F6897CBF281}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X- Steerer V readback</Property>
+	<Property Name="varPersistentID:{AF83C4D7-15DB-4A6F-A65F-2F5C125C6A69}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO6</Property>
 	<Property Name="varPersistentID:{AF998DF4-5907-4A6A-9E05-841EF6FF0495}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2- Steerer V set</Property>
 	<Property Name="varPersistentID:{AFB80B71-B258-49CE-A40A-6CF66EB11305}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y1- Steerer V readback</Property>
+	<Property Name="varPersistentID:{B05F8925-4944-442F-9EC8-B9DAB00A663C}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/indextest</Property>
 	<Property Name="varPersistentID:{B064802A-35EA-4A21-A314-C3A91DFBB772}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{B07EDCA4-B118-4A07-B443-AAB249AF818C}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB+ HV Enable</Property>
 	<Property Name="varPersistentID:{B0F90553-824B-4077-B5B2-3D2612C58244}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Detector Aperture Position</Property>
 	<Property Name="varPersistentID:{B0F95098-8626-45EE-B977-54B08F5A6EEF}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector FC insert</Property>
 	<Property Name="varPersistentID:{B107FD33-015C-44EE-A513-7E89382C4AEF}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Einzel V readback</Property>
 	<Property Name="varPersistentID:{B11DE095-8D2C-46FF-A024-B92766498C04}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Convectron Gauge 2</Property>
+	<Property Name="varPersistentID:{B19EF530-C3E0-4CCC-81FC-72883BCFD062}" Type="Ref">/SCA-cRIO/Chassis/Mod4/immersion lens current set</Property>
+	<Property Name="varPersistentID:{B1D4ED5D-1A06-4E3C-B976-02E64BEB1C5D}" Type="Ref">/SCA-cRIO/Chassis/Mod8/sc gate valve 10</Property>
 	<Property Name="varPersistentID:{B23A2F6A-65D5-480C-9B47-567CD8737B2E}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA convectron 1</Property>
 	<Property Name="varPersistentID:{B2B19298-7942-4BDE-B467-89685216F91A}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{B2BED227-4C52-4648-9B19-D5F207677E34}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Aperture Position</Property>
 	<Property Name="varPersistentID:{B3233350-BB0C-4E3E-8270-F6F1818D53B7}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{B3C88EAE-6307-4827-A409-C13733B4FAF9}" Type="Ref">/R30-1-cRIO/local R30_1 shared var lib.lvlib/Interlock loop error</Property>
+	<Property Name="varPersistentID:{B41CBCAE-6E07-482C-88F6-1B5DC2445945}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/bellows ion gauge2</Property>
 	<Property Name="varPersistentID:{B45BAB3A-E3F5-4510-95AB-99D4035878CD}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA Voltage set</Property>
 	<Property Name="varPersistentID:{B471845A-7240-403F-B7DF-5D03A84B9C74}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A+ V readback</Property>
 	<Property Name="varPersistentID:{B4CC4A2D-26E1-4D4C-9E13-3FD6F311374D}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Einzel V readback</Property>
+	<Property Name="varPersistentID:{B4E0411B-E830-410A-A914-B33513950B23}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Current Sample</Property>
+	<Property Name="varPersistentID:{B506E502-4F6A-45EA-8F6E-BA1A7EFADF75}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO23</Property>
 	<Property Name="varPersistentID:{B5584488-87A5-407D-AD3E-403F5D8DCEA8}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad B V set</Property>
 	<Property Name="varPersistentID:{B56451FA-1533-4D45-BB33-849FF485333B}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Beamline GV Status</Property>
+	<Property Name="varPersistentID:{B5CE21F6-505F-4BBA-85E7-8FD63BF7B597}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cathode current read</Property>
+	<Property Name="varPersistentID:{B5EECA4B-B08A-4858-BF7D-DCB4087801A3}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/immersion lens I set</Property>
 	<Property Name="varPersistentID:{B624711C-EA6D-4BC3-9C3C-1E61F8A18C5A}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Injector Magnet coil current</Property>
 	<Property Name="varPersistentID:{B63AECDA-090B-4596-A7BF-114E447D3C10}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 2 HV Enable</Property>
 	<Property Name="varPersistentID:{B6EBC5B7-561B-4B49-8C9E-92CDBB5CB2FC}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Vac cluster 2 Interlock</Property>
@@ -740,50 +912,68 @@
 	<Property Name="varPersistentID:{BB8A0FB7-9963-434F-9117-31E474358212}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{BBA489AD-5921-4281-9406-13C5B5B0E027}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/beta</Property>
 	<Property Name="varPersistentID:{BBB64FA5-04A9-4680-9E02-2897803E8EC5}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Vac cluster 3 Interlock bypass</Property>
+	<Property Name="varPersistentID:{BBFF73A1-EA3B-4ED4-9D6D-BD66C0075A85}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI29</Property>
 	<Property Name="varPersistentID:{BC163B3E-37F8-4CA4-8BCB-F8AE818FBDE5}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switching Mag GV status</Property>
 	<Property Name="varPersistentID:{BC526158-B0D9-4C32-A9A7-64FAB71B8878}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/setpoint</Property>
 	<Property Name="varPersistentID:{BC7A905C-50AF-4EB2-AF6F-29E737C52177}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2- Steerer V readback</Property>
 	<Property Name="varPersistentID:{BC8AE5CF-91C7-4C8F-9541-1D9D97D7A2FB}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans X+ steerer current readback</Property>
 	<Property Name="varPersistentID:{BD71FDB3-4AF0-49EA-924B-30C52F23F753}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{BD88C520-CE96-407F-ADD7-550DDFBBEC87}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y1- Steerer V set</Property>
+	<Property Name="varPersistentID:{BD9443B8-0E98-4AD9-826B-A9278F29ED17}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI31</Property>
 	<Property Name="varPersistentID:{BE117F9D-7123-424A-B4A9-F55570BE1989}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Vac cluster 3 Ion Gauge Interlock</Property>
 	<Property Name="varPersistentID:{BE435AB1-919C-49FB-B691-46F3FEB83C94}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{BE81F09F-597B-4B0C-B312-C101749E4235}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1- V read</Property>
 	<Property Name="varPersistentID:{BEA2B1E2-3431-4921-A8FD-2723DB63DB36}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Switch Image Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{BF07BBA3-C75F-4397-8E1E-9EF9A2ED92E0}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read rod up</Property>
 	<Property Name="varPersistentID:{BF0A6669-9455-4851-A739-19D37F48B858}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{BF0B8B12-E067-4193-A7A9-E547749CDA45}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Aperture insert</Property>
 	<Property Name="varPersistentID:{BF1FDBCC-C9FD-4CCC-BCBE-024E51C8B786}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y1+ Steerer V readback</Property>
+	<Property Name="varPersistentID:{BF25B828-C9F5-442D-BB54-E668F7B61CAB}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Encoder Offset</Property>
 	<Property Name="varPersistentID:{BF2FD2DF-5D31-437E-889A-64B17078A452}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/Cryo loop error</Property>
 	<Property Name="varPersistentID:{BF86993B-FAC6-4A07-8E3A-31B7AF2D816E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{BFBD54C6-40C7-4C5B-8508-9BD90DFB878A}" Type="Ref">/SCA-cRIO/Chassis/Mod8/cold cathode</Property>
+	<Property Name="varPersistentID:{BFFCB830-4254-4571-B6CC-5A4B852BC163}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/read sc gv open</Property>
 	<Property Name="varPersistentID:{C01BD867-86B7-4A1A-94F2-50A43C072D89}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Turbo 3 GV Status</Property>
 	<Property Name="varPersistentID:{C024148C-4494-4BC9-8F43-34A15F091B6B}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y- Steerer V set</Property>
 	<Property Name="varPersistentID:{C02CBF69-D847-4CD4-837D-D114C55D9908}" Type="Ref">/InjectorA-cRIO/local injA shared var lib.lvlib/Turbo readback loop error</Property>
 	<Property Name="varPersistentID:{C06072C5-0D04-4759-88FB-1ABD621CC334}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/R45-1 cRIO Error</Property>
 	<Property Name="varPersistentID:{C0665558-71EC-4D52-ADEB-D8A75D1B6D9E}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB+ voltage readback</Property>
+	<Property Name="varPersistentID:{C0732E8D-81CD-474E-B9DD-071769E12D29}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Wheel GV Status</Property>
 	<Property Name="varPersistentID:{C14D43FE-9881-4B99-8A10-56AF64C630AA}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Right-Steerer V read</Property>
 	<Property Name="varPersistentID:{C15FF99F-E809-4A45-90C8-9584166B9E43}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{C167232D-AAA4-44C2-BF76-A4BF0AC6A944}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output high</Property>
 	<Property Name="varPersistentID:{C1857277-92F0-4EFF-9777-053B3314300A}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Injector Magnet coil current</Property>
 	<Property Name="varPersistentID:{C185D41E-D437-4D1E-867E-DD153504B937}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Detector FC Actuator</Property>
+	<Property Name="varPersistentID:{C1A3A7B8-C9E8-4057-9F71-0AD7D8F0BBDB}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI25</Property>
 	<Property Name="varPersistentID:{C1D25044-2B4F-4038-BD0D-C7C212199561}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Einzel HV Enable</Property>
 	<Property Name="varPersistentID:{C20E09AE-F7F8-47C6-95B8-1CAD9014CCF1}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/BPM 2 X 10</Property>
+	<Property Name="varPersistentID:{C235C8B6-D588-4C00-BBE8-855877F707A1}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI23</Property>
 	<Property Name="varPersistentID:{C2742010-5F09-42D4-8862-F2C7C2EF6AD8}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/ExB coil current set</Property>
 	<Property Name="varPersistentID:{C2A92962-0181-4DC3-8AE9-6E618F19FB91}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance FC actuator</Property>
+	<Property Name="varPersistentID:{C2AF432C-EED5-41F1-87CF-4F8C978B822A}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Retract Rod insertion</Property>
+	<Property Name="varPersistentID:{C2F45A11-1878-428C-8B2B-C283E72B21AD}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI19</Property>
 	<Property Name="varPersistentID:{C30C5DCE-0C06-4C2C-A39A-9CF0A3E09275}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y1+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{C3175A67-5767-4AB7-A6BC-4F4389CEA51B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y1+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{C365EE59-7B7D-4F77-B26F-53676AB39250}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Cryo Readback</Property>
+	<Property Name="varPersistentID:{C3BE5A0B-0B3E-45D9-BEAD-EFE4095EE5AB}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Pump Out Source</Property>
+	<Property Name="varPersistentID:{C3F7F665-1260-4B9E-ADD1-C801AFE6999A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/count</Property>
+	<Property Name="varPersistentID:{C41285E2-8B75-4396-9B80-D2F2F1A60724}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO5</Property>
 	<Property Name="varPersistentID:{C4199E9B-403B-42CC-AB13-35A7E2607BB9}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad B HV Enable</Property>
 	<Property Name="varPersistentID:{C4F76744-70C7-4284-A2AF-8207C3F480D1}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Quad Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{C549CAA4-0FB9-4358-AA41-3D5BD8803AA1}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y1+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{C61D2FF4-4C00-4ADD-9BAF-30987E198325}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans X- steerer current readback</Property>
 	<Property Name="varPersistentID:{C68F38CA-B9D2-49C5-906D-6C0462F99CC0}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Analyzer magnet read field</Property>
+	<Property Name="varPersistentID:{C69D9E37-DFF3-4711-BE57-408616BA885A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/immersion lens I read</Property>
 	<Property Name="varPersistentID:{C6C1446A-AD74-4FF9-A566-5FCF115150EA}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Pre-Acc V readback</Property>
+	<Property Name="varPersistentID:{C6DAFAD1-2C76-417A-94A0-0C799506F81C}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI14</Property>
 	<Property Name="varPersistentID:{C7B8A4A8-4C52-4C89-A478-472D188A79AF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/reinitialize? (F)</Property>
+	<Property Name="varPersistentID:{C7E0045F-8D9C-4F87-A5E0-F49819093238}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cathode set</Property>
 	<Property Name="varPersistentID:{C8724997-FFA1-4464-9166-F5D85E388F79}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{C8989958-4207-4A85-857D-B9FD49DBB503}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/setpoint low</Property>
 	<Property Name="varPersistentID:{C8AA1775-A669-4761-AB76-09DCF29CECC7}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Grid</Property>
 	<Property Name="varPersistentID:{C9224555-F284-47FE-805D-682D1836B3E7}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA BPM 2</Property>
 	<Property Name="varPersistentID:{C924AB70-17A5-4165-828B-076774E642D6}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Right-Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{C9B0052F-7145-446C-8F2D-43741A785BF0}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI12</Property>
 	<Property Name="varPersistentID:{C9B15AB6-E735-409A-B03A-5CFFEB710520}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{C9D29539-7F6D-4E3D-9CEC-FC29D93264CF}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Vac cluster 3 Interlock</Property>
 	<Property Name="varPersistentID:{C9D38011-05F0-4469-BA78-8160F2B955E8}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA- HV Enable</Property>
@@ -792,7 +982,9 @@
 	<Property Name="varPersistentID:{CA85BBD8-A8E8-420E-9887-33C5A97F9E9F}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB- HV Enable</Property>
 	<Property Name="varPersistentID:{CAA558AB-C942-47D2-8EE3-627F058AC824}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y- steerer voltage set</Property>
 	<Property Name="varPersistentID:{CB13B0BD-655E-453F-9083-80E29A47228A}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y-steerer+ HV Enable</Property>
+	<Property Name="varPersistentID:{CB25554E-D8CD-44E9-A366-454775DE10B2}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Change Complete</Property>
 	<Property Name="varPersistentID:{CBB770D5-DB0C-4C39-8AA0-1BC9B9DC8CD3}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA X Steerer I readback</Property>
+	<Property Name="varPersistentID:{CBF2BF45-5B80-4ECE-A8DD-E7D8248EBB31}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI16</Property>
 	<Property Name="varPersistentID:{CC17FF99-1AE3-45E9-9081-E6A349C6062E}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Pre-Acc V set</Property>
 	<Property Name="varPersistentID:{CC252448-B9B0-47B3-9709-8243BA665557}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1 HV Enable</Property>
 	<Property Name="varPersistentID:{CC2C1721-878D-49C4-8082-890544F94A36}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y1+ Steerer V readback</Property>
@@ -807,12 +999,16 @@
 	<Property Name="varPersistentID:{CDEE9BC6-8C13-4084-B7FD-28482511712D}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Vac Cluster</Property>
 	<Property Name="varPersistentID:{CF0227EE-59C9-4A62-BAAF-6DE51A496F99}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans X- steerer voltage set</Property>
 	<Property Name="varPersistentID:{CF0C70EC-AD50-4E42-8527-DCEE88121FDE}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X- Steerer I readback</Property>
+	<Property Name="varPersistentID:{CF239E6D-A804-40FB-861C-25E2E4C9949B}" Type="Ref">/SCA-cRIO/Chassis/Mod5/cathode voltage read</Property>
 	<Property Name="varPersistentID:{CF3E58D0-9390-4BD2-9F9E-D4F534C1F4E8}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y1+ Steerer V set</Property>
 	<Property Name="varPersistentID:{CF5A8C1A-104B-40DD-A335-CAE0D0EFDFF9}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Einzel V set</Property>
+	<Property Name="varPersistentID:{CF824AFA-6830-4B8F-9594-0C05C7E613FA}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Random Change</Property>
 	<Property Name="varPersistentID:{CFD11027-F07A-4241-9CEB-13B4C1E62BEC}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Cryo Pump GV actuator</Property>
+	<Property Name="varPersistentID:{CFE1C5EB-58F5-4814-817E-B40452FBCEB5}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set retract in</Property>
 	<Property Name="varPersistentID:{D003A461-4DC9-42D2-91A5-E0B2E7945404}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist FC Status</Property>
 	<Property Name="varPersistentID:{D009CF4E-713F-4935-B9C9-6174AE4EDCA8}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y+ steerer current readback</Property>
 	<Property Name="varPersistentID:{D00E1461-1DDD-4C69-9AFF-1B56D11F248F}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Analzyer Object Convectron 2</Property>
+	<Property Name="varPersistentID:{D0839DA2-8B2D-47EE-BC47-42D76BA00DA4}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO13</Property>
 	<Property Name="varPersistentID:{D09190B3-8A13-42D5-ACC9-7618675595BF}" Type="Ref">/R30-1-cRIO/local R30_1 shared var lib.lvlib/Actuator Sensor Loop error</Property>
 	<Property Name="varPersistentID:{D1366F62-A16B-4645-A50F-4C07469DB1AA}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Vac Interlock bypass</Property>
 	<Property Name="varPersistentID:{D2006900-B75E-48E9-BC8E-B6B867EA718E}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Down-Steerer V set</Property>
@@ -823,19 +1019,26 @@
 	<Property Name="varPersistentID:{D31575E9-090C-4F92-901D-213B1855B903}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Tank Exit Convectron 2</Property>
 	<Property Name="varPersistentID:{D35F7474-DE7E-4B51-A28E-67AE372D601E}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Turbo 2 GV</Property>
 	<Property Name="varPersistentID:{D3759122-5846-48F8-930B-9029A64869E3}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/linearity</Property>
+	<Property Name="varPersistentID:{D3A108D4-4C92-4077-BF91-853AB47B5067}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/cpu</Property>
 	<Property Name="varPersistentID:{D3E03E89-A350-421B-9C04-060F8151416A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2- Steerer V readback</Property>
 	<Property Name="varPersistentID:{D3E8A052-1983-4138-9140-DF0900AF1028}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/derivative time (Td, min)</Property>
 	<Property Name="varPersistentID:{D404A86A-A076-48F4-9CF5-D6F76A234ECC}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/Pre-Acc I readback</Property>
+	<Property Name="varPersistentID:{D411C5DC-50EA-431D-BFD0-B4CE508BCCF1}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI7</Property>
+	<Property Name="varPersistentID:{D4173E68-644A-4F9D-871C-42C949653BD9}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ION SOURCE ion gauge1</Property>
+	<Property Name="varPersistentID:{D42B5FD6-2202-4FAC-8374-D7984D159C0A}" Type="Ref">/SCA-cRIO/Chassis/Mod7/rod down</Property>
 	<Property Name="varPersistentID:{D456205F-7525-484F-BD15-5258BFE46C41}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/error in</Property>
+	<Property Name="varPersistentID:{D483FB35-74E9-46E0-8DD3-0839525D51D8}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Raw Encoder</Property>
 	<Property Name="varPersistentID:{D49A6942-D129-4706-8C0D-61CCCB0D2ED6}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y+ Steerer V set</Property>
 	<Property Name="varPersistentID:{D4E9B124-98DF-451E-A90D-B71C53731B77}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Convectron 2</Property>
 	<Property Name="varPersistentID:{D4F0607B-C759-4AE5-A655-70915DEBA7B6}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Quad vac gauge cluster</Property>
 	<Property Name="varPersistentID:{D4FFC163-6D68-4B39-BDAB-FB5E3FF2BFF9}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Vac Interlock bypass</Property>
 	<Property Name="varPersistentID:{D563FCCC-75AE-4B88-BBB2-62DBE82B1A60}" Type="Ref">/InjA-Image-cRIO/bound injAimage shared var lib.lvlib/LowEnd Waist Vac Interlock</Property>
+	<Property Name="varPersistentID:{D61DC8F0-B479-470F-9F2A-D534669465F7}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO19</Property>
 	<Property Name="varPersistentID:{D698D0DF-EEDF-4B72-AC29-0ACD6E3CB6AA}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 1 HV Enable</Property>
 	<Property Name="varPersistentID:{D7160C77-3CD7-4E0D-B479-1DD27297294A}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1+ I read</Property>
 	<Property Name="varPersistentID:{D71D7143-C29A-4CBD-B205-71EF2EA41F38}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA+ I read</Property>
 	<Property Name="varPersistentID:{D73C3EBE-47DF-4D55-B0AF-7DA28B3EC144}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Ion Gauge 2</Property>
+	<Property Name="varPersistentID:{D74C72DD-83AC-4129-8BA0-73A51A5FCA3B}" Type="Ref">/SCA-cRIO/Chassis/Mod8/dnu</Property>
 	<Property Name="varPersistentID:{D79C3301-2C99-484A-8A25-A3EAD69B3B3F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A+ I readback</Property>
 	<Property Name="varPersistentID:{D7C251EE-A74F-4757-916B-C0A2E7E9FCBB}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2 voltage set</Property>
 	<Property Name="varPersistentID:{D8B44CE0-ACCC-4D15-9532-D372B6473EC2}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Turbo 1 GV Actuator</Property>
@@ -846,13 +1049,17 @@
 	<Property Name="varPersistentID:{D9D4B057-8284-4F63-933D-74801DF255AA}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/He Chain</Property>
 	<Property Name="varPersistentID:{D9D8FDAF-2FE6-40B7-92C5-97BDF524C3D9}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Up-Steerer V set</Property>
 	<Property Name="varPersistentID:{DA518B65-0BA7-40DC-B113-1A25F89C42CD}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y2- Steerer I readback</Property>
+	<Property Name="varPersistentID:{DAA36872-9C78-42AF-A9E4-BD0C64A51F5F}" Type="Ref">/SCA-cRIO/Chassis/Mod8/retract</Property>
 	<Property Name="varPersistentID:{DABB53D5-F623-4E32-BA98-1B412ED19CFA}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd X- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{DACE5FAD-DF38-4E6A-822B-8874D6C0B45D}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Beamline GV Status</Property>
+	<Property Name="varPersistentID:{DAE1C3AB-D906-42D0-BDB8-8AF476C5F2B5}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/State Machine Error</Property>
 	<Property Name="varPersistentID:{DAE9248B-E07B-4ED9-870C-BC4EC074A7DD}" Type="Ref">/InjA-Image-cRIO/bound injAimage shared var lib.lvlib/Injector A Vac interlock</Property>
 	<Property Name="varPersistentID:{DB07C5CD-A28A-4992-84D7-ADCD7FC118AE}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Cryo Pump GV Actuator</Property>
+	<Property Name="varPersistentID:{DB6B180D-AF65-4193-BB0B-26528DE7AECD}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/ig1</Property>
 	<Property Name="varPersistentID:{DB950796-A440-45B0-BB61-7820373E2642}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist X- Steerer V set</Property>
 	<Property Name="varPersistentID:{DBA5D62C-5F7C-4909-A176-03D3DF0E2744}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output high</Property>
 	<Property Name="varPersistentID:{DBB3D605-2DB2-4B5D-8A06-72DF6A5ACF69}" Type="Ref">/R30-1-cRIO/local R30_1 shared var lib.lvlib/HV readback loop error</Property>
+	<Property Name="varPersistentID:{DBC6838E-5BD3-4FE2-AB91-5E7214B579ED}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/change sample</Property>
 	<Property Name="varPersistentID:{DBCB61C9-78CE-4F04-8188-E75623CCFC8D}" Type="Ref">/R45-1-cRIO/bound R45_1 shared var lib.lvlib/R45 Vac cluster 2 Interlock bypass</Property>
 	<Property Name="varPersistentID:{DBCCFA2F-6628-45DF-90F9-E97DA1BE2CCD}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Y Steerer V readback</Property>
 	<Property Name="varPersistentID:{DBEFAF52-5B7F-442C-986F-F166C52E510C}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2- Steerer I readback</Property>
@@ -863,15 +1070,19 @@
 	<Property Name="varPersistentID:{DC83C184-BF9C-4FBF-9F85-C2C08F99D6E7}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y- Steerer I readback</Property>
 	<Property Name="varPersistentID:{DC95EFA9-F250-4666-A966-D81A3D1FD4C3}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{DCFDA78B-7ECC-4D1D-92E8-32D764B29BA8}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA Voltage set</Property>
+	<Property Name="varPersistentID:{DD121FDE-09E3-41DB-9E1B-10A32B00604A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/immersion lens v read</Property>
 	<Property Name="varPersistentID:{DD817A83-D92D-4354-9037-1F62A5F31AF8}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Analyzer Object Vac cluster</Property>
 	<Property Name="varPersistentID:{DE6D73CC-448B-4305-8B0A-8DF458F6AE13}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image Aperture Actuator</Property>
+	<Property Name="varPersistentID:{DED2D719-A6BD-4645-941D-A707305AA654}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Sample Rod Status</Property>
 	<Property Name="varPersistentID:{DEF598D1-06D7-4FF5-A804-5A54959E625B}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Beamline GV 3 Status</Property>
 	<Property Name="varPersistentID:{DF67FCD6-0B4B-4E39-825C-D10D26B7F566}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{DF795DF2-E0F5-4803-8D6D-05E5520FD997}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/error out</Property>
 	<Property Name="varPersistentID:{DFDD1D13-38EC-4A21-AC53-7D3DAE2348DD}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y1- Steerer I readback</Property>
 	<Property Name="varPersistentID:{E050A6D1-0BA9-4C47-ACC2-0B3A4CD49A35}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot vac gauge cluster</Property>
 	<Property Name="varPersistentID:{E0563C22-8E9B-46D9-9CA7-8D597ABF30EB}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Beamline GV 2 Actuator</Property>
+	<Property Name="varPersistentID:{E0652D8F-5A5C-406F-8749-A0B4A940DF19}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set sc open</Property>
 	<Property Name="varPersistentID:{E07FB019-012D-43F1-A284-7E7ADB045883}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{E0A6423D-6AFA-4E02-9799-030706712EAE}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Insert Rod retraction</Property>
 	<Property Name="varPersistentID:{E0FC1FF3-8157-4F73-97D2-DE20D678C955}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Cryo Pump GV actuator</Property>
 	<Property Name="varPersistentID:{E114BE83-B9FA-444F-A242-6E2BEAD166C6}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Convectron 1</Property>
 	<Property Name="varPersistentID:{E11DDA8F-A81C-4DBD-8B9E-9A135AEBA22B}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 2 Interlock</Property>
@@ -881,17 +1092,21 @@
 	<Property Name="varPersistentID:{E3B0B83D-1570-4DF3-B055-254138D6E7F0}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB Slot Aperture insert</Property>
 	<Property Name="varPersistentID:{E3B16504-949B-4A4B-A9FE-A1F365F05A35}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Le Inductor</Property>
 	<Property Name="varPersistentID:{E426DAA6-3A6B-469C-A909-4E4FE644645A}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X- Steerer V set</Property>
+	<Property Name="varPersistentID:{E4D7DED7-DA8F-4F8D-AC5D-8FBC16233E4C}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/extractor current read</Property>
 	<Property Name="varPersistentID:{E4DF3CD8-5B61-4DDE-A2EF-428F8744E558}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/output high</Property>
 	<Property Name="varPersistentID:{E4E99528-30B4-471A-8588-C4D7600E1F93}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/manual control</Property>
 	<Property Name="varPersistentID:{E515DC9F-AB7B-489F-A29E-2BCC3E069DBB}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/GFM field set</Property>
+	<Property Name="varPersistentID:{E5AE1D94-1917-4EBE-B922-BA42D4D76B1B}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set insert out</Property>
 	<Property Name="varPersistentID:{E5E1C490-0185-448B-A8B3-8E23644AE22B}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Switch Mag Aperture Status</Property>
 	<Property Name="varPersistentID:{E5EC6249-5ADB-4763-8D7B-0896EA6905AA}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/X-steerer+ HV Enable</Property>
 	<Property Name="varPersistentID:{E6185C34-8AEB-42BB-B8D6-5C202A82FD52}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA ion gauge 1</Property>
 	<Property Name="varPersistentID:{E642384F-4835-4405-971E-B51E7C16B524}" Type="Ref">/ControlRoom-cRIO/global shared var lib.lvlib/Le Chain</Property>
 	<Property Name="varPersistentID:{E66C5FBB-9419-4074-AB41-625E987A0627}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y1- Steerer V set</Property>
+	<Property Name="varPersistentID:{E68391BF-02F7-4CAB-BE7E-857E21BAB7E3}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI27</Property>
 	<Property Name="varPersistentID:{E6A8A056-96EA-4DC9-B8CD-8BD6928E92D7}" Type="Ref">/InjA-Image-cRIO/InjA-Image-RT.vi/PID - Switch Magnet/output</Property>
 	<Property Name="varPersistentID:{E6D4FB3E-1D42-4168-B78A-1EE3B619A654}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Left-Steerer I read</Property>
 	<Property Name="varPersistentID:{E73C42E8-04E6-4686-AA50-A87D53CB06C7}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image X+ Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{E750A17A-FF26-4778-B964-0B6AF57BB215}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO13</Property>
 	<Property Name="varPersistentID:{E77C48B0-C506-42EA-9818-AEA327AD9A10}" Type="Ref">/R45-2-cRIO/local R45_2 shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{E7B2F407-3093-4E16-A7B1-75A5302A6777}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/InjA Image Convectron 1</Property>
 	<Property Name="varPersistentID:{E82D9C2E-A4AC-453C-9EA9-5FEF712F3BC7}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Turbo 1 GV Actuator</Property>
@@ -903,6 +1118,7 @@
 	<Property Name="varPersistentID:{E9531CFD-3D6D-45F8-AD5F-510DF92EC36E}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2+ Steerer V set</Property>
 	<Property Name="varPersistentID:{E98E06F2-DCA7-4282-A67E-37F91D1E4B0D}" Type="Ref">/R45-1-cRIO/bound R45_1 shared var lib.lvlib/R45 Vac cluster 2 Interlock</Property>
 	<Property Name="varPersistentID:{E9EA5377-6F99-4CBA-9640-58336B44C2EB}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Aperture insert</Property>
+	<Property Name="varPersistentID:{EA93FF96-04BF-4304-B160-892911A01C36}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Current State</Property>
 	<Property Name="varPersistentID:{EACC1963-B7BD-4879-B451-6731E9E7F950}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y-steerer- HV Enable</Property>
 	<Property Name="varPersistentID:{EB19A61F-6A60-4B20-BE86-FB99F7CF03DB}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit FC Actuator</Property>
 	<Property Name="varPersistentID:{EB4EE3C1-7BDB-46BD-8BFD-39E30844BD7B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Cryo Pump GV actuator</Property>
@@ -920,12 +1136,18 @@
 	<Property Name="varPersistentID:{ED13C487-7F92-4596-A9F3-68EBE7C4BB65}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/setpoint low</Property>
 	<Property Name="varPersistentID:{ED66011F-4E9B-4E26-912A-A647EE321F62}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2- Steerer V set</Property>
 	<Property Name="varPersistentID:{ED77C99F-BB9F-43F0-96D0-A945C759469D}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 4 Interlock bypass</Property>
+	<Property Name="varPersistentID:{EDB73FEF-641E-44AD-8595-8D1FE20DBA74}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/IS Turbo foreline pressure</Property>
 	<Property Name="varPersistentID:{EE8305D0-F963-4D58-A468-7469663A876C}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1 Magnet current set</Property>
+	<Property Name="varPersistentID:{EF561ACC-FF56-45B5-9F56-D8A7DA444155}" Type="Ref">/SCA-cRIO/Chassis/Mod7/retract out</Property>
+	<Property Name="varPersistentID:{EF66C9E3-6066-42B1-9AEE-566A41233AEB}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Vent Source</Property>
 	<Property Name="varPersistentID:{EF680F8C-5986-4FDB-97CD-34B5061D4EB8}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit interlock bypass</Property>
 	<Property Name="varPersistentID:{EF723337-23F2-4E9E-9D7E-532B3EA44140}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyze image vac gauge cluster</Property>
 	<Property Name="varPersistentID:{EFA43310-D56C-4672-8AC0-368DF9F40C9D}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Turbo 2 GV status</Property>
 	<Property Name="varPersistentID:{EFA63B19-4688-445A-9BF4-8CDD4C7A6437}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Aperture Position</Property>
+	<Property Name="varPersistentID:{EFE143AF-AAE4-43F2-8B9A-5BDF1BE668FE}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO17</Property>
 	<Property Name="varPersistentID:{F01391B6-CA1B-4C6E-9E75-59DE80B31E88}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/proportional gain (Kc)</Property>
+	<Property Name="varPersistentID:{F017082E-11AC-4CD7-9FD0-A29E7B715AAB}" Type="Ref">/SCA-cRIO/Chassis/Mod7/sc gate valve close</Property>
+	<Property Name="varPersistentID:{F032664E-6BE0-4F5E-B951-1555B7061535}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Bypass Control</Property>
 	<Property Name="varPersistentID:{F04F4271-6059-4027-8AED-6928CF93382A}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{F05E84FC-F77C-4DA0-9B95-09CE34F9F3E9}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{F087E644-A83D-4591-AF28-FC7833697A8C}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Turbo 1 GV status</Property>
@@ -938,6 +1160,7 @@
 	<Property Name="varPersistentID:{F2D98BC4-C820-4E04-833B-4F940E6AA9DE}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyzer Image FC Status</Property>
 	<Property Name="varPersistentID:{F3197324-0F4A-4EAD-BD1C-238CFAF614CF}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{F32CA89F-AF2A-4AB9-B494-4CCAF8F8D4D1}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/High End waist interlock bypass</Property>
+	<Property Name="varPersistentID:{F375EF6D-1B45-4519-9F01-433163AE3C0C}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI20</Property>
 	<Property Name="varPersistentID:{F3872D2F-9886-4FAF-993C-34E47143AAD0}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Turbo Error Status</Property>
 	<Property Name="varPersistentID:{F44DAFDE-8069-4244-9243-5CD3886D3620}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Switch Image Convectron 1</Property>
 	<Property Name="varPersistentID:{F45C0C08-BB29-40F9-B190-E83AACA6CD71}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2- Steerer V readback</Property>
@@ -947,29 +1170,38 @@
 	<Property Name="varPersistentID:{F4E240C2-E5DF-44C9-ACB1-ACC5276230F7}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Mag Steerer V read</Property>
 	<Property Name="varPersistentID:{F4EBB3FE-B551-428F-AC36-C77328132803}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{F5164BF6-73FD-49B7-8094-630A92C39936}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Beamline GV 2</Property>
+	<Property Name="varPersistentID:{F54587B1-8167-441A-9356-2205CDB41FB7}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI27</Property>
 	<Property Name="varPersistentID:{F5476C4C-91F2-4093-B1E6-05C340ACFB77}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyzer Image FC Actuator</Property>
 	<Property Name="varPersistentID:{F548C32B-ADDF-4784-B216-ACAB75D9A603}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Convectron 2</Property>
 	<Property Name="varPersistentID:{F589C1B4-88D6-4A3C-9ECD-03117719BCB2}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Vac cluster 1 Interlock</Property>
 	<Property Name="varPersistentID:{F5964C9B-E690-467E-83E7-802FA7C5DC4D}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Cryo Readback</Property>
+	<Property Name="varPersistentID:{F5A77C2B-8036-4806-B25D-4C4FC4DB3CE0}" Type="Ref">/SCA-cRIO/SCB cRIO readback shared var.lvlib/Bellows Turbo</Property>
 	<Property Name="varPersistentID:{F5C518A5-2FCC-4F44-A4F4-A6D3F9C5EA62}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Einzel HV Enable</Property>
 	<Property Name="varPersistentID:{F5D08526-51FF-4B8B-8B03-117078394E92}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2- V read</Property>
 	<Property Name="varPersistentID:{F5DBD259-EA68-4FC8-9346-1E7F32937C4E}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y1+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{F6A01E7F-4D78-41F2-934E-879DC6B5E266}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y1- Steerer HV Enable</Property>
+	<Property Name="varPersistentID:{F6C36122-4EDD-4B7D-A16C-319A582A88E8}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set insert in</Property>
 	<Property Name="varPersistentID:{F6E25214-04F4-4134-A096-6D9A9EF1D834}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/setpoint low</Property>
 	<Property Name="varPersistentID:{F74F8486-2734-4DC4-98A4-5324E32D17BC}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Y Steerer V readback</Property>
 	<Property Name="varPersistentID:{F76F6595-ECCE-45C1-A899-D0C98ED0A9C3}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/Le Chain</Property>
+	<Property Name="varPersistentID:{F79A9445-875D-470E-A3A6-32E457BC4C03}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/SCA state control</Property>
 	<Property Name="varPersistentID:{F79AFBC7-A1AD-45E9-9519-328EBF3E6686}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Turbo Rotation Speed</Property>
+	<Property Name="varPersistentID:{F79E3D0C-0F60-47EF-88A8-86AEE3DCDC55}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI10</Property>
 	<Property Name="varPersistentID:{F7A6D9AA-AAB2-4A3D-8144-BE8B7D0A06DE}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjectorA Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{F82B7645-F692-46E1-91CB-64B0DAFFEB39}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Quad Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{F854D9F6-800D-422D-8A07-3751B2091B0B}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Convectron Gauge 1</Property>
+	<Property Name="varPersistentID:{F8602556-6934-4848-9A45-08276E8928F4}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO28</Property>
+	<Property Name="varPersistentID:{F88894E9-74CA-4B9C-9780-D853443E64D9}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Minimum Times</Property>
 	<Property Name="varPersistentID:{F88A34AD-FBBF-4C00-8936-71C91797A24B}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/analyze magnet read field</Property>
 	<Property Name="varPersistentID:{F8988D8A-F449-410F-8AD4-6CCD8BA67B67}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad B HV Enable</Property>
 	<Property Name="varPersistentID:{F8F13D47-540D-4EDC-96FD-0A7B4FAF7BFD}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist X- Steerer V set</Property>
 	<Property Name="varPersistentID:{F8FF0188-1E5A-412A-A5AF-2FEC3995007A}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2- I read</Property>
 	<Property Name="varPersistentID:{F983148D-DF28-4855-8A6D-4EC01D32E65C}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45-2 cRIO Error</Property>
 	<Property Name="varPersistentID:{F9B2B1EC-1E38-4677-836E-CE49232DE5C6}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Beamline GV Actuator</Property>
+	<Property Name="varPersistentID:{F9D3551F-54C6-439E-A7CE-0946D029F268}" Type="Ref">/SCA-cRIO/Chassis/Mod5/immersion lens I read</Property>
 	<Property Name="varPersistentID:{FA424B10-4C90-40D3-A590-F8F1B5E67638}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Beamline Fast GV actuator</Property>
 	<Property Name="varPersistentID:{FA6ED524-52E2-40C0-B274-EDAC16099DE0}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Ion Gauge 1</Property>
+	<Property Name="varPersistentID:{FAC70807-48B6-4BD5-8FFD-BF0BE81C289E}" Type="Ref">/SCA-cRIO/Chassis/Mod7/sc gate valve open</Property>
 	<Property Name="varPersistentID:{FAD1E4A3-A962-40BA-A718-6D404C49F2BC}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 X-steerer Mag - I read</Property>
 	<Property Name="varPersistentID:{FB1AB3DB-24AA-4686-89A9-81E34A75CB1E}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X- Steerer I read</Property>
 	<Property Name="varPersistentID:{FB2AB947-88AA-4B5E-A77D-C643145906DA}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Detector Aperture Actuator</Property>
@@ -978,14 +1210,19 @@
 	<Property Name="varPersistentID:{FB405C83-B7E9-4D55-976A-9D8D81A2A5CB}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 3 Interlock bypass</Property>
 	<Property Name="varPersistentID:{FB8297D4-6BA0-4885-8FF1-E81E69CE7B86}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1 voltage set</Property>
 	<Property Name="varPersistentID:{FBA1ACDF-9CB5-4DED-97AE-C47C7BD79E15}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/InjA Image Vac Cluster</Property>
+	<Property Name="varPersistentID:{FBAD67DD-E73C-46BB-93C6-5BE9E268F1B2}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO22</Property>
 	<Property Name="varPersistentID:{FBBEA70A-3ABC-4D71-A6BF-CB4161FEF4B5}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/X Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{FC3ECA76-3FFF-4D44-ABFF-C10AC4E3DEDE}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 2 Reset</Property>
 	<Property Name="varPersistentID:{FC469579-EEF0-4A64-9CDB-036D3F5D48F7}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Switching Mag GV Status</Property>
 	<Property Name="varPersistentID:{FC495164-3C73-4898-B2E4-9979ADE8095A}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Analyzer Magnet Loop error</Property>
+	<Property Name="varPersistentID:{FC53B672-4EA6-491E-91FF-88074B44F680}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/sample number</Property>
 	<Property Name="varPersistentID:{FCD643DF-D330-456E-A73B-F56A969B767F}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y- Steerer I readback</Property>
 	<Property Name="varPersistentID:{FCDF9355-679E-49E5-A61D-7C238471743B}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X+ Steerer I read</Property>
 	<Property Name="varPersistentID:{FD1934F8-3F1B-42B7-BD9D-62404D211056}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/derivative time (Td, min)</Property>
+	<Property Name="varPersistentID:{FDDED2F9-A332-4FB4-99FF-686AB7142980}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Timeouts</Property>
+	<Property Name="varPersistentID:{FDFDC37D-080C-4DE8-8BB6-DEB2937DF2D9}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/set cold cathode on</Property>
 	<Property Name="varPersistentID:{FEA8106C-091C-4DE7-9242-170D3CF1E195}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Y Steerer I readback</Property>
+	<Property Name="varPersistentID:{FEE3DB0F-A752-4EB8-ACB9-7D3D8A657D92}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO31</Property>
 	<Property Name="varPersistentID:{FF0C726B-5DE3-47BE-A648-9A84F4D76266}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Y+ steerer current readback</Property>
 	<Property Name="varPersistentID:{FF3A2BF4-3D4C-407C-AD12-754F767236DC}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Y+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{FF50D888-D628-4DA5-9597-923BB0ACA9FE}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Detector FC Status</Property>
@@ -1040,6 +1277,7 @@
 			<Item Name="R30-1 shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/R30/R30_1/R30-1 shared var lib.lvlib"/>
 			<Item Name="R45-1 shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/R45/R45_1/R45-1 shared var lib.lvlib"/>
 			<Item Name="R45-2 shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/R45/R45_2/R45-2 shared var lib.lvlib"/>
+			<Item Name="SCA shared var lib.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/SCA shared var lib.lvlib"/>
 		</Item>
 		<Item Name="old" Type="Folder">
 			<Item Name="Trans-cRIO" Type="Folder">
@@ -3096,12 +3334,2036 @@ DirectoryIndex index.htm
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Axis 1" Type="Motion Axis">
+			<Property Name="axis.class:0" Type="Int">10551361</Property>
+			<Property Name="axis.mapping:0" Type="Str">Mod2 (Slot 2, NI 9512)</Property>
+			<Property Name="axis.slotNumber:0" Type="Int">2</Property>
+			<Property Name="axis.SMVersion" Type="Int">201310</Property>
+			<Property Name="deviceID:0" Type="Int">9512</Property>
+			<Property Name="resource.type:0" Type="Int">10551297</Property>
+			<Property Name="resourceID:0" Type="Str">{4A5DB14C-B4DC-44CC-888B-9D201610D39F}</Property>
+			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
+			<Property Name="vendorID:0" Type="Int">4243</Property>
+		</Item>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">express</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
 			<Property Name="crio.Type" Type="Str">cRIO-9114</Property>
+			<Item Name="Mod2" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 2</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9512</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+			</Item>
+			<Item Name="Mod3" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 3</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9870</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.kBaudRateDivider1" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider2" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider3" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRateDivider4" Type="Str">384</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kBaudRatePrescaler4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kDataBits1" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits2" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits3" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDataBits4" Type="Str">4</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate1" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate2" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate3" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kDesiredBaudRate4" Type="Str">9.600000E+3</Property>
+				<Property Name="cRIOModule.kFlowControl1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kFlowControl4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kParity4" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits1" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits2" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits3" Type="Str">1</Property>
+				<Property Name="cRIOModule.kStopBits4" Type="Str">1</Property>
+				<Item Name="Port1" Type="RIO Subresource"/>
+				<Item Name="Port2" Type="RIO Subresource"/>
+				<Item Name="Port3" Type="RIO Subresource"/>
+				<Item Name="Port4" Type="RIO Subresource"/>
+			</Item>
+			<Item Name="Mod4" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 4</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9264</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.HotSwapMode" Type="Str">0</Property>
+				<Item Name="AO4" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO5" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO6" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO8" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO8</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO9" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO9</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO10</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO11" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO11</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO12" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO12</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO13" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO13</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO14" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO14</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AO15" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO15</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="cathode set" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="extractor set" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="immersion lens current set" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="immersion lens voltage" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AO2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod5" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 5</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SDcounterSlaveChannelMask" Type="Str">0</Property>
+				<Property Name="crio.SDCounterSlaveMasterSlot" Type="Str">0</Property>
+				<Property Name="crio.SDInputFilter" Type="Str">128</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">true</Property>
+				<Property Name="crio.Type" Type="Str">NI 9205</Property>
+				<Property Name="cRIOModule.AI0.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI0.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI1.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI1.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI10.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI10.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI11.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI11.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI12.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI12.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI13.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI13.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI14.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI14.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI15.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI15.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI16.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI16.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI17.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI17.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI18.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI18.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI19.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI19.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI2.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI2.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI20.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI20.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI21.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI21.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI22.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI22.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI23.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI23.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI24.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI24.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI25.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI25.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI26.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI26.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI27.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI27.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI28.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI28.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI29.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI29.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI3.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI3.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI30.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI30.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI31.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI31.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI4.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI4.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI5.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI5.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI6.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI6.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI7.TerminalMode" Type="Str">2</Property>
+				<Property Name="cRIOModule.AI7.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI8.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI8.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI9.TerminalMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.AI9.VoltageRange" Type="Str">0</Property>
+				<Property Name="cRIOModule.DigitalIOMode" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableCalProperties" Type="Str">false</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.MinConvTime" Type="Str">8.000000E+0</Property>
+				<Item Name="AI7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI8" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI8</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI9" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI9</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI10</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI11" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI11</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI12" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI12</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI13" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI13</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI14" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI14</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI15" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI15</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI16" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">16</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI16</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI17" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">17</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI17</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI18" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">18</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI18</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI19" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">19</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI19</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI20" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">20</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI20</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI21" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">21</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI21</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI22" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">22</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI22</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI23" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">23</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI23</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI24" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">24</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI24</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI25" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">25</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI25</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI26" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">26</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI26</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI27" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">27</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI27</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI28" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">28</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI28</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI29" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">29</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI29</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI30" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">30</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI30</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="AI31" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">31</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI31</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="cathode current read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="cathode voltage read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="cold cathode" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="extractor current read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="extractor voltage read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="immersion lens I read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="immersion lens voltage read" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">AI5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">(1!!!"9!A!!!!!!"!!5!#A!!!1!!!!!!!!!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod6" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 6</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">true</Property>
+				<Property Name="crio.Type" Type="Str">NI 9403</Property>
+				<Property Name="cRIOModule.DisableArbitration" Type="Str">false</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.Initial Line Direction" Type="Str">00000000000000000000000000000000</Property>
+				<Item Name="DIO0" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO2" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO3" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO4" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO5" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO6" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO8" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO8</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO9" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO9</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO10</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO11" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO11</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO12" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO12</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO13" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO13</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO14" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO14</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO15" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO15</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO16" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">16</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO16</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO17" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">17</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO17</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO18" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">18</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO18</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO19" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">19</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO19</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO20" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">20</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO20</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO21" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">21</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO21</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO22" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">22</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO22</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO23" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">23</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO23</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO24" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">24</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO24</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO25" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">25</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO25</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO26" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">26</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO26</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO27" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">27</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO27</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO28" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">28</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO28</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO29" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">29</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO29</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO30" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">30</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO30</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DIO31" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">31</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DIO31</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod7" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 7</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9426</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Item Name="DI10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">10</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI10</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI11" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">11</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI11</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI12" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">12</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI12</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI13" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">13</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI13</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI14" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">14</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI14</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI15" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">15</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI15</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI16" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">16</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI16</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI17" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">17</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI17</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI18" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">18</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI18</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI19" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">19</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI19</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI20" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">20</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI20</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI21" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">21</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI21</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI22" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">22</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI22</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI23" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">23</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI23</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI24" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">24</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI24</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI25" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">25</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI25</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI26" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">26</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI26</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI27" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">27</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI27</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI28" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">28</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI28</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI29" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">29</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI29</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI30" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">30</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI30</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DI31" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">31</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI31</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="insert in1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="insert out1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="retract in" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="retract in1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">9</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI9</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="retract out" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="retract out1" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">8</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI8</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="rod down" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="rod up" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="sc gate valve close" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="sc gate valve open" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Input</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DI2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+			</Item>
+			<Item Name="Mod8" Type="RIO C Series Module">
+				<Property Name="crio.Calibration" Type="Str">1</Property>
+				<Property Name="crio.Location" Type="Str">Slot 8</Property>
+				<Property Name="crio.RequiresValidation" Type="Bool">false</Property>
+				<Property Name="crio.SupportsDynamicRes" Type="Bool">false</Property>
+				<Property Name="crio.Type" Type="Str">NI 9485</Property>
+				<Property Name="cRIOModule.DIO3_0InitialDir" Type="Str">0</Property>
+				<Property Name="cRIOModule.DIO7_4InitialDir" Type="Str">0</Property>
+				<Property Name="cRIOModule.EnableSpecialtyDigital" Type="Str">false</Property>
+				<Property Name="cRIOModule.NumSyncRegs" Type="Str">11111111</Property>
+				<Item Name="cold cathode" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">6</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO6</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="dnu" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">2</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO2</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="DO7" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">7</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO7</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="pushin" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">3</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO3</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="retract" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">4</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO4</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="rod" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">5</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO5</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="sc gate valve 10" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">1</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO1</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+				<Item Name="sc gate valve two" Type="Variable">
+					<Property Name="featurePacks" Type="Str">Industrial</Property>
+					<Property Name="Industrial:BufferingEnabled" Type="Str">False</Property>
+					<Property Name="Industrial:ChannelIndex" Type="Str">0</Property>
+					<Property Name="Industrial:IODirection" Type="Str">Output</Property>
+					<Property Name="Industrial:IsNetworkPublished" Type="Str">True</Property>
+					<Property Name="Industrial:Mode" Type="Str">1</Property>
+					<Property Name="Industrial:PhysicalName" Type="Str">DO0</Property>
+					<Property Name="Network:BuffSize" Type="Str">50</Property>
+					<Property Name="Network:UseBinding" Type="Str">False</Property>
+					<Property Name="Network:UseBuffering" Type="Str">True</Property>
+					<Property Name="numTypedefs" Type="UInt">0</Property>
+					<Property Name="type" Type="Str">Industrial</Property>
+					<Property Name="typeDesc" Type="Bin">&amp;1!!!"9!A!!!!!!"!!1!)1!"!!!!!!!!!!</Property>
+				</Item>
+			</Item>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Coordinate Space 1" Type="Motion Coordinate Space">
+			<Property Name="axes:0:0" Type="Str">Axis 1</Property>
+			<Property Name="axes:0:Size" Type="UInt">1</Property>
+			<Property Name="resource.type:0" Type="Int">10551313</Property>
+			<Property Name="resourceID:0" Type="Str">{E3D80009-7D77-40A6-BFAC-D1C51B3EF31B}</Property>
+			<Property Name="softmotionID:0" Type="Str">{C89C22D6-09D8-451c-B54B-BE98A931F881}</Property>
+		</Item>
+		<Item Name="Extract-State-from-Array-of-States.vi" Type="VI" URL="../../../../../Users/wymanm/Desktop/Sample Changer - Copy/Extract-State-from-Array-of-States.vi"/>
+		<Item Name="global SCA shared var lib.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/global SCA shared var lib.lvlib"/>
+		<Item Name="local SCA shared var lib.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/local SCA shared var lib.lvlib"/>
+		<Item Name="SCA-RT.vi" Type="VI" URL="../Beamline sections/Sample Changer A/SCA-RT.vi">
+			<Item Name="Read" Type="IIO Function Block"/>
+			<Item Name="Straight-Line Move" Type="IIO Function Block"/>
+			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
+			<Item Name="Straight-Line Move 2" Type="IIO Function Block"/>
+		</Item>
+		<Item Name="SCB cRIO control shared var.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/SCB cRIO control shared var.lvlib"/>
+		<Item Name="SCB cRIO readback shared var.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/SCB cRIO readback shared var.lvlib"/>
+		<Item Name="SCB cRIO status shared var.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/SCB cRIO status shared var.lvlib"/>
+		<Item Name="shared var lib.lvlib" Type="Library" URL="../../../../../Users/wymanm/Desktop/Sample Changer - Copy/shared var/shared var lib.lvlib"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+			</Item>
+			<Item Name="Bypass control.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Bypass control.ctl"/>
+			<Item Name="Extract-State-from-Array-of-States.vi" Type="VI" URL="../Beamline sections/Sample Changer A/Extract-State-from-Array-of-States.vi"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/GV states.ctl"/>
+			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Horizontal Rod states.ctl"/>
+			<Item Name="HV controls.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/HV controls.ctl"/>
+			<Item Name="HV readbacks.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/HV readbacks.ctl"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
+			<Item Name="SC RT.vi" Type="VI" URL="../../../Repo/PRIME-SC2-Tests/SC RT.vi"/>
+			<Item Name="SC2 states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/SC2 states.ctl"/>
+			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
+			<Item Name="state control sample changer.ctl" Type="VI" URL="../../../../../Users/wymanm/Desktop/Sample Changer - Copy/controls/state control sample changer.ctl"/>
+			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Vertical Rod states.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="InjectorA-cRIO" Type="RT CompactRIO">
@@ -4742,7 +7004,12 @@ DirectoryIndex index.htm
 				<Item Name="Dependencies" Type="Dependencies">
 					<Item Name="vi.lib" Type="Folder">
 						<Item Name="FxpSim.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/FXPMathLib/sim/FxpSim.dll"/>
+						<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 					</Item>
+					<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
+					<Item Name="Glassman Readback.ctl" Type="VI" URL="../../Common-Control/Glassman Readback.ctl"/>
+					<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
+					<Item Name="GP307 Read.vi" Type="VI" URL="../../Common-Control/sub-VIs/GP307 Read.vi"/>
 				</Item>
 				<Item Name="Build Specifications" Type="Build">
 					<Item Name="InjA-FPGA" Type="{F4C5E96F-7410-48A5-BB87-3559BC9B167F}">
