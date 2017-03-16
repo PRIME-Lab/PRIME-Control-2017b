@@ -1263,6 +1263,7 @@
 			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
+			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
 			<Item Name="Glassman Readback.ctl" Type="VI" URL="../../Common-Control/Glassman Readback.ctl"/>
 			<Item Name="Cryo Readback.ctl" Type="VI" URL="../../Common-Control/Cryo Readback.ctl"/>
@@ -5335,7 +5336,6 @@ DirectoryIndex index.htm
 		<Item Name="SCA-RT.vi" Type="VI" URL="../Beamline sections/Sample Changer A/SCA-RT.vi">
 			<Item Name="Read" Type="IIO Function Block"/>
 			<Item Name="Straight-Line Move" Type="IIO Function Block"/>
-			<Item Name="Straight-Line Move 1" Type="IIO Function Block"/>
 			<Item Name="Straight-Line Move 2" Type="IIO Function Block"/>
 		</Item>
 		<Item Name="SCB cRIO control shared var.lvlib" Type="Library" URL="../Beamline sections/Sample Changer A/SCB cRIO control shared var.lvlib"/>
@@ -5358,6 +5358,7 @@ DirectoryIndex index.htm
 			<Item Name="HV readbacks.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/HV readbacks.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
+			<Item Name="Modify array of SCA states.vi" Type="VI" URL="../../Common-Control/sub-VIs/Modify array of SCA states.vi"/>
 			<Item Name="SC RT.vi" Type="VI" URL="../../../Repo/PRIME-SC2-Tests/SC RT.vi"/>
 			<Item Name="SC2 states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/SC2 states.ctl"/>
 			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
