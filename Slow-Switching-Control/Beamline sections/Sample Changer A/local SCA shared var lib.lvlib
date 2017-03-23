@@ -4,6 +4,22 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="New sample" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:ElemSize" Type="Str">1</Property>
+		<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+		<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+		<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"9!A!!!!!!"!!N!"1!&amp;65FO&gt;$A!!1!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="SCA state control" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -20,6 +36,6 @@
 		<Property Name="type" Type="Str">Global</Property>
 		<Property Name="typedefName1" Type="Str">SCA states.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../controls/SCA states.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;96!%!!"9!A!!!!!!"!5)!]1!!!!!!!!!"$F.$13"T&gt;'&amp;U:8-O9X2M!3N!&amp;A!4#GFO;82J97RJ?G5%&gt;W&amp;J&gt;".D;'&amp;O:W5A=W&amp;N='RF)(.U98*U$7.I97ZH:3"T97VQ&lt;'5/9WBF9WMA='^T;82J&lt;WY.&gt;W&amp;J&gt;#"Q&lt;X.J&gt;'FP&lt;ARS&lt;X2B&gt;'5A&gt;WBF:7Q7=W&amp;N='RF)'.I97ZH:3"D&lt;WVQ&lt;'6U:1VT97VQ&lt;'5A=G^E)(6Q$X.B&lt;8"M:3"S&lt;W1A:'^X&lt;AZS:82S97.U)(*P:#"J&lt;A^S:82S97.U)(*P:#"P&gt;81.;7ZT:8*U)(*P:#"J&lt;AZJ&lt;H.F=H1A=G^E)'^V&gt;!VX;'6F&lt;#"(6C"P='6O$H&gt;I:76M)%&gt;7)'.M&lt;X.F#X:F&lt;H1A=W^V=G.F#X"V&lt;8!A=W^V=G.F%H2F=X1A=W&amp;N='RF)'.I97ZH:1!!#6.$13"T&gt;'&amp;U:1!"!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;%1!%!!"9!A!!!!!!"!3Y!]1!!!!!!!!!"$F.$13"T&gt;'&amp;U:8-O9X2M!2&gt;!&amp;A!3#GFO;82J97RJ?G5%&gt;W&amp;J&gt;".D;'&amp;O:W5A=W&amp;N='RF)(.U98*U$7.I97ZH:3"T97VQ&lt;'5/9WBF9WMA='^T;82J&lt;WY.&gt;W&amp;J&gt;#"Q&lt;X.J&gt;'FP&lt;ARS&lt;X2B&gt;'5A&gt;WBF:7Q7=W&amp;N='RF)'.I97ZH:3"D&lt;WVQ&lt;'6U:1VT97VQ&lt;'5A=G^E)(6Q$X.B&lt;8"M:3"S&lt;W1A:'^X&lt;AZS:82S97.U)(*P:#"J&lt;A^S:82S97.U)(*P:#"P&gt;81.;7ZT:8*U)(*P:#"J&lt;AZJ&lt;H.F=H1A=G^E)'^V&gt;!VX;'6F&lt;#"(6C"P='6O$H&gt;I:76M)%&gt;7)'.M&lt;X.F#X:F&lt;H1A=W^V=G.F#X"V&lt;8!A=W^V=G.F!!F41U%A=X2B&gt;'5!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
