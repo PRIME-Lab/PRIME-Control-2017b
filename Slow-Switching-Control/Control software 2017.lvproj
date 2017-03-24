@@ -33,12 +33,14 @@
 	<Property Name="varPersistentID:{05225D60-A88B-4DAE-9E5D-CE39712CE34C}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans Y- steerer current readback</Property>
 	<Property Name="varPersistentID:{05254AE4-5E39-4FFE-B412-68CFF4FC72B9}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Quad B set</Property>
 	<Property Name="varPersistentID:{0534BA7E-E540-4C05-ADD2-459E7F1427DA}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Down-Steerer I read</Property>
+	<Property Name="varPersistentID:{05B5C467-FD8B-43E9-AEA9-C9EEE2231461}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Wheel GV Status</Property>
 	<Property Name="varPersistentID:{05F934DD-DB8D-4F5B-B6EC-9EE933ED3E53}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Detector ion gauge 1</Property>
 	<Property Name="varPersistentID:{06086E0B-428B-4A94-9CCB-A2D15BBF8079}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X- Steerer V readback</Property>
 	<Property Name="varPersistentID:{0629DA20-8422-4B6A-A354-EB90A17E602B}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Tank Exit Convectron 1</Property>
 	<Property Name="varPersistentID:{063DFFCB-A73B-430D-8E94-6ADFB56C2D28}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO10</Property>
 	<Property Name="varPersistentID:{0668DB7E-5850-4F28-A27C-8E38F7534EAE}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{069B9F26-75C2-44E1-9249-6FD50750FC19}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Up-Steerer V read</Property>
+	<Property Name="varPersistentID:{069CC620-6E77-41BB-AB18-255392A8B4C7}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Insert Rod Status</Property>
 	<Property Name="varPersistentID:{06CEB6E8-95B7-4B3A-9C55-63398C28F489}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Quad B set</Property>
 	<Property Name="varPersistentID:{06E93B5A-8520-4890-A9DC-2539A1BA8320}" Type="Ref">/SCA-cRIO/Chassis/Mod8/DO7</Property>
 	<Property Name="varPersistentID:{06F07239-490C-48AC-B1A8-F3114143FB0B}" Type="Ref">/SCA-cRIO/Chassis/Mod8/Sample Rod Actuator</Property>
@@ -131,7 +133,6 @@
 	<Property Name="varPersistentID:{187A32EC-7BF9-410E-9F50-ACCBC13BDA53}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Vac cluster 2 Ion Gauge Interlock</Property>
 	<Property Name="varPersistentID:{19001564-685D-4939-BADC-6A7D9BF20C2F}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{1907C03C-C252-4884-88E7-6E1014B01BCA}" Type="Ref">/SCA-cRIO/Chassis/Mod7/Insert Rod OUT sensor</Property>
-	<Property Name="varPersistentID:{19B5CA3B-F372-4C30-A541-5648ABACCC30}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Ion Source GV Status</Property>
 	<Property Name="varPersistentID:{19CBAB55-D183-4824-AB13-466A34CF5D2E}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA-Image cRIO error</Property>
 	<Property Name="varPersistentID:{1A21ADF0-CD0C-43A9-A4A4-7F2F189FE9C3}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1- I read</Property>
 	<Property Name="varPersistentID:{1B0E07A1-BF8A-4E02-92C8-DE29A8DDB2ED}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd-cRIO error</Property>
@@ -508,7 +509,6 @@
 	<Property Name="varPersistentID:{6A72F2A8-18D1-41BC-83C1-6C9FDB6F3447}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/X+ Steerer V set</Property>
 	<Property Name="varPersistentID:{6A8447B5-DA68-415B-9E78-1FDDDDA830BC}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI18</Property>
 	<Property Name="varPersistentID:{6AB5AF61-BE74-44A4-9953-75BEEDE2C473}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO20</Property>
-	<Property Name="varPersistentID:{6AD7EAFB-1F57-4845-9BBF-17EF7B3371E9}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Retract Rod Status</Property>
 	<Property Name="varPersistentID:{6AF0B405-6E4C-417E-8C4B-97846F98F5F5}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Close Wheel GV</Property>
 	<Property Name="varPersistentID:{6B012C08-147B-4AC1-8CB6-E8FCF9F5DAF3}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 2+ V read</Property>
 	<Property Name="varPersistentID:{6B22CCE0-7D46-45F4-A412-8D65C005CDCD}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist FC Status</Property>
@@ -608,6 +608,7 @@
 	<Property Name="varPersistentID:{7E8FF5BA-369A-4653-9E95-6A1D346D369F}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Ion Gauge 1</Property>
 	<Property Name="varPersistentID:{7EEC5D73-D26E-49E1-A76D-AA357C601D87}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Y2- Steerer I readback</Property>
 	<Property Name="varPersistentID:{7F2080E8-308F-45EF-B2CF-5E6A1E42AE1C}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/position</Property>
+	<Property Name="varPersistentID:{7F645ACA-1206-4F42-89EC-6774BFFFBC89}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Sample Rod status</Property>
 	<Property Name="varPersistentID:{7F6AD490-FCC1-40B7-AF88-8D42B61B0D5E}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyzer Image Interlock Bypass</Property>
 	<Property Name="varPersistentID:{7F7A7E9C-E1F5-4B67-BCF7-B955289AD639}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y+ Steerer I read</Property>
 	<Property Name="varPersistentID:{7FD88DA0-2F45-4ED8-902A-CBC063F33360}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Y- Steerer V set</Property>
@@ -656,6 +657,7 @@
 	<Property Name="varPersistentID:{870D2E8A-2868-4903-97F3-D19819EA51E3}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Analyzer Object Vac cluster</Property>
 	<Property Name="varPersistentID:{871C483B-BC2C-42BA-BAAF-B3C199A4F5EF}" Type="Ref">/HighEnd-cRIO/local highend shared var lib.lvlib/Interlock loop error</Property>
 	<Property Name="varPersistentID:{873C83EF-F564-4157-AE50-3C85E6811C98}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/High End Waist Vac Interlock</Property>
+	<Property Name="varPersistentID:{87CCD24B-E9CD-4D72-A6CC-919AD59993D0}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Retract Rod Status</Property>
 	<Property Name="varPersistentID:{87E5DF36-1D5E-4EA2-8F1B-82D40E4B89EE}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 X-steerer Mag- V read</Property>
 	<Property Name="varPersistentID:{884C40B3-0E80-446F-86AE-583F2AFC22F6}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Vac Interlock</Property>
 	<Property Name="varPersistentID:{88DB2DA6-2F8B-4045-BE29-966D5D89DFE6}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/proportional gain (Kc)</Property>
@@ -810,7 +812,6 @@
 	<Property Name="varPersistentID:{A4F18B8B-2B5C-489D-B792-93CD76498CFF}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/manual control</Property>
 	<Property Name="varPersistentID:{A5489FCD-2B69-4EB1-AB2D-B48AB7BD4013}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1+ I read</Property>
 	<Property Name="varPersistentID:{A5615DE5-6FF7-410A-87E1-F92430539445}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Changing Sample</Property>
-	<Property Name="varPersistentID:{A568037E-7B5B-4B13-95A1-C6B7A25F9E71}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Insert Rod Status</Property>
 	<Property Name="varPersistentID:{A56B2FAB-10ED-4B26-B04B-27912AE7F0FA}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/error out</Property>
 	<Property Name="varPersistentID:{A5AD8783-631E-49CD-8978-A798D0BED618}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{A5C49405-49DF-4549-B28B-F8C68F7B2E8B}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Left-Steerer V set</Property>
@@ -929,7 +930,7 @@
 	<Property Name="varPersistentID:{BF0A6669-9455-4851-A739-19D37F48B858}" Type="Ref">/Trans-cRIO/local trans shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{BF0B8B12-E067-4193-A7A9-E547749CDA45}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Aperture insert</Property>
 	<Property Name="varPersistentID:{BF1FDBCC-C9FD-4CCC-BCBE-024E51C8B786}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance Y1+ Steerer V readback</Property>
-	<Property Name="varPersistentID:{BF25B828-C9F5-442D-BB54-E668F7B61CAB}" Type="Ref">/SCA-cRIO/SCB cRIO control shared var.lvlib/Encoder Offset</Property>
+	<Property Name="varPersistentID:{BF25B828-C9F5-442D-BB54-E668F7B61CAB}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Encoder Offset</Property>
 	<Property Name="varPersistentID:{BF2FD2DF-5D31-437E-889A-64B17078A452}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/Cryo loop error</Property>
 	<Property Name="varPersistentID:{BF86993B-FAC6-4A07-8E3A-31B7AF2D816E}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{BFBD54C6-40C7-4C5B-8508-9BD90DFB878A}" Type="Ref">/SCA-cRIO/Chassis/Mod8/DO6</Property>
@@ -939,7 +940,6 @@
 	<Property Name="varPersistentID:{C02CBF69-D847-4CD4-837D-D114C55D9908}" Type="Ref">/InjectorA-cRIO/local injA shared var lib.lvlib/Turbo readback loop error</Property>
 	<Property Name="varPersistentID:{C06072C5-0D04-4759-88FB-1ABD621CC334}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/R45-1 cRIO Error</Property>
 	<Property Name="varPersistentID:{C0665558-71EC-4D52-ADEB-D8A75D1B6D9E}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB+ voltage readback</Property>
-	<Property Name="varPersistentID:{C0732E8D-81CD-474E-B9DD-071769E12D29}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Wheel GV Status</Property>
 	<Property Name="varPersistentID:{C14D43FE-9881-4B99-8A10-56AF64C630AA}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Right-Steerer V read</Property>
 	<Property Name="varPersistentID:{C15FF99F-E809-4A45-90C8-9584166B9E43}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Cryo Pump GV Status</Property>
 	<Property Name="varPersistentID:{C167232D-AAA4-44C2-BF76-A4BF0AC6A944}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Analyzer Magnet/output high</Property>
@@ -1074,7 +1074,6 @@
 	<Property Name="varPersistentID:{DD121FDE-09E3-41DB-9E1B-10A32B00604A}" Type="Ref">/SCA-cRIO/shared var lib.lvlib/immersion lens v read</Property>
 	<Property Name="varPersistentID:{DD817A83-D92D-4354-9037-1F62A5F31AF8}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/Analyzer Object Vac cluster</Property>
 	<Property Name="varPersistentID:{DE6D73CC-448B-4305-8B0A-8DF458F6AE13}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image Aperture Actuator</Property>
-	<Property Name="varPersistentID:{DED2D719-A6BD-4645-941D-A707305AA654}" Type="Ref">/SCA-cRIO/SCB cRIO status shared var.lvlib/Sample Rod Status</Property>
 	<Property Name="varPersistentID:{DEF598D1-06D7-4FF5-A804-5A54959E625B}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Beamline GV 3 Status</Property>
 	<Property Name="varPersistentID:{DF67FCD6-0B4B-4E39-825C-D10D26B7F566}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Y+ Steerer I readback</Property>
 	<Property Name="varPersistentID:{DF795DF2-E0F5-4803-8D6D-05E5520FD997}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/error out</Property>
@@ -1270,11 +1269,11 @@
 			<Item Name="Glassman Readback.ctl" Type="VI" URL="../../Common-Control/Glassman Readback.ctl"/>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
 			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
-			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Horizontal Rod states.ctl"/>
+			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../../Common-Control/Horizontal Rod states.ctl"/>
 			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
 			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
 			<Item Name="Timeouts.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Timeouts.ctl"/>
-			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Vertical Rod states.ctl"/>
+			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../../Common-Control/Vertical Rod states.ctl"/>
 		</Item>
 		<Item Name="cRIO Shared Variables" Type="Folder">
 			<Item Name="ControlRoom shared var lib.lvlib" Type="Library" URL="../../Common-Control/Beamline sections/Control Room/ControlRoom shared var lib.lvlib"/>
@@ -1303,6 +1302,8 @@
 			<Item Name="Encoder-Decoder.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/Encoder-Decoder.vi"/>
 			<Item Name="Transition Timeout Check.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/Transition Timeout Check.vi"/>
 			<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/Sample-Encoder conversion.vi"/>
+			<Item Name="Vertical Rod Sensor-State converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Vertical Rod Sensor-State converter.vi"/>
+			<Item Name="Horizontal Rod Sensor-State converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Horizontal Rod Sensor-State converter.vi"/>
 		</Item>
 		<Item Name="Main Control.vi" Type="VI" URL="../Main Control.vi"/>
 		<Item Name="main.lvlib" Type="Library" URL="../Main/main.lvlib"/>
@@ -1334,7 +1335,7 @@
 			<Item Name="steerer set.vi" Type="VI" URL="../../Common-Control/Beamline sections/low energy end/Low energy end/steerer set.vi"/>
 			<Item Name="steerer range.vi" Type="VI" URL="../../Common-Control/Beamline sections/low energy end/Low energy end/steerer range.vi"/>
 			<Item Name="SC2 states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/SC2 states.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/GV states.ctl"/>
+			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Vertical Rod states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="control software" Type="EXE">
@@ -5367,16 +5368,19 @@ DirectoryIndex index.htm
 			<Item Name="Encoder bit cluster.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Encoder bit cluster.ctl"/>
 			<Item Name="Encoder-Decoder.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/Encoder-Decoder.vi"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/GV states.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
-			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Horizontal Rod states.ctl"/>
+			<Item Name="Horizontal Rod Sensor-State converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Horizontal Rod Sensor-State converter.vi"/>
+			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../../Common-Control/Horizontal Rod states.ctl"/>
 			<Item Name="HV controls.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/HV controls.ctl"/>
 			<Item Name="HV readbacks.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/HV readbacks.ctl"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
 			<Item Name="Modify array of SCA states.vi" Type="VI" URL="../../Common-Control/sub-VIs/Modify array of SCA states.vi"/>
+			<Item Name="Sample-Encoder conversion.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/Sample-Encoder conversion.vi"/>
 			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
 			<Item Name="state control sample changer.ctl" Type="VI" URL="../../../../../Users/wymanm/Desktop/Sample Changer - Copy/controls/state control sample changer.ctl"/>
+			<Item Name="Vertical Rod Sensor-State converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Vertical Rod Sensor-State converter.vi"/>
 			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Vertical Rod states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
@@ -8481,7 +8485,6 @@ DirectoryIndex index.htm
 			<Item Name="Cryo Readback.ctl" Type="VI" URL="../../Common-Control/Cryo Readback.ctl"/>
 			<Item Name="Aperture states.ctl" Type="VI" URL="../../Common-Control/Aperture states.ctl"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="Faraday status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Faraday status converter.vi"/>
@@ -8490,6 +8493,7 @@ DirectoryIndex index.htm
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="InjA-Image-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -10528,7 +10532,6 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
@@ -10540,6 +10543,7 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
 			<Item Name="Faraday Cup Readback.ctl" Type="VI" URL="../../Common-Control/Faraday Cup Readback.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="LowEnd-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -12435,7 +12439,6 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="Faraday status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Faraday status converter.vi"/>
@@ -12444,6 +12447,7 @@ DirectoryIndex index.htm
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Faraday Cup Readback.ctl" Type="VI" URL="../../Common-Control/Faraday Cup Readback.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="HighEnd-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -14048,10 +14052,10 @@ DirectoryIndex index.htm
 			</Item>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
 			<Item Name="Faraday status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Faraday status converter.vi"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Trans-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -15552,12 +15556,12 @@ DirectoryIndex index.htm
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Cryo Readback.ctl" Type="VI" URL="../../Common-Control/Cryo Readback.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="R30_1-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -16921,7 +16925,6 @@ DirectoryIndex index.htm
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="Faraday Cup Readback.ctl" Type="VI" URL="../../Common-Control/Faraday Cup Readback.ctl"/>
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
 			<Item Name="Faraday status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Faraday status converter.vi"/>
@@ -16930,6 +16933,7 @@ DirectoryIndex index.htm
 			<Item Name="Glassman Control.ctl" Type="VI" URL="../../Common-Control/Glassman Control.ctl"/>
 			<Item Name="GP307 cluster.ctl" Type="VI" URL="../../Common-Control/GP307 cluster.ctl"/>
 			<Item Name="Cryo Readback.ctl" Type="VI" URL="../../Common-Control/Cryo Readback.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="R45-1-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -18498,13 +18502,13 @@ DirectoryIndex index.htm
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../../Common-Control/Faraday cup states.ctl"/>
 			<Item Name="Aperture states.ctl" Type="VI" URL="../../Common-Control/Aperture states.ctl"/>
 			<Item Name="GV status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/GV status converter.vi"/>
-			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../../Common-Control/Gate Valve Readback.ctl"/>
 			<Item Name="Faraday status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Faraday status converter.vi"/>
 			<Item Name="Aperture status converter.vi" Type="VI" URL="../../Common-Control/sub-VIs/Aperture status converter.vi"/>
 			<Item Name="Glassman Readback.ctl" Type="VI" URL="../../Common-Control/Glassman Readback.ctl"/>
 			<Item Name="Faraday Cup Readback.ctl" Type="VI" URL="../../Common-Control/Faraday Cup Readback.ctl"/>
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
+			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="R45-2-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
