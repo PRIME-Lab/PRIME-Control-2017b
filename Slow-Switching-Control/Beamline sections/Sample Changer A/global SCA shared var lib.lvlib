@@ -34,6 +34,16 @@
 		<Property Name="typedefPath1" Type="PathRel">../controls/SCA states.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;%1!%!!"9!A!!!!!!"!3Y!]1!!!!!!!!!"$F.$13"T&gt;'&amp;U:8-O9X2M!2&gt;!&amp;A!3#GFO;82J97RJ?G5%&gt;W&amp;J&gt;".D;'&amp;O:W5A=W&amp;N='RF)(.U98*U$7.I97ZH:3"T97VQ&lt;'5/9WBF9WMA='^T;82J&lt;WY.&gt;W&amp;J&gt;#"Q&lt;X.J&gt;'FP&lt;ARS&lt;X2B&gt;'5A&gt;WBF:7Q7=W&amp;N='RF)'.I97ZH:3"D&lt;WVQ&lt;'6U:1VT97VQ&lt;'5A=G^E)(6Q$X.B&lt;8"M:3"S&lt;W1A:'^X&lt;AZS:82S97.U)(*P:#"J&lt;A^S:82S97.U)(*P:#"P&gt;81.;7ZT:8*U)(*P:#"J&lt;AZJ&lt;H.F=H1A=G^E)'^V&gt;!VX;'6F&lt;#"(6C"P='6O$H&gt;I:76M)%&gt;7)'.M&lt;X.F#X:F&lt;H1A=W^V=G.F#X"V&lt;8!A=W^V=G.F!!F41U%A=X2B&gt;'5!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
+	<Item Name="Encoder Destination" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/motor 2.lvproj/Sample-changer/shared var lib.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!N!!A!&amp;37ZU-49!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="Encoder Offset" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Initial Value,Network,Real-Time Features</Property>
 		<Property Name="Initial Value:Value" Type="Str">-1021.000000</Property>
@@ -47,6 +57,15 @@
 		<Property Name="Path" Type="Str">/Motor tests.lvproj/RT CompactRIO Target/SC2 shared var.lvlib/</Property>
 		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
 		<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!N!!A!&amp;37ZU-49!!1!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Encoder position" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!N!!A!&amp;37ZU-49!!1!!!!!!!!!!!!!!!!</Property>
 	</Item>
@@ -78,6 +97,16 @@
 		<Property Name="typedefName1" Type="Str">Horizontal Rod states.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../../../Common-Control/Horizontal Rod states.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"H9Q!!!"9!A!!!!!!"!&amp;%!]1!!!!!!!!!"'5BP=GF[&lt;WZU97QA5G^E)(.U982F=SZD&gt;'Q!,U!7!!-/=X2B&gt;(6T)(6O9WRF98)'=G^E)'FO"X*P:#"P&gt;81!"%6O&gt;7U!!!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="New Move" Type="Variable">
+		<Property Name="Description:Description" Type="Str">Number motor steps for next move of Sample Wheel</Property>
+		<Property Name="featurePacks" Type="Str">Description,Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Open Wheel GV" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
@@ -178,6 +207,15 @@
 		<Property Name="typedefName1" Type="Str">Vertical Rod states.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../controls/Vertical Rod states.ctl</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"H9Q!!!"9!A!!!!!!"!&amp;%!]1!!!!!!!!!"&amp;V:F=H2J9W&amp;M)&amp;*P:#"T&gt;'&amp;U:8-O9X2M!$&amp;!&amp;A!$$H.U982V=S"V&lt;G.M:7&amp;S#(*P:#"E&lt;X&gt;O"H*P:#"V=!!!"%6O&gt;7U!!!%!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="SCA-cRIO error" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"14!!!!"9!A!!!!!!%!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!!Q!5!!$!!!!!1!#!!%!!Q!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Start Sample Change" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>

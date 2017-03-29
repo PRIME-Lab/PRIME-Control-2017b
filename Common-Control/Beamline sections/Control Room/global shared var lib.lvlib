@@ -6,6 +6,7 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="ControlRoom-cRIO error" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="name" Type="Str">ControlRoom-cRIO error</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
 		<Property Name="Network:UseBuffering" Type="Str">True</Property>
