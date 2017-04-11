@@ -369,32 +369,38 @@
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"14!!!!"9!A!!!!!!%!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!!Q!5!!$!!!!!1!#!!%!!Q!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="SM Config Update?" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="Initial Value:Value" Type="Str">False</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Start Sample Change" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="Initial Value:Value" Type="Str">False</Property>
 		<Property Name="Network:AccessType" Type="Str">read/write</Property>
 		<Property Name="Network:BuffSize" Type="Str">1</Property>
 		<Property Name="Network:ProjectBinding" Type="Str">False</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:URL" Type="Str">\\192.168.1.154\SC2 shared var\SC2 Start Sample Change</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="Path" Type="Str">/Motor tests.lvproj/RT CompactRIO Target/SC2 shared var.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Start Wheel Rotation" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
+		<Property Name="Initial Value:Value" Type="Str">False</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:SingleWriter" Type="Str">False</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
-		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
@@ -407,6 +413,15 @@
 		<Property Name="numTypedefs" Type="UInt">0</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!A(!!!!"9!A!!!!!!"!!A!-0````]!!1!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Timeouts" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:BuffSize" Type="Str">50</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">True</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!',BQ%!!"9!A!!!!!!-!"F!!Q!36WBF:7QA2V9A47FO)%.P&gt;7ZU!!!&lt;1!=!&amp;6*F&gt;(*B9X1A5G^E)%VB?#"$&lt;X6O&gt;!!&lt;1!=!&amp;6*F&gt;(*B9X1A5G^E)%VJ&lt;C"$&lt;X6O&gt;!!&lt;1!=!&amp;%FO=W6S&gt;#"3&lt;W1A47FO)%.P&gt;7ZU!!!&lt;1!=!&amp;%FO=W6S&gt;#"3&lt;W1A47&amp;Y)%.P&gt;7ZU!!!&lt;1!=!&amp;&amp;.B&lt;8"M:3"3&lt;W1A47&amp;Y)%.P&gt;7ZU!!!&lt;1!=!&amp;&amp;.B&lt;8"M:3"3&lt;W1A47FO)%.P&gt;7ZU!!!&gt;1!=!&amp;F*P&gt;'&amp;U:3"8;'6F&lt;#".;7YA1W^V&lt;H1!!"V!"Q!75G^U982F)&amp;&gt;I:76M)%VB?#"$&lt;X6O&gt;!!!(5!(!"&gt;897FU)&amp;"P=WFU;7^O)%VJ&lt;C"$&lt;X6O&gt;!!&gt;1!=!&amp;V&gt;B;81A5'^T;82J&lt;WYA47&amp;Y)%.P&gt;7ZU!"Q!5!!,!!!!!1!#!!-!"!!&amp;!!9!"Q!)!!E!#A!"!!M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Vent Source" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
