@@ -142,6 +142,7 @@
 	<Property Name="varPersistentID:{198413DF-EA7F-4896-9E82-0428CBAF0C6D}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Wheel GV Timeout</Property>
 	<Property Name="varPersistentID:{1A21ADF0-CD0C-43A9-A4A4-7F2F189FE9C3}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 ExB 1- I read</Property>
 	<Property Name="varPersistentID:{1AD9CA43-B85A-4D6A-A419-A58B0B4FCF0F}" Type="Ref">/SCA-cRIO/local SCA shared var lib - old.lvlib/Sample Rod Min Count</Property>
+	<Property Name="varPersistentID:{1B01C675-498F-45D5-BD1C-BBD71A0A7C14}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/Bypass Control</Property>
 	<Property Name="varPersistentID:{1B87F40C-90DF-43DB-83A0-2A2AA216E27E}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Vac Cluster</Property>
 	<Property Name="varPersistentID:{1C1181A3-4108-4D65-8D27-22788F229AFB}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Vac cluster 4 Ion Gauge Interlock</Property>
 	<Property Name="varPersistentID:{1C321F47-65C6-4540-A278-1DFFEC344EB0}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Beamline GV 2 Status</Property>
@@ -199,7 +200,6 @@
 	<Property Name="varPersistentID:{27DA7193-E807-4696-B03F-9376ACF47B9B}" Type="Ref">/R45-1-cRIO/local R45_1 shared var lib.lvlib/Actuator-Sensor loop error</Property>
 	<Property Name="varPersistentID:{27FBF15D-C782-424F-9C67-48755117955B}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Tank Entrance X- Steerer I readback</Property>
 	<Property Name="varPersistentID:{2848A3B6-F6E9-47A9-A12E-C82ED1D02B86}" Type="Ref">/InjectorA-cRIO/global injA shared var lib.lvlib/Einzel 1 V set</Property>
-	<Property Name="varPersistentID:{2858ABD1-2832-4557-A726-27C48F4CBC90}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Wait Position Min Time</Property>
 	<Property Name="varPersistentID:{285FFDF6-7267-4542-851C-646466C83438}" Type="Ref">/SCA-cRIO/Chassis/Mod5/AI13</Property>
 	<Property Name="varPersistentID:{28BBC0E0-7E0C-4C6A-8566-1588DF943899}" Type="Ref">/InjA-Image-cRIO/local injAimage shared var lib.lvlib/Vacuum readback loop error</Property>
 	<Property Name="varPersistentID:{291C8708-F8D9-4F33-8670-9F49FBF8FDB9}" Type="Ref">/R45-2-cRIO/global R45_2 shared var lib.lvlib/R45 Quad Ion Gauge 2</Property>
@@ -248,7 +248,6 @@
 	<Property Name="varPersistentID:{32D1D8A1-3AE1-4FDE-B8EA-922065C41738}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Ion Gauge 2</Property>
 	<Property Name="varPersistentID:{331EB965-6FBA-4400-A4DF-5801F124C7F7}" Type="Ref">/SCA-cRIO/global SCA shared var lib - old.lvlib/Sample Rod insertion</Property>
 	<Property Name="varPersistentID:{33B7C9CC-F151-4B2D-ADCD-A7ED990354A8}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI21</Property>
-	<Property Name="varPersistentID:{33F71B01-1022-4081-888D-CE6DECEEACE8}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Wait Position Max Time</Property>
 	<Property Name="varPersistentID:{34777F5B-D4D8-4ED8-8D7A-AACC729C90D1}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LowEnd Waist Convectron 2</Property>
 	<Property Name="varPersistentID:{34DD975B-95B2-4834-AA78-349F79160EBB}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/LE Waist Y- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{34EB4C8D-F212-4753-ADA4-B7E5804D3BCF}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/switch magnet read field</Property>
@@ -420,6 +419,7 @@
 	<Property Name="varPersistentID:{556BECC9-E7EB-43EE-B0C9-F7E663C42940}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Inductor</Property>
 	<Property Name="varPersistentID:{56252A12-C0BF-4CA2-AF2E-425E0E551304}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Y2+ Steerer V set</Property>
 	<Property Name="varPersistentID:{562C8052-560C-4DC4-9AA8-F6EF013D6190}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Beamline GV actuator</Property>
+	<Property Name="varPersistentID:{56422981-E9C1-43A4-9945-84FB4DA173C7}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Execute Move</Property>
 	<Property Name="varPersistentID:{5698B367-26EA-4A3F-A1B0-454CF454B4CF}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Convectron 2</Property>
 	<Property Name="varPersistentID:{56ACBABF-1579-4F17-B7B1-5A9198B18FCD}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Turbo GV Status</Property>
 	<Property Name="varPersistentID:{57074D3D-5DDB-4814-B1C0-ECC4A670F33A}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Einzel V set</Property>
@@ -433,6 +433,7 @@
 	<Property Name="varPersistentID:{58F1CB02-DAE4-4781-9CF3-FBFB4C6E4675}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/Bounce Mag Image  Aperture Status</Property>
 	<Property Name="varPersistentID:{5923E534-244A-4B65-BB9F-2122B571AF75}" Type="Ref">/SCA-cRIO/Chassis/Mod4/AO6</Property>
 	<Property Name="varPersistentID:{59430CC4-8599-43A8-AF43-D8716C8DCF79}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO27</Property>
+	<Property Name="varPersistentID:{597DD99A-CBDB-4671-AEA6-1789397AB084}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Wheel GV Bypass</Property>
 	<Property Name="varPersistentID:{598AB633-0929-450A-A8C4-E5CDA798C954}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO1</Property>
 	<Property Name="varPersistentID:{59D7F16C-6E54-4F25-A798-B1497E8572AE}" Type="Ref">/R45-1-cRIO/global R45_1 shared var lib.lvlib/Right-Steerer V set</Property>
 	<Property Name="varPersistentID:{59EEFD8F-DBEB-473F-B0DD-AB0B045B1044}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB Slot Convectron Gauge 2</Property>
@@ -474,7 +475,6 @@
 	<Property Name="varPersistentID:{61D8CBFE-1CEB-4B71-9825-82F83AC045D9}" Type="Ref">/My Computer/cRIO Shared Variables/Transmission shared var lib.lvlib/Trans ExB- voltage readback</Property>
 	<Property Name="varPersistentID:{61E750C2-DF20-48EA-BAC5-F23F51251AFC}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image FC Status</Property>
 	<Property Name="varPersistentID:{63295D11-E324-4F62-9756-5DDF42173576}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Vac cluster 4 Interlock</Property>
-	<Property Name="varPersistentID:{6352E10B-3315-4262-8DE4-417EB72D155B}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Rotate Wheel Min Time</Property>
 	<Property Name="varPersistentID:{63678F3C-A058-4DF0-9400-B2C3E22D05CB}" Type="Ref">/My Computer/cRIO Shared Variables/ControlRoom shared var lib.lvlib/He Chain</Property>
 	<Property Name="varPersistentID:{63B1FCDB-42F8-4EB6-89C6-FEC530335D02}" Type="Ref">/LowEnd-cRIO/local lowend shared var lib.lvlib/HV readback 2 loop error</Property>
 	<Property Name="varPersistentID:{63D33C00-EA58-4D8E-A4CE-B93E9A30FAD5}" Type="Ref">/SCA-cRIO/Chassis/Mod4/Extractor V set</Property>
@@ -483,7 +483,6 @@
 	<Property Name="varPersistentID:{6422D995-EB1D-4504-92BD-DE34CD77DDC2}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Motor Status</Property>
 	<Property Name="varPersistentID:{642D4D77-944C-42CD-B36E-AAA226AB5026}" Type="Ref">/Trans-cRIO/Trans-RT.vi/PID - Switch Magnet/output low</Property>
 	<Property Name="varPersistentID:{64ECB0B6-76F0-4EFA-84FF-BF16E312E72E}" Type="Ref">/R45-2-cRIO/R45_2-RT.vi/PID - GFM/auto? (T)</Property>
-	<Property Name="varPersistentID:{64FB548B-7B9F-4B40-88BE-2E86059E5445}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Sample Rod Max Time</Property>
 	<Property Name="varPersistentID:{64FE1D0D-7A70-46E4-8B25-9BC58302E89D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/Beamline GV Status</Property>
 	<Property Name="varPersistentID:{65032E04-6380-4FBC-B253-D869E4590337}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Switch Image FC Actuator</Property>
 	<Property Name="varPersistentID:{650406C3-6BF5-4D66-B994-2B01C9477C62}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 ExB 1 Magnet current set</Property>
@@ -515,6 +514,7 @@
 	<Property Name="varPersistentID:{6B5D5B54-CBF1-44BD-B271-79EE2FC2E8F3}" Type="Ref">/My Computer/cRIO Shared Variables/R45-1 shared var lib.lvlib/R45 Left-Steerer V read</Property>
 	<Property Name="varPersistentID:{6B73AEC3-4168-4D22-80EC-A6B372B94DA0}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/Inj Image FC Status</Property>
 	<Property Name="varPersistentID:{6B82BC9C-162C-45D3-AD47-1B05BE135EC5}" Type="Ref">/SCA-cRIO/Chassis/Mod7/Retract Rod OUT sensor</Property>
+	<Property Name="varPersistentID:{6BFEDCD9-789B-4B11-9C22-94C7DB65AB1F}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Retract Rod Bypass</Property>
 	<Property Name="varPersistentID:{6C34688A-1ADC-4223-8390-DA4143B096A4}" Type="Ref">/SCA-cRIO/Chassis/Mod6/DIO11</Property>
 	<Property Name="varPersistentID:{6C360C14-45EC-4D5C-B546-C3528F82E67D}" Type="Ref">/HighEnd-cRIO/global highend shared var lib.lvlib/ES Quad A- V readback</Property>
 	<Property Name="varPersistentID:{6C39D034-E0CD-42C4-A66B-6E18B2B322C5}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI18</Property>
@@ -528,6 +528,7 @@
 	<Property Name="varPersistentID:{6EF92201-11C0-4B4A-A30D-1E48F48D470C}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/ES Quad A+ I readback</Property>
 	<Property Name="varPersistentID:{6EFD3535-555A-48C2-BC41-A0F042C11D31}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/Switch Image Aperture Actuator</Property>
 	<Property Name="varPersistentID:{6F081CC5-CC83-439C-9A6C-2EEE2BE3DC03}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 Detector convectron 1</Property>
+	<Property Name="varPersistentID:{6F47AA1E-0BCC-40F4-A70E-518D1B7D134A}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/New Command?</Property>
 	<Property Name="varPersistentID:{6F8BCFB9-94A2-4698-A5B6-7E79C9FE9652}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjA Vac interlock bypass</Property>
 	<Property Name="varPersistentID:{6FB87820-724D-4E4A-80DA-F457AD742F22}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X- Steerer V set</Property>
 	<Property Name="varPersistentID:{6FF9908C-912B-4AC6-A69F-1BB67B979B01}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/R30 X+ Steerer HV Enable</Property>
@@ -537,7 +538,6 @@
 	<Property Name="varPersistentID:{709C8FED-E73A-4C72-946E-D44A7DA5135F}" Type="Ref">/R30-1-cRIO/global R30_1 shared var lib.lvlib/ESA+ HV Enable</Property>
 	<Property Name="varPersistentID:{70B4836F-73BA-49E0-9065-205AD6B81E6E}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{70E22949-FD35-434B-8EFE-5382BBD9B365}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI11</Property>
-	<Property Name="varPersistentID:{70EFAA97-69FC-41E3-8164-6AF28CDBF694}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Rotate Wheel Max Time</Property>
 	<Property Name="varPersistentID:{70FB0728-8C42-4FBC-AFE1-2ADA9039C7DC}" Type="Ref">/SCA-cRIO/global SCA shared var lib.lvlib/SCA-RT error</Property>
 	<Property Name="varPersistentID:{712BF6BA-A219-4C99-83A7-28C10EDC5964}" Type="Ref">/My Computer/cRIO Shared Variables/LowEnd shared var lib.lvlib/LowEnd Waist Vac Cluster</Property>
 	<Property Name="varPersistentID:{717E2CEA-FE54-4757-93DD-8C159C651D0C}" Type="Ref">/SCA-cRIO/Chassis/Mod7/DI30</Property>
@@ -854,9 +854,11 @@
 	<Property Name="varPersistentID:{B0F95098-8626-45EE-B977-54B08F5A6EEF}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector FC insert</Property>
 	<Property Name="varPersistentID:{B107FD33-015C-44EE-A513-7E89382C4AEF}" Type="Ref">/My Computer/cRIO Shared Variables/InjA-Image shared var lib.lvlib/InjA Image Einzel V readback</Property>
 	<Property Name="varPersistentID:{B11DE095-8D2C-46FF-A024-B92766498C04}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Convectron Gauge 2</Property>
+	<Property Name="varPersistentID:{B18B20A7-1F2F-4CCD-AFB7-31379E3EFEE7}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Sample Rod Bypass</Property>
 	<Property Name="varPersistentID:{B19EF530-C3E0-4CCC-81FC-72883BCFD062}" Type="Ref">/SCA-cRIO/Chassis/Mod4/Immersion Lens I set</Property>
 	<Property Name="varPersistentID:{B1D4ED5D-1A06-4E3C-B976-02E64BEB1C5D}" Type="Ref">/SCA-cRIO/Chassis/Mod8/DO1</Property>
 	<Property Name="varPersistentID:{B1DDB3CC-DE18-46C8-91D6-00195BDDB046}" Type="Ref">/SCA-cRIO/local SCA shared var lib - old.lvlib/Wheel GV Min Count</Property>
+	<Property Name="varPersistentID:{B204A47E-5044-4211-B391-ECADE879B209}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Insert Rod Bypass</Property>
 	<Property Name="varPersistentID:{B23A2F6A-65D5-480C-9B47-567CD8737B2E}" Type="Ref">/My Computer/cRIO Shared Variables/R30-1 shared var lib.lvlib/ESA convectron 1</Property>
 	<Property Name="varPersistentID:{B2B19298-7942-4BDE-B467-89685216F91A}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/HighEnd Y2+ Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{B2BED227-4C52-4648-9B19-D5F207677E34}" Type="Ref">/My Computer/cRIO Shared Variables/R45-2 shared var lib.lvlib/R45 Detector Aperture Position</Property>
@@ -1141,7 +1143,6 @@
 	<Property Name="varPersistentID:{F230F4B0-F2D8-4233-B0CC-0002A769747A}" Type="Ref">/My Computer/cRIO Shared Variables/InjectorA shared var lib.lvlib/InjA Einzel 1 HV Enable</Property>
 	<Property Name="varPersistentID:{F2840243-49B7-4CBF-B05B-7819BC3DB589}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance X- Steerer HV Enable</Property>
 	<Property Name="varPersistentID:{F2A473B4-FC72-4852-9F87-BFB563E394FA}" Type="Ref">/LowEnd-cRIO/global lowend shared var lib.lvlib/Tank Entrance Vac Interlock bypass</Property>
-	<Property Name="varPersistentID:{F2C2EDBF-031A-478E-A493-50BD677D084A}" Type="Ref">/SCA-cRIO/local SCA shared var lib.lvlib/Sample Rod Min Time</Property>
 	<Property Name="varPersistentID:{F2D98BC4-C820-4E04-833B-4F940E6AA9DE}" Type="Ref">/Trans-cRIO/global trans shared var lib.lvlib/Analyzer Image FC Status</Property>
 	<Property Name="varPersistentID:{F3197324-0F4A-4EAD-BD1C-238CFAF614CF}" Type="Ref">/InjA-Image-cRIO/global injAimage shared var lib.lvlib/X+ Steerer V readback</Property>
 	<Property Name="varPersistentID:{F32CA89F-AF2A-4AB9-B494-4CCAF8F8D4D1}" Type="Ref">/My Computer/cRIO Shared Variables/HighEnd shared var lib.lvlib/High End waist interlock bypass</Property>
@@ -1235,7 +1236,6 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Aperture Readback.ctl" Type="VI" URL="../../Common-Control/Aperture Readback.ctl"/>
 			<Item Name="Aperture states.ctl" Type="VI" URL="../../Common-Control/Aperture states.ctl"/>
-			<Item Name="Bypass control.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Bypass control.ctl"/>
 			<Item Name="Cryo Readback.ctl" Type="VI" URL="../../Common-Control/Cryo Readback.ctl"/>
 			<Item Name="Encoder bit cluster.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Encoder bit cluster.ctl"/>
 			<Item Name="Faraday Cup Readback.ctl" Type="VI" URL="../../Common-Control/Faraday Cup Readback.ctl">
@@ -1253,6 +1253,7 @@
 			<Item Name="GV states.ctl" Type="VI" URL="../../Common-Control/GV states.ctl"/>
 			<Item Name="Horizontal Rod states.ctl" Type="VI" URL="../../Common-Control/Horizontal Rod states.ctl"/>
 			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
+			<Item Name="SCA Bypass control.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA Bypass control.ctl"/>
 			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
 			<Item Name="Timeouts.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Timeouts.ctl"/>
 			<Item Name="Vertical Rod states.ctl" Type="VI" URL="../../Common-Control/Vertical Rod states.ctl"/>
@@ -5371,6 +5372,7 @@ DirectoryIndex index.htm
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Minimum Times.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/Minimum Times.ctl"/>
 			<Item Name="Modify array of SCA states.vi" Type="VI" URL="../../Common-Control/sub-VIs/Modify array of SCA states.vi"/>
+			<Item Name="SCA Bypass control.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA Bypass control.ctl"/>
 			<Item Name="SCA commands.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA commands.ctl"/>
 			<Item Name="SCA state Transition Timeout Check.vi" Type="VI" URL="../Beamline sections/Sample Changer A/sub-VIs/SCA state Transition Timeout Check.vi"/>
 			<Item Name="SCA states.ctl" Type="VI" URL="../Beamline sections/Sample Changer A/controls/SCA states.ctl"/>
