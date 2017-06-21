@@ -1,0 +1,45 @@
+[ControlRoom-cRIO]
+ControlRoom-cRIO = "192.168.1.87"
+
+[HighEnd-cRIO]
+HighEnd-cRIO = "192.168.1.86"
+
+[InjA-Image-cRIO]
+InjA-Image-cRIO = "192.168.1.105"
+
+[InjectorA-cRIO]
+InjectorA-cRIO = "192.168.1.97"
+
+[LowEnd-cRIO]
+LowEnd-cRIO = "192.168.1.89"
+
+[My Computer]
+My Computer = "192.168.1.24"
+
+[NEW-Source-1]
+NEW-Source-1 = "192.168.1.30"
+
+[old-R30-1-cRIO]
+old-R30-1-cRIO = "0.0.0.0"
+
+[R30-1-cRIO]
+R30-1-cRIO = "192.168.1.88"
+
+[R45-1-cRIO]
+R45-1-cRIO = "192.168.1.80"
+
+[R45-1-cRIO-9072]
+R45-1-cRIO-9072 = "0.0.0.0"
+
+[R45-2-cRIO]
+R45-2-cRIO = "192.168.1.9"
+
+[Sample-changer]
+Sample-changer = "0.0.0.0"
+
+[SCA-cRIO]
+SCA-cRIO = "192.168.1.180"
+
+[Trans-cRIO]
+Trans-cRIO = "192.168.1.91"
+

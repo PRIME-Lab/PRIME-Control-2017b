@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Draft//EN">
+<HTML>
+<HEAD>
+<Script Language="JavaScript">
+var userAgent = navigator.userAgent;
+var versionOffset = userAgent.indexOf("Chrome");
+
+if (versionOffset != -1)
+{
+    var fullVersion = userAgent.substring(versionOffset+7);
+    var majorVersion = parseInt(''+fullVersion,10);
+    if (majorVersion >= 42)
+    {
+	var plugins = navigator.plugins;
+	var hasNIPlugin = false;
+	for (var i = 0; i < plugins.length; i++) {
+		if (plugins[i].name.indexOf("National Instruments") != -1) {
+			hasNIPlugin = true;
+		}
+	}
+	if (hasNIPlugin == false) {
+        	document.write('<strong><em>NI has detected that your ' +
+                               'browser might be blocking a plug-in.  '+
+                               'Visit ni.com/info and enter the following '+
+                               'Info Code for more information: '+
+                               'BlockedPlugin</em></strong>')
+	}
+    }
+}
+</Script>
+<TITLE>R30-1 cRIO</TITLE>
+</HEAD>
+<BODY >
+<H1>R30-1 cRIO</H1>
+Remote Front Panel<P>
+<TABLE BORDER=1 BORDERCOLOR = #000000><TR><TD>
+<OBJECT ID="LabVIEWControl" CLASSID="CLSID:A40B0AD4-B50E-4E58-8A1D-8544233807B8" WIDTH=973 HEIGHT=748 CODEBASE="ftp://ftp.ni.com/support/labview/runtime/windows/2016/LVRTE2016min.exe">
+<PARAM name="LVFPPVINAME" value="Control software 2017.lvproj/R30-1-cRIO/R30_1-RT.vi">
+<PARAM name="REQCTRL" value=false>
+<EMBED SRC=".LV_FrontPanelProtocol.rpvi160" LVFPPVINAME="Control software 2017.lvproj/R30-1-cRIO/R30_1-RT.vi" REQCTRL=false TYPE="application/x-labviewrpvi160" WIDTH=973 HEIGHT=748  PLUGINSPAGE="http://digital.ni.com/express.nsf/bycode/exck2m">
+</EMBED>
+</OBJECT>
+</TD></TR></TABLE>
+<P>
+
+</BODY>
+</HTML>

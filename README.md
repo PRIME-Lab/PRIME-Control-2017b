@@ -1,6 +1,6 @@
-# PRIME Lab 2017 Control
+# PRIME Lab 2017b Control
 
-LabVIEW code for controlling both slow- and fast-switching regimes.
+LabVIEW code for controlling both slow-switching regime.
 
 ## Common-Control
 
@@ -45,7 +45,7 @@ Status: code written; deployed to cRIO; cRIO installed but not wired to controll
 VIs opened during startup
 
 ##Tools
-Tools available from Main Control VIs
+Tools available from Main Control VIs and have been updated for new shared variable naming convention.  Molecular beam scaling included along with Flat-Topping.
 
 ##DAQ-related Control
 

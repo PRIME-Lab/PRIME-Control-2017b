@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Draft//EN">
+<HTML>
+<HEAD>
+<Script Language="JavaScript">
+var userAgent = navigator.userAgent;
+var versionOffset = userAgent.indexOf("Chrome");
+
+if (versionOffset != -1)
+{
+    var fullVersion = userAgent.substring(versionOffset+7);
+    var majorVersion = parseInt(''+fullVersion,10);
+    if (majorVersion >= 42)
+    {
+	var plugins = navigator.plugins;
+	var hasNIPlugin = false;
+	for (var i = 0; i < plugins.length; i++) {
+		if (plugins[i].name.indexOf("National Instruments") != -1) {
+			hasNIPlugin = true;
+		}
+	}
+	if (hasNIPlugin == false) {
+        	document.write('<strong><em>NI has detected that your ' +
+                               'browser might be blocking a plug-in.  '+
+                               'Visit ni.com/info and enter the following '+
+                               'Info Code for more information: '+
+                               'BlockedPlugin</em></strong>')
+	}
+    }
+}
+</Script>
+<TITLE>Transmission cRIO</TITLE>
+</HEAD>
+<BODY >
+<H1>Transmission cRIO</H1>
+Remote Front Panel<P>
+<TABLE BORDER=1 BORDERCOLOR = #000000><TR><TD>
+<OBJECT ID="LabVIEWControl" CLASSID="CLSID:A40B0AD4-B50E-4E58-8A1D-8544233807B8" WIDTH=1081 HEIGHT=711 CODEBASE="ftp://ftp.ni.com/support/labview/runtime/windows/2016/LVRTE2016min.exe">
+<PARAM name="LVFPPVINAME" value="Control software 2017.lvproj/EDIT__Trans-cRIO__{E46823D1-7B28-4562-B700-FE127ED02D9D}/Trans-RT.vi">
+<PARAM name="REQCTRL" value=false>
+<EMBED SRC=".LV_FrontPanelProtocol.rpvi160" LVFPPVINAME="Control software 2017.lvproj/EDIT__Trans-cRIO__{E46823D1-7B28-4562-B700-FE127ED02D9D}/Trans-RT.vi" REQCTRL=false TYPE="application/x-labviewrpvi160" WIDTH=1081 HEIGHT=711  PLUGINSPAGE="http://digital.ni.com/express.nsf/bycode/exck2m">
+</EMBED>
+</OBJECT>
+</TD></TR></TABLE>
+<P>
+
+</BODY>
+</HTML>
