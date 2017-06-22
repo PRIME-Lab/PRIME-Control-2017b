@@ -19,11 +19,5 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Source A.vi" Type="VI" URL="../../Beam Line Sections/Source A.vi"/>
-	<Item Name="injector fc open.vi" Type="VI" URL="../../sub-VIs/injector fc open.vi"/>
-	<Item Name="detector  fc open.vi" Type="VI" URL="../../Beamline sections/R30/detector  fc open.vi"/>
-	<Item Name="Low energy end llb.lvlib" Type="Library" URL="../../low energy end/Low energy end/Low energy end llb.lvlib"/>
-	<Item Name="High energy llb.lvlib" Type="Library" URL="../../High energy end/High energy llb.lvlib"/>
-	<Item Name="transmission.lvlib" Type="Library" URL="../../Transmission/transmission.lvlib"/>
-	<Item Name="R30  library.lvlib" Type="Library" URL="../../R30/R30  library.lvlib"/>
 	<Item Name="R45.vi" Type="VI" URL="../../Beam Line Sections/R45.vi"/>
 </Library>

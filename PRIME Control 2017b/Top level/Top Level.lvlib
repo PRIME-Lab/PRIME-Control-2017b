@@ -4,9 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="beam cup control - old.vi" Type="VI" URL="../beam cup control - old.vi"/>
 	<Item Name="beam cup control.vi" Type="VI" URL="../beam cup control.vi"/>
 	<Item Name="conditioning monitor.vi" Type="VI" URL="../conditioning monitor.vi"/>
 	<Item Name="count rate.vi" Type="VI" URL="../count rate.vi"/>
+	<Item Name="CPU Average.vi" Type="VI" URL="../CPU Average.vi"/>
+	<Item Name="cRIO Memory Perc Calc.vi" Type="VI" URL="../../sub-VIs/cRIO Memory Perc Calc.vi"/>
 	<Item Name="cRIO ping.vi" Type="VI" URL="../../sub-VIs/cRIO ping.vi"/>
 	<Item Name="Large current measurement readings.vi" Type="VI" URL="../Large current measurement readings.vi"/>
 	<Item Name="Operations Monitor.vi" Type="VI" URL="../Operations Monitor.vi"/>
