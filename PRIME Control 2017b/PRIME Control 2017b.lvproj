@@ -1461,7 +1461,6 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
-				<Item Name="Parse Address String.vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_gpibsup.llb/Parse Address String.vi"/>
 				<Item Name="IVI Error Message Builder.vi" Type="VI" URL="/&lt;vilib&gt;/errclust.llb/IVI Error Message Builder.vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
@@ -1485,9 +1484,6 @@
 			<Item Name="Flat top control settings.ctl" Type="VI" URL="../Controls/Flat top control settings.ctl"/>
 			<Item Name="shift currents.vi" Type="VI" URL="../Current measurements/shift currents.vi"/>
 			<Item Name="prev-save-load-enum.ctl" Type="VI" URL="../Controls/prev-save-load-enum.ctl"/>
-			<Item Name="keithly1.lvlib" Type="Library" URL="../keithley/keithly1.lvlib"/>
-			<Item Name="Keith 7001 change values.vi" Type="VI" URL="../keithley/Keith 7001 change values.vi"/>
-			<Item Name="faraday switch.vi" Type="VI" URL="../sub-VIs/faraday switch.vi"/>
 			<Item Name="KE6485 Read.vi" Type="VI" URL="../keithley/KE6485/KE6485.LLB/KE6485 Read.vi"/>
 			<Item Name="KE6485 Write Instrument Data.vi" Type="VI" URL="../keithley/KE6485/KE6485.LLB/KE6485 Write Instrument Data.vi"/>
 			<Item Name="KE6485 Configure DC Current Sense.vi" Type="VI" URL="../keithley/KE6485/KE6485.LLB/KE6485 Configure DC Current Sense.vi"/>
@@ -14334,8 +14330,21 @@ DirectoryIndex index.htm
 			</Item>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="FB Overlay DBL.ctl" Type="VI" URL="/&lt;vilib&gt;/functionblocks/FB Property/FB Overlay DBL.ctl"/>
+				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
+				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
+			</Item>
 			<Item Name="Faraday cup states.ctl" Type="VI" URL="../Controls/Faraday cup states.ctl"/>
 			<Item Name="GV states.ctl" Type="VI" URL="../Controls/GV states.ctl"/>
+			<Item Name="GP307 cluster.ctl" Type="VI" URL="../GP307 cluster.ctl"/>
+			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="GV status converter.vi" Type="VI" URL="../sub-VIs/GV status converter.vi"/>
+			<Item Name="Gate Valve Readback.ctl" Type="VI" URL="../Controls/Gate Valve Readback.ctl"/>
+			<Item Name="Faraday status converter.vi" Type="VI" URL="../sub-VIs/Faraday status converter.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Trans-RT" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
